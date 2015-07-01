@@ -1,0 +1,1174 @@
+2009-07-27 20:53:20 +0000    @Hexacta    Hexacta    Microsoft Research Faculty Summit 2009 http://url4.eu/9CQu
+2009-07-27 20:53:21 +0000    @Hexacta    Hexacta    TDD vs After Testing (1/2) http://url4.eu/9CQv
+2009-07-27 20:53:22 +0000    @Hexacta    Hexacta    Is Autonomic Computing a new era in Computer Science? http://url4.eu/9CQw
+2009-07-27 20:53:23 +0000    @Hexacta    Hexacta    What will be the impact of Sunday’s election on the software industry in Argentina? http://url4.eu/9CQx
+2009-07-27 20:53:24 +0000    @Hexacta    Hexacta    Why do we keep searching for unifying theories for software development? http://url4.eu/9CQy
+2009-07-29 19:54:25 +0000    @Hexacta    Hexacta    A change in focus for Software Engineering http://url4.eu/9VYP
+2009-08-04 19:40:08 +0000    @Hexacta    Hexacta    Team Foundation Server from within Eclipse http://url4.eu/B0Bm
+2009-08-20 17:11:20 +0000    @Hexacta    Hexacta    Significant Design Up Front, When? http://url4.eu/GsqI
+2009-10-05 20:50:15 +0000    @Hexacta    Hexacta    Our website featured in Latin IT Marketing Top 10 Sites of LatAm software companies http://bit.ly/4CqZAb
+2009-10-23 10:17:31 +0000    @Hexacta    Hexacta    Co-evolution – Brooks did it again http://url4.eu/dz7z
+2009-10-29 19:42:04 +0000    @Hexacta    Hexacta    New Blog Post: Is Semantic Web the Web 3.0? (I) http://2tu.us/1046
+2009-11-02 15:32:30 +0000    @Hexacta    Hexacta    Buscamos desarrolladores .Net con 2 años de experiencia, muy buen nivel de inglés y excelente background académico.http://bit.ly/2nHuCq
+2009-12-07 13:41:57 +0000    @Hexacta    Hexacta    Hexacta, elected by CESSI as the best IT company of the year! http://bit.ly/8TSTZJ - http://bit.ly/61187a
+2009-12-09 19:45:41 +0000    @Hexacta    Hexacta    Montevideo: buscamos testers y devs con experiencia en aplicaciones Web.Buen rendimiento académico e inglés. http://bit.ly/2nHuCq
+2010-01-19 15:41:22 +0000    @Hexacta    Hexacta    Job Opening: Tester Junior. Systems degree student to be trained as tester. Req: Good academic performance & English. http://bit.ly/2nHuCq
+2010-01-19 18:08:36 +0000    @Hexacta    Hexacta    Job Opening: Marketing Manager. REQ: at least 6 years of experience in services business or BtoB. English proficiency. http://bit.ly/2nHuCq
+2010-01-21 18:42:02 +0000    @Hexacta    Hexacta    Job Opening: Accountant with at least 3 yrs of exp. to work in administration and accounting. RQ: english proficiency. http://bit.ly/2nHuCq
+2010-04-13 20:18:08 +0000    @Hexacta    Hexacta    On the cruelty of trying to be a software engineer: Last month I had the chance to go back to Carnegie Mellon, .. http://bit.ly/aclzcX
+2010-04-16 19:39:35 +0000    @Hexacta    Hexacta    Is decision making a key skill for software engineers?: A few weeks ago I attended the 23rd annual software engine... http://bit.ly/9ON3r3
+2010-05-06 18:15:24 +0000    @Hexacta    Hexacta    New Job Openings: Sr and Ssr Java Developers. Send CV to careers@hexacta.com.
+2010-05-13 20:31:04 +0000    @Hexacta    Hexacta    Job Opening - BsAs: Tester SSr.Req. verifiable experience in the area. Send CV to careers@hexacta.com.
+2010-05-13 20:39:27 +0000    @Hexacta    Hexacta    Job Opening - Paraná: Java Dev.Req. at least 2 yrs of verifiable experience. Excellent academic performance & English - careers@hexacta.com
+2010-05-27 14:14:21 +0000    @Hexacta    Hexacta    New blog post: Latam vs. India http://blog.hexacta.com/latam-vs-india/
+2010-05-28 12:55:37 +0000    @Hexacta    Hexacta    Hexacta is finalist in the European Software Institute (ESI) Awards in the Internatinal Category  http://awards.esi.es/
+2010-06-04 12:58:13 +0000    @Hexacta    Hexacta    Hexacta winner of the Excellence Award Galicia-La Nacion  as the most Innovative Technological Export in Argentina http://bit.ly/ai54Td
+2010-07-02 16:35:40 +0000    @Hexacta    Hexacta    Post Edited: Representación numérica en Java, a cuidar los centavitos ... http://bit.ly/bLJgjz
+2010-07-05 18:32:51 +0000    @Hexacta    Hexacta    New post: Innovation in Offshore Relationships http://cli.gs/gELeq
+2010-07-05 19:01:58 +0000    @Hexacta    Hexacta    Innovation in Offshore Relationships: The other day I ran into a very interesting McKinsey article. It describes h... http://bit.ly/9WuXnS
+2010-07-13 19:22:08 +0000    @Hexacta    Hexacta    New post: SEAFOOD Presentation http://cli.gs/0MypL
+2010-07-13 20:12:37 +0000    @Hexacta    Hexacta    SEAFOOD Presentation: Last month I presented at SEAFOOD 2010 a paper we wrote with Carlos Pallotti about Argentina... http://bit.ly/9gUpA2
+2010-07-15 19:05:15 +0000    @Hexacta    Hexacta    New post: Desarrollando aplicaciones mobile con Titanium http://bit.ly/9NkuZ2
+2010-07-19 23:04:13 +0000    @Hexacta    Hexacta    New post: SEMAT - A new hope? http://cli.gs/3zUdg
+2010-07-20 00:39:08 +0000    @Hexacta    Hexacta    SEMAT – A new hope?: During the SEAFOOD conference I attended in June we had a Keynote from Ivar Jacobson where he... http://bit.ly/9mLRfY
+2010-07-26 15:02:24 +0000    @Hexacta    Hexacta    New post: Desarrollando aplicaciones mobile con Titanium http://bit.ly/9NkuZ2
+2010-07-27 17:25:03 +0000    @Hexacta    Hexacta    New post: Iteradores en JAVA http://bit.ly/9FWRfr
+2010-07-28 16:33:21 +0000    @Hexacta    Hexacta    New post: Software Engineering versus Software Management  http://cli.gs/r30nr
+2010-07-28 16:54:12 +0000    @Hexacta    Hexacta    Software Engineering versus Software Management: Before getting into discussions about SEMAT I need to talk about ... http://bit.ly/9kThuV
+2010-07-29 20:53:53 +0000    @Hexacta    Hexacta    New post: SQL Server Performance Tools http://bit.ly/a4VZsY
+2010-08-03 16:32:00 +0000    @Hexacta    Hexacta    New post: Web services en Java con JAXWS http://bit.ly/97BdyS
+2010-08-04 12:57:47 +0000    @Hexacta    Hexacta    MBA Students of the Berkeley University will visit today Hexacta´s Buenos Aires Office
+2010-08-06 04:30:10 +0000    @Hexacta    Hexacta    New post: Custom Look and Feel con Eclipse RCP http://bit.ly/aUJCaV
+2010-08-10 14:02:23 +0000    @Hexacta    Hexacta    Razor - Un nuevo view engine para ASP.Net
+2010-08-12 19:59:41 +0000    @Hexacta    Hexacta    New post: El impacto del uso de HTML5 y Microformatos en el SEO http://bit.ly/9HdHZl
+2010-08-13 18:41:56 +0000    @Hexacta    Hexacta    New post: Fluent nHibernate http://bit.ly/cRIxrJ
+2010-08-17 17:38:41 +0000    @Hexacta    Hexacta    New post: XML en SqlServer http://bit.ly/cliPiw
+2010-08-18 13:22:20 +0000    @Hexacta    Hexacta    Presentes en el CNEISI 2010 – Santa Fe.
+2010-08-31 17:48:19 +0000    @Hexacta    Hexacta    New post: Monitoreando aplicaciones JAVA con jAMON y VisualVM http://bit.ly/cwiX9X
+2010-09-06 17:05:30 +0000    @Hexacta    Hexacta    More comments on SEMAT: I’d like to go back to the SEMAT discussion. As I mentioned in my previous post, I believe... http://bit.ly/bE4ZpN
+2010-09-07 13:04:42 +0000    @Hexacta    Hexacta    Hexacta featured as a 2010 Global Services Top 100 provider in the 5th GS100 study conducted by Global Services and NeoAdvisory
+2010-09-10 18:00:14 +0000    @Hexacta    Hexacta    New post: Fluent NHibernate Parte 2 http://bit.ly/a5rayU
+2010-09-30 21:08:15 +0000    @Hexacta    Hexacta    HEXACTA abre oficinas en USA, invirtierte US$ 500.000. CEO Juan Navarro lidera la operación.   http://bit.ly/cBud9S
+2010-10-04 18:40:54 +0000    @Hexacta    Hexacta    New post: Argentinean Key Factors for Success http://cli.gs/MpRYu
+2010-10-04 19:02:57 +0000    @Hexacta    Hexacta    Argentinean Key Factors for Success: A recent survey presented by Capgemini highlights the top factors listed by 3... http://bit.ly/9vSJLe
+2010-10-18 18:58:48 +0000    @Hexacta    Hexacta    Sumate al nuevo grupo Hexacta de recruting en LinkedIn!
+http://tinyurl.com/39v28hj
+2010-10-25 13:45:48 +0000    @Hexacta    Hexacta    El grupo LinkedIn de Recruting Hexacta ya sumo 380 personas! http://tinyurl.com/39v28hj
+2010-10-25 18:03:41 +0000    @Hexacta    Hexacta    New post: Outsourced Development Myths http://cli.gs/HVP5Y
+2010-10-25 18:48:33 +0000    @Hexacta    Hexacta    Outsourced Development Myths: In a global economy where productivity is rising in many segments and production cos... http://bit.ly/cKuuIP
+2010-10-26 14:50:02 +0000    @Hexacta    Hexacta    New post: Animaciones CSS3 en aplicaciones web para iPad/iPhone http://bit.ly/aWUDe1
+2010-10-28 17:28:16 +0000    @Hexacta    Hexacta    Hexacta presente en el 2do Foro PerspecTIvas 2011
+2010-10-30 15:20:38 +0000    @Hexacta    Hexacta    Thank you so much, Watts Humphrey: I learned today that Watts Humphrey died yesterday. His obituary from the SEI c... http://bit.ly/aFVxr5
+2010-11-01 20:41:46 +0000    @Hexacta    Hexacta    New post: Bases de datos NoSQL http://bit.ly/bZR1eV
+2010-11-05 11:10:01 +0000    @Hexacta    Hexacta    New post: Bases de datos NoSQL - Parte 2 http://bit.ly/aQNdF6
+2010-11-11 18:42:23 +0000    @Hexacta    Hexacta    Hexacta, en el 2do puesto de mejores empresas para trabajar en Argentina en el ranking Great Place to Work 2010 http://bit.ly/bVeuoE
+2010-11-11 22:52:26 +0000    @Hexacta    Hexacta    New post: Bases de datos NoSQL : MongoDB http://bit.ly/cjTv1G
+2010-11-12 12:27:30 +0000    @Hexacta    Hexacta    New post: Bases de datos NoSQL : MongoDB http://bit.ly/cjTv1G
+2010-11-12 18:36:40 +0000    @Hexacta    Hexacta    Buscamos desarrolladores Python/django con ingles! careers@hexacta.com ref. PYTHON !
+2010-11-16 18:48:48 +0000    @Hexacta    Hexacta    New post: Db4o http://bit.ly/dAdZtf
+2010-11-16 20:13:40 +0000    @Hexacta    Hexacta    New post: Hexacta at GoogleDevFest Argentina
+2010-11-16 20:23:36 +0000    @Hexacta    Hexacta    Hexacta at GoogleDevFest Argentina: For the past few years, Google has been hosting DevFest events in several ci... http://bit.ly/cmacJc
+2010-11-24 13:19:43 +0000    @Hexacta    Hexacta    New post: Google App Engine http://bit.ly/fFQbup
+2010-11-30 13:50:30 +0000    @Hexacta    Hexacta    New post: Google Dev Fest: Android http://bit.ly/hqqKsy
+2010-12-09 19:19:44 +0000    @Hexacta    Hexacta    New post: Apacheando Tomcat! http://bit.ly/dR3GDn
+2011-01-05 19:49:34 +0000    @Hexacta    Hexacta    Hexacta Seleccionada como Host Company por el MIT Global Entrepreneurship Laboratory (G-Lab) http://bit.ly/fMHqx2
+2011-02-02 15:20:51 +0000    @Hexacta    Hexacta    Hexacta Blog - What makes Argentina an attractive hub for American companies?
+2011-02-02 16:00:01 +0000    @Hexacta    Hexacta    What makes Argentina an attractive hub for American companies: Argentina isn’t the first country that comes to m... http://bit.ly/eTv53u
+2011-02-03 14:43:15 +0000    @Hexacta    Hexacta    New post: Listening to John Von Neumann
+2011-02-03 15:10:51 +0000    @Hexacta    Hexacta    Listening to John Von Neumann: While at Carnegie Mellon in 92-93 I became very interested in the history of comp... http://bit.ly/es1OcR
+2011-02-07 13:46:31 +0000    @Hexacta    Hexacta    2da MEJOR EMPRESA PARA TRABAJAR EN ARGENTINA 2010.
+2011-02-07 22:46:02 +0000    @Hexacta    Hexacta    New post: ¿Rapid Web Application Development? / Salen con fritas
+2011-02-22 15:27:17 +0000    @Hexacta    Hexacta    New post: Is Agile the next step for the US Federal Go http://blog.hexacta.com/blog/2011/02/22/is-agile-the-next-step-us-federal-government/
+2011-02-22 16:20:14 +0000    @Hexacta    Hexacta    Is Agile the next step for the US Federal Government?: A few months ago I was referred to the recently published... http://bit.ly/i8eP19
+2011-02-28 19:55:53 +0000    @Hexacta    Hexacta    To win the future, you have to start in middle school: Last week, we were discussing with Santiago Ceria about s... http://bit.ly/e4pSCK
+2011-03-03 15:42:20 +0000    @Hexacta    Hexacta    HEXACTA ganó el European Seal of E-Excellence 2011 - http://bit.ly/fW7VTE
+2011-03-09 18:03:26 +0000    @Hexacta    Hexacta    New post: It’s the end of the world as we know  http://blog.hexacta.com/blog/2011/03/09/it’s-the-end-of-the-world-as-we-know-it/
+2011-03-09 18:18:15 +0000    @Hexacta    Hexacta    It’s the end of the world as we know it: We are all familiar with Moore’s law. At least all of us in IT. It’s th... http://bit.ly/eozyFs
+2011-03-16 15:07:17 +0000    @Hexacta    Hexacta    New post: TestNG vs. JUnit http://bit.ly/hxroyE
+2011-03-18 12:52:58 +0000    @Hexacta    Hexacta    Hexacta Recruting group | LinkedIn http://lnkd.in/g-R3ke
+2011-03-22 18:05:50 +0000    @Hexacta    Hexacta    New post: Diseño: Double Dispatch http://bit.ly/gWHc2U
+2011-03-30 15:18:20 +0000    @Hexacta    Hexacta    New post: GAE + Spring MVC (Parte 1) http://bit.ly/eUGWYX
+2011-04-04 15:24:49 +0000    @Hexacta    Hexacta    New post: Concurrencia en Erlang http://bit.ly/hLpICK
+2011-04-05 19:29:25 +0000    @Hexacta    Hexacta    Encuesta Grupo Hexacta Recruting en LinkedIn. Cuál de los siguientes beneficios valoras mas en tu empresa. http://linkd.in/fG7oDp
+2011-04-05 19:39:45 +0000    @Hexacta    Hexacta    Encuesta: Cuál de los siguientes beneficios valoras mas en tu empresa. http://lnkd.in/w_2cH6
+2011-04-11 12:38:01 +0000    @Hexacta    Hexacta    New post: GAE + Spring MVC (Parte 2) http://bit.ly/hJLonT
+2011-04-28 18:28:42 +0000    @Hexacta    Hexacta    Hexacta speaker en el Microsoft Visual Studio Team Foundation Server 2010  http://bit.ly/i1GjBa
+2011-04-29 20:22:46 +0000    @Hexacta    Hexacta    New post: 10 Plugins gratuitos para Visual Studio 2010 http://bit.ly/iE59Ms
+2011-05-03 21:44:20 +0000    @Hexacta    Hexacta    New post: La base está http://bit.ly/jiwukp
+2011-05-13 15:07:55 +0000    @Hexacta    Hexacta    Articulo Santiago Ceria, Director Ejecutivo de la Fundación Sadosky. http://bit.ly/jlFbjt
+2011-05-13 19:52:53 +0000    @Hexacta    Hexacta    New post: Integración de Visual Studio con Lync http://bit.ly/kNiCBq
+2011-05-18 21:17:33 +0000    @Hexacta    Hexacta    Hexacta Keeps Growing and Exporting to Non-Traditional Destinations. http://bit.ly/iUNU7R
+2011-06-01 14:41:03 +0000    @Hexacta    Hexacta    Charla sobre Hexacta en la Univ. Nacional del Sur (Bahía Blanca) en Conferencia de Empresas, 15 de Junio 18hs +información psoto@hexacta.com
+2011-06-03 21:16:17 +0000    @Hexacta    Hexacta    ¿Consideras que las horas de capacitación que te brinda tu empresa son? http://linkd.in/j4MSgC
+2011-06-14 16:44:26 +0000    @Hexacta    Hexacta    New post: Nuevo http://blog.hexacta.com/2011/06/14/nuevo/
+2011-06-15 14:41:42 +0000    @Hexacta    Hexacta    New post: Integración de Visual Studio con Lync http://bit.ly/kNiCBq
+2011-06-15 14:55:30 +0000    @Hexacta    Hexacta    New post: La base está http://bit.ly/jiwukp
+2011-06-15 14:58:15 +0000    @Hexacta    Hexacta    New post: 10 Plugins gratuitos para Visual Studio 2010 http://bit.ly/iE59Ms
+2011-06-15 15:01:30 +0000    @Hexacta    Hexacta    New post: GAE + Spring MVC (Parte 2) http://bit.ly/hJLonT
+2011-06-17 13:11:26 +0000    @Hexacta    Hexacta    New post: The Cloud http://blog.hexacta.com/blog/2011/06/17/the-cloud/
+2011-06-17 13:18:23 +0000    @Hexacta    Hexacta    Nuevo Hexacta blog post: Cloud Computing http://t.co/nMPwfJd
+2011-06-17 13:40:55 +0000    @Hexacta    Hexacta    The Cloud: Some years ago the idea of using “the cloud” came up as an option to host our software developments, ... http://bit.ly/l31tZE
+2011-06-21 14:10:21 +0000    @Hexacta    Hexacta    Blog-post: Argentina Outsourcing Competitiveness in Nut-shell
+2011-06-21 14:50:55 +0000    @Hexacta    Hexacta    Argentina Outsourcing Competitiveness in Nut-shell: I came across a very good website called “Sourcingline” that... http://bit.ly/iUC4PN
+2011-06-29 17:54:55 +0000    @Hexacta    Hexacta    New Hexacta Blog Post
+2011-06-29 18:39:16 +0000    @Hexacta    Hexacta    “Many licenses are totally ridiculous”: Linus Benedict Torvalds (Helsinki, Finland, December 28th, 1969) is the ... http://bit.ly/mrwWSO
+2011-07-01 18:07:34 +0000    @Hexacta    Hexacta    Hexacta nuevamente incluida en la lista de las Top 100 empresas que definen el negocio global de Outsourcing  (GS100) http://t.co/oeyoMzF
+2011-07-06 15:56:10 +0000    @Hexacta    Hexacta    New post: Mercurial: distribuye y reinarás http://bit.ly/oKXqxt
+2011-07-19 12:58:13 +0000    @Hexacta    Hexacta    New post: Smartphones Market Trends http://blog.hexacta.com/blog/2011/07/19/smartphones-market-trends/
+2011-07-19 13:12:42 +0000    @Hexacta    Hexacta    Smartphones Market Trends: Smartphones are in everyday lives. If you want to order a pizza, book a flight ticket... http://bit.ly/omgWDK
+2011-07-22 13:09:33 +0000    @Hexacta    Hexacta    De mudanza en Hexacta Bs As. nuevas oficinas en: Clay 2954 C1426. Nuestro nuevo telefono +11 5299 5400
+2011-08-02 20:15:44 +0000    @Hexacta    Hexacta    Hexacta lanza su Nuevo Sitio de RRHH - te invitamos a conocerlo! http://t.co/c5S1z5k
+2011-08-03 20:33:28 +0000    @Hexacta    Hexacta    New post: Lack of IT resources http://blog.hexacta.com/blog/2011/08/03/lack-of-it-resources/
+2011-08-11 20:05:19 +0000    @Hexacta    Hexacta    New post: Smartphones Market Trends http://blog.hexacta.com/blog/2011/08/11/smartphones-market-trends-2/
+2011-08-11 20:55:13 +0000    @Hexacta    Hexacta    Smartphones Market Trends: Smartphones are part of our everyday reality. If you want to order a pizza, book a fl... http://bit.ly/pQECUh
+2011-08-16 18:40:59 +0000    @Hexacta    Hexacta    Próximos cursos CSD en Hexacta. Comienzan a mediados de Septiembre de 2011. + info: scrum@hexacta.com .  http://t.co/muVWvu4
+2011-08-18 16:56:07 +0000    @Hexacta    Hexacta    New post: GIS http://t.co/NdJDMAE
+2011-08-18 17:21:38 +0000    @Hexacta    Hexacta    Como definirias a HEXACTA? - La encuesta es totalmente anónima- http://t.co/iOs0T5l
+2011-08-19 19:46:33 +0000    @Hexacta    Hexacta    New post: Promulgation of the Software Law http://t.co/Q40KxZG
+2011-08-19 20:00:40 +0000    @Hexacta    Hexacta    Promulgation of the Software Law: The law provides tax benefits to exporter companies. In the last six years thi... http://t.co/vKF1Uwx
+2011-08-29 13:48:00 +0000    @Hexacta    Hexacta    New post: GIS: Google Maps, en su maxima expresión! http://t.co/UZ0H7tR
+2011-08-29 13:50:11 +0000    @Hexacta    Hexacta    New post: Who sets the global “G” family standar http://t.co/Q0Z6mMW
+2011-08-29 14:36:13 +0000    @Hexacta    Hexacta    Who sets the global “G” family standards?: Over the last weeks I have been involved in a company´s marketing ini... http://t.co/2S37VhU
+2011-09-01 20:07:57 +0000    @Hexacta    Hexacta    New post: TestNG vs. JUnit http://t.co/Lsnw7PP
+2011-09-05 19:40:21 +0000    @Hexacta    Hexacta    New post: Telcom Industry, Global Economic Melt-do http://t.co/fDtnekL
+2011-09-05 20:37:39 +0000    @Hexacta    Hexacta    Telcom Industry, Global Economic Melt-down Proved: This industry covers land lines, mobile phones, broadband Int... http://t.co/Gy8HeaZ
+2011-09-07 14:20:26 +0000    @Hexacta    Hexacta    New post: Microsoft Sync Framework http://t.co/qOdkfid
+2011-09-12 13:27:54 +0000    @Hexacta    Hexacta    New post: GIS: Bing Maps Contraataca! http://t.co/pdAwOYH
+2011-09-13 19:51:10 +0000    @Hexacta    Hexacta    New post: Google acquired Motorolla Wi http://t.co/qUC5mEu
+2011-09-13 20:16:28 +0000    @Hexacta    Hexacta    Google acquired Motorolla Wireless for 12,500 million dollars: The atmosphere in the current market is odd and u... http://t.co/KN77f9N
+2011-09-20 14:46:33 +0000    @Hexacta    Hexacta    New post: Argentina: one of the main destina http://t.co/RXrLk5CH
+2011-09-20 15:20:35 +0000    @Hexacta    Hexacta    Argentina: one of the main destinations for outsourcing: The arrival of multinational computing and IT companies... http://t.co/0NS6MWmy
+2011-09-22 15:09:37 +0000    @Hexacta    Hexacta    New post: GIS - Bases de datos espaciales - PostGIS http://t.co/kRRB9EP3
+2011-09-27 18:09:21 +0000    @Hexacta    Hexacta    New post: Hexacta sponsor http://t.co/zTfJ3f3R
+2011-09-27 18:58:52 +0000    @Hexacta    Hexacta    Hexacta sponsors the 4th Latin American Conference on Agile Methodologies: The event that has gathered enthusias... http://t.co/nEjlSaeE
+2011-10-03 14:58:49 +0000    @Hexacta    Hexacta    New post: GIS - Visualizando un mapa con MapServer http://t.co/6MvElwkt
+2011-10-04 18:50:32 +0000    @Hexacta    Hexacta    New post: Argentina’s path to e-government http://t.co/IcdFDtOg’s-path-to-e-government/
+2011-10-04 19:16:32 +0000    @Hexacta    Hexacta    Argentina’s path to e-government: The emergence of New Information Technologies and Communication Technologies (... http://t.co/WEd0qHHn
+2011-10-20 17:14:49 +0000    @Hexacta    Hexacta    New post: Interoperabilidad Java | .NET http://t.co/B9YwQd71
+2011-10-21 19:46:12 +0000    @Hexacta    Hexacta    New post: RIM BlackBerrys will be manufactured in http://t.co/L991RlFv
+2011-10-21 19:52:38 +0000    @Hexacta    Hexacta    BlackBerrys will be manufactured in Argentina: Research In Motion (RIM), the Canadian company that manufactures ... http://t.co/K2IGvT9t
+2011-10-27 18:09:07 +0000    @Hexacta    Hexacta    New post: Drap and drop para diseñar una pantalla en Android, ¿es posible? http://t.co/h4gFJL3E
+2011-10-31 17:51:12 +0000    @Hexacta    Hexacta    RT @leandropadula: Build Modern Web Applications with #HTML5, #CSS3 and #JavaScript: http://t.co/CTmKanaA
+2011-11-01 13:49:44 +0000    @Hexacta    Hexacta    RT @luisbroeders: Fotos de la construcción en Escobar, @Hexacta + @UnTecho_Arg | http://t.co/idBNQj1w
+2011-11-01 14:28:55 +0000    @Hexacta    Hexacta    RT @leandropadula: RT @AndroidDev: Android 4.0 Graphics and Animations: http://t.co/7RsP5d6f
+2011-11-01 17:26:26 +0000    @Hexacta    Hexacta    RT @TechCrunch: Google Cleans Up Gmail With New Design And Better Search http://t.co/g6n4tEdx by @erickschonfeld
+2011-11-01 17:38:09 +0000    @Hexacta    Hexacta    New post: Geographic Information Systems http://t.co/pYjYchSl
+2011-11-01 17:38:40 +0000    @Hexacta    Hexacta    New post: Geographic Information Systems http://t.co/XNeWJOQR
+2011-11-01 17:45:34 +0000    @Hexacta    Hexacta    Geographic Information Systems: For some years it has been observed the use of Geographic Information Systems in... http://t.co/Pdx9vHio
+2011-11-02 13:14:58 +0000    @Hexacta    Hexacta    Una mañana en Hexacta... http://t.co/w1TQI8rV
+2011-11-03 11:22:30 +0000    @Hexacta    Hexacta    RT @DZone: Git for beginners: The definitive practical guide - http://t.co/pkhaeZwh - @DZone Big Link by mhh91
+2011-11-04 00:17:19 +0000    @Hexacta    Hexacta    Jquery 1.7 liberado http://t.co/hIv3NX16,  mejoras de performance, mayor soporte HTML5, eventos on/off, toggle animations y más. #techie
+2011-11-04 12:56:12 +0000    @Hexacta    Hexacta    MongoDB vs. RDBMS Schema Design  http://t.co/Q3uxMEDh  #techie
+2011-11-04 15:05:00 +0000    @Hexacta    Hexacta    New post: Atributos de Assembly redundantes con Visual Studio http://t.co/ij4cz39k
+2011-11-04 15:06:43 +0000    @Hexacta    Hexacta    RT @newsycombinator: Linus Torvalds: Software and Process Patents Don't Make Sense http://t.co/qnO9nwc3
+2011-11-04 15:15:04 +0000    @Hexacta    Hexacta    Los invitamos al 1° ENCUENTRO DE OPORTUNIDADES EN LAS TIC's, Mujeres y Tecnología. 7 de Noviembre, 18:30 hs. UTN FRBA. Medrano 951.
+2011-11-07 11:37:44 +0000    @Hexacta    Hexacta    RT @mhevery: Compare the JavaScript MVC frameworks through TODO sample apps: http://j.mp/niuEmV This is great!
+2011-11-07 13:17:10 +0000    @Hexacta    Hexacta    RT @smashingmag: Eclipse launches new language to cut down Java boilerplate - Extend - http://t.co/XVFWL8ou
+2011-11-07 13:18:31 +0000    @Hexacta    Hexacta    RT @DZone: jQuery 1.7 : Event handling in a better, simplified and consolidated way - http://t.co/ucn37SrV - @DZone Big Link by mswatcher
+2011-11-07 16:07:27 +0000    @Hexacta    Hexacta    InfoQ: Distributed Cache as a NoSQL Data Store?: http://t.co/KlYoqion via @AddThis #techie
+2011-11-07 16:45:32 +0000    @Hexacta    Hexacta    Double Entry Bookkeeping Dilemma. Should I Invest or Not?  http://t.co/5hdLxtN5 via @unclebobmartin #techie
+2011-11-07 22:47:55 +0000    @Hexacta    Hexacta    Mujeres en tecnología - UTN http://t.co/B1UDzCGA
+2011-11-07 22:50:32 +0000    @Hexacta    Hexacta    Mujeres en tecnología - UTN http://t.co/xlsAmqGC
+2011-11-08 13:23:27 +0000    @Hexacta    Hexacta    RT @DZone: "Mastering the HTML5 audio tag" http://t.co/E17AEE8D #HTML5
+2011-11-08 13:23:48 +0000    @Hexacta    Hexacta    RT @TechCrunch: American Express Launches $100M Fund To Invest In Digital Commerce Startups http://t.co/i43RWpSd by @leenarao
+2011-11-09 11:38:14 +0000    @Hexacta    Hexacta    Apache load balancing for Tomcat - http://t.co/8mMNkKX8 - @DZone #techie
+2011-11-09 14:13:33 +0000    @Hexacta    Hexacta    @nicolasgnr  Nicolás Mouso y toda su isla fueron los ganadores del concurso de Halloween. Felicitaciones!
+2011-11-09 17:51:16 +0000    @Hexacta    Hexacta    New! HTML 5 and CSS: Six Complete Lessons : http://t.co/GzOlLZjX #techie
+2011-11-09 18:35:45 +0000    @Hexacta    Hexacta    RT @eapesteguia: Un temita dedicado a #Flash para móviles y a #Gmail para BB http://t.co/lst8L4dP ♫
+2011-11-09 21:02:40 +0000    @Hexacta    Hexacta    Modularizing the Hibernate SessionFactory with the Spring framework and OSGI http://t.co/Kf0o9Iv3 #techie
+2011-11-09 22:56:02 +0000    @Hexacta    Hexacta    RT @fabiogasparri: @Hexacta   sexta en Great Place to Work!! 
+VAMOS HEXACTAAAAAAAAA #gptw
+2011-11-10 15:44:45 +0000    @Hexacta    Hexacta    VIDEO: Better Productivity: GRAILS 2.0 http://t.co/oqtKs5FJ  @SpringSource #techie
+2011-11-10 17:38:57 +0000    @Hexacta    Hexacta    Kanban applied to Scrum http://t.co/7hCuI5k5 via @youtube  #techie
+2011-11-14 19:07:39 +0000    @Hexacta    Hexacta    GIS: For some years it has been observed the use of Geographic Information Systems in commercial applications be... http://t.co/UO29NtRJ
+2011-11-15 17:15:19 +0000    @Hexacta    Hexacta    InfoQ: Pair Programming: Side-by-Side or Face-to-Face: http://t.co/cf5ZnNDT via @AddThis #techie
+2011-11-15 17:17:05 +0000    @Hexacta    Hexacta    11 Kernel Vulnerabilities in Ubuntu 10.04 LTS. Upgrade Now. http://t.co/EXZ9PhIi via @softpedia #techie
+2011-11-15 20:08:20 +0000    @Hexacta    Hexacta    10 Free Plugins for Visual Studio 2010: Visual Studio 2010 opened to the plugins world. The new Extension Manage... http://t.co/tF4CWjV6
+2011-11-15 20:40:45 +0000    @Hexacta    Hexacta    Java Unit Testing with Unitils http://t.co/Twj6DhaT [Slide 24], testear que todos los mappings de hibernate sean correctos #techie
+2011-11-16 18:42:34 +0000    @Hexacta    Hexacta    Top 10 Reasons Java Programs Envy Scala by Graham Lea on Prezi http://t.co/6epAVO41 #techie
+2011-11-16 19:49:14 +0000    @Hexacta    Hexacta    Hexacta is one of the 500 leading Software Companies in the world: Hexacta was included in Software Magazine’s S... http://t.co/VdzLKne0
+2011-11-17 15:22:11 +0000    @Hexacta    Hexacta    Measuring and Tuning Garbage Collection in Apache Tomcat http://t.co/EJjBqdfU #techie
+2011-11-17 15:23:14 +0000    @Hexacta    Hexacta    InfoQ: Google Has Open Sourced Android 4.0: http://t.co/JRNP1xO7 via #techie
+2011-11-17 18:38:56 +0000    @Hexacta    Hexacta    InfoQ: The Kotlin Programming Language (JVM-based language) : http://t.co/xXEIXu0o #techie
+2011-11-18 13:54:29 +0000    @Hexacta    Hexacta    [Paper - Google] Large-scale Incremental Processing
+Using Distributed Transactions and Notiﬁcations http://t.co/w6ZfglDT
+2011-11-18 14:50:41 +0000    @Hexacta    Hexacta    What’s New in SQL Server 2012 RC0 http://t.co/h8qkPVwL  #techie
+2011-11-18 14:52:54 +0000    @Hexacta    Hexacta    Google Eclipse Plugin now Open Source http://t.co/0EZNS4WS #techie
+2011-11-18 15:20:08 +0000    @Hexacta    Hexacta    New post: May the force be with Scala http://t.co/TvgOKrTb #techie
+2011-11-18 18:10:39 +0000    @Hexacta    Hexacta    Video Recording & Slides: Psychology of Testing at Wealthfront Engineering http://t.co/QKaxdZ7M @mhevery #techie
+2011-11-18 20:51:21 +0000    @Hexacta    Hexacta    The official Google Code blog: Flash developers: export to HTML5 with new Swiffy ... http://t.co/HcCYcn6t #techie
+2011-11-18 22:50:33 +0000    @Hexacta    Hexacta    JavaScript: Unscientifically tested to be more annoying and frustrating than Java http://t.co/e2hiEhdX #techie  @TheServerSide
+2011-11-20 15:01:39 +0000    @Hexacta    Hexacta    Nueva versión de Scala-IDE http://t.co/OiH1g7l3 #techie
+2011-11-21 14:49:08 +0000    @Hexacta    Hexacta    Fixtures for Easy Software Testing, Fluent Assertions and Fluent Reflection http://t.co/BFPycyNa
+2011-11-21 15:17:02 +0000    @Hexacta    Hexacta    Google paper -  Scala/Java/Go/C++  benchmarks http://t.co/YZXyNVtm
+2011-11-22 12:29:37 +0000    @Hexacta    Hexacta    Libro gratis de Scala por TypeSafe http://t.co/gDtsHWi3 #techie
+2011-11-22 12:33:03 +0000    @Hexacta    Hexacta    JQuery Mobile 1.0 Released  http://t.co/iquoHjss #techie
+2011-11-22 14:08:16 +0000    @Hexacta    Hexacta    Videos y slides de las charlas del #ScalaDays2011 http://t.co/kfbU2vYs
+2011-11-22 15:25:31 +0000    @Hexacta    Hexacta    Scala tools http://t.co/fuJNCOeO
+2011-11-23 12:57:11 +0000    @Hexacta    Hexacta    Once cursos gratuitos de la Universidad de Stanford para 2012 http://t.co/0rEclVdU #techie
+2011-11-28 23:42:38 +0000    @Hexacta    Hexacta    Doom 3 Open Source Code is Officially Available http://t.co/nGLyLPwc #techie
+2011-11-28 23:43:16 +0000    @Hexacta    Hexacta    RT @DZone: The Rapid Rise of Scala (in both startups and large organisations) - http://t.co/Y4LoInPC - @DZone Big Link by randomdev
+2011-11-30 12:03:28 +0000    @Hexacta    Hexacta    Memcached Internals: Memory Allocation, Eviction Policy, Consistent Hashing http://t.co/qSqojSjI #techie
+2011-11-30 12:32:46 +0000    @Hexacta    Hexacta    SPRING 3.1.0.RC2 RELEASED http://t.co/0RPaTYsE #techie
+2011-11-30 13:22:42 +0000    @Hexacta    Hexacta    50 Most Frequently Used UNIX / Linux Commands (With Examples) http://t.co/th1n9Bxe #techie
+2011-11-30 15:56:20 +0000    @Hexacta    Hexacta    Design and Implementation of FAITH an Experimental System to manipulate social apps http://t.co/czPpKpiA
+2011-11-30 22:36:43 +0000    @Hexacta    Hexacta    RT @googlechrome: Capture, annotate & download webpage screenshots with this #WebStoreWed pick http://t.co/WdUgcKWY #techie
+2011-12-02 15:30:14 +0000    @Hexacta    Hexacta    Rapid Web Application Development? Piece of cake!: During the last years there’s been a trend in many developers... http://t.co/KBnaKoYl
+2011-12-02 20:25:09 +0000    @Hexacta    Hexacta    New Post : Java Persistence API http://t.co/nt5kQUaA #techie
+2011-12-06 15:42:31 +0000    @Hexacta    Hexacta    GIS – Navegación de mapas con OpenLayers http://t.co/4HF3OXsy #techie
+2011-12-06 15:43:44 +0000    @Hexacta    Hexacta    New Post : GIS – Navegación de mapas con OpenLayers http://t.co/4HF3OXsy #techie
+2011-12-16 15:04:05 +0000    @Hexacta    Hexacta    Tooltips emergentes,animados, etc con JS http://t.co/StsKkhcr
+2011-12-22 18:40:19 +0000    @Hexacta    Hexacta    new Post: Creando aplicaciones a la velocidad de la luz http://t.co/rOvUiIuW
+2012-02-07 14:16:25 +0000    @Hexacta    Hexacta    Making applications at speed of light: By Leonardo Filippelli How many times we used a spreadsheet to administra... http://t.co/u9TtPaph
+2012-02-13 18:51:59 +0000    @Hexacta    Hexacta    http://t.co/QSl1gmsZ
+2012-02-13 18:52:33 +0000    @Hexacta    Hexacta    http://t.co/2DIxBXlo
+2012-02-13 18:52:43 +0000    @Hexacta    Hexacta    http://t.co/Cym9Hbqq
+2012-02-15 19:20:44 +0000    @Hexacta    Hexacta    Drag and drop to design a screen in Android, is it possible?: By  Ariel Debernardi When programming on Android, ... http://t.co/Gktrxn4z
+2012-02-23 14:02:16 +0000    @Hexacta    Hexacta    May the force be with Scala: By Nicolas Mouso The aim of this post is to present the Scala programming language ... http://t.co/6ANyTwYx
+2012-03-02 15:00:46 +0000    @Hexacta    Hexacta    #Hexacta participará de la #feriaCeBIT2012, la famosa feria de tecnología en Hannover, Alemania, del 6 al 10 de marzo.
+2012-03-02 15:01:25 +0000    @Hexacta    Hexacta    #feriaCeBIT2012 http://t.co/aZE022Kl
+2012-03-07 22:46:01 +0000    @Hexacta    Hexacta    GIS – Maps navigation with OpenLayers: Continuing with the previous post about GIS Map Server, we will see how t... http://t.co/WOpgZcek
+2012-03-09 13:28:27 +0000    @Hexacta    Hexacta    RT @laulowen: @Hexacta hoy conocí a la pole-dancer de #cebit2012 http://t.co/GqhgaFUP
+2012-03-09 13:28:33 +0000    @Hexacta    Hexacta    RT @laulowen: @Hexacta quite a theme at #cebit2012: companies, stop fighting social media in your environment, and embrace it instead!
+2012-03-09 13:28:39 +0000    @Hexacta    Hexacta    RT @laulowen: @Hexacta curiosidades del primer día en #cebit2012: un hombre que tipea con el cerebro y galletitas con códigos Qr.
+2012-03-12 12:45:15 +0000    @Hexacta    Hexacta    Fotos de la feria CeBIT 2012 https://t.co/DTrYlN3w
+2012-03-23 20:00:46 +0000    @Hexacta    Hexacta    CeBIT 2012 http://t.co/H0or9xfq
+2012-03-30 18:15:39 +0000    @Hexacta    Hexacta    Fotos del after de ayer! https://t.co/lxxE8JJs
+2012-04-04 18:24:14 +0000    @Hexacta    Hexacta    @cronida Si, llegamos a La PLata! Estamos en Calle 48 N°1165.
+2012-04-12 12:00:07 +0000    @Hexacta    Hexacta    Laura trabaja en la migración de 4 aplicaciones de escritorio a nuevas tecnologías para un cliente de US. http://t.co/oN2RO2DB
+2012-04-13 15:23:33 +0000    @Hexacta    Hexacta    Hexacta, speaker at the ALM day 2012: Once again Hexacta was invited to speak at the ALM Day, the event organize... http://t.co/HoZMOzlr
+2012-04-13 15:44:35 +0000    @Hexacta    Hexacta    Eric trabaja en el Portal de Empleos para el Ministerio de Trabajo. Atrás una clase de ingles en curso. http://t.co/cvJ4FFBU
+2012-04-18 14:50:11 +0000    @Hexacta    Hexacta    Spring 3.1 liberado http://t.co/9cKfDn3A
+2012-04-18 14:52:48 +0000    @Hexacta    Hexacta    Spring I/O 2012 - Application Development in the Cloud Era - Adrian Colyer , http://t.co/rOSDl42r
+2012-04-18 15:09:02 +0000    @Hexacta    Hexacta    FLISoL 2012, 28 de abril . http://t.co/oP4ISgKP
+2012-04-18 17:36:20 +0000    @Hexacta    Hexacta    Proceso de reingeniería en sistemas heredados. http://t.co/J7iSOGJq
+2012-04-18 17:42:07 +0000    @Hexacta    Hexacta    Professional jQuery | Wow! eBook - Blog: http://t.co/vr1TMOVI
+2012-04-18 19:09:34 +0000    @Hexacta    Hexacta    Miško Hevery on the Psychology of Testing at Wealthfront, http://t.co/ixQajEy7
+2012-04-23 12:36:01 +0000    @Hexacta    Hexacta    InfoQ: JDK 8 Milestone and Release Dates: http://t.co/Foot9EM4
+2012-04-23 12:56:22 +0000    @Hexacta    Hexacta    The Clean Code Talks -- Inheritance, Polymorphism, & Testing http://t.co/u61YMT7Y
+2012-04-24 20:18:32 +0000    @Hexacta    Hexacta    The Clean Code Talks - Global State and Singletons . http://t.co/QVBjGkvX
+2012-04-26 13:20:34 +0000    @Hexacta    Hexacta    The Clean Code Talks - Don't Look For Things! - http://t.co/C5iRYGka
+2012-04-27 14:31:10 +0000    @Hexacta    Hexacta    The Clean Code Talks - Unit Testing. http://t.co/5gttRNdY
+2012-04-27 18:53:22 +0000    @Hexacta    Hexacta    InfoQ: Benchmarking JVM Concurrency Options for Java, Scala and Akka: http://t.co/o6yPMnfh
+2012-04-27 19:12:15 +0000    @Hexacta    Hexacta    Festejo de Cumpleaños Hexácticos de Abril! http://t.co/0scFgekd
+2012-05-02 21:31:04 +0000    @Hexacta    Hexacta    The Clean Code Talks - "GuiceBerry", http://t.co/HIHZ9j7s
+2012-05-04 11:32:45 +0000    @Hexacta    Hexacta    The First Regional Scrum Gathering in Buenos Aires will have Hexacta as a sponsor http://t.co/FBF7kQw1
+2012-05-04 17:54:52 +0000    @Hexacta    Hexacta    The Clean Code Talks - How to Write Clean, Testable Code http://t.co/cQvaBDkr
+2012-05-08 12:20:50 +0000    @Hexacta    Hexacta    Clean Code I: Arguments   http://t.co/3vTCeCxq
+2012-05-08 19:15:27 +0000    @Hexacta    Hexacta    Why Java developers should be learning Scala http://t.co/ZnGDikw2
+2012-05-09 12:40:39 +0000    @Hexacta    Hexacta    InfoQ: Refactoring to Patterns: http://t.co/QxPjDAdb
+2012-05-09 13:06:30 +0000    @Hexacta    Hexacta    Scala == Effective Java ? http://t.co/T3J8NtJ1
+2012-05-11 13:06:55 +0000    @Hexacta    Hexacta    Gran charla de Dan Ingalls, Object-Oriented Programming http://t.co/XNRKt5vW
+2012-05-15 12:46:02 +0000    @Hexacta    Hexacta    InfoQ: Big Data Architecture at LinkedIn: http://t.co/SIXErehO
+2012-05-15 12:48:15 +0000    @Hexacta    Hexacta    Alan Kay: The Computer Revolution hasn't happend yet. Keynote OOPSLA 1997, http://t.co/DtiLgiA7
+2012-05-15 13:24:59 +0000    @Hexacta    Hexacta    Desayuno informativo con los socios http://t.co/5c0qELaH
+2012-05-15 15:01:07 +0000    @Hexacta    Hexacta    RT @djxpander: apoyemos al crecimiento de PROYECTO NAHUAL! :D @PNahual
+2012-05-15 15:34:32 +0000    @Hexacta    Hexacta    New Post : Aplicaciones RESTful con Apache CXF (Parte 1/2) http://t.co/1CTRlr44 #techie
+2012-05-17 12:25:38 +0000    @Hexacta    Hexacta    El lunes 21/5 haremos un webcast orgnizado de Microsoft de personalizacion de templates de proceso de #TFS. Incripbite http://t.co/QjHEGNJO
+2012-05-17 18:14:38 +0000    @Hexacta    Hexacta    Este lunes arranca la copa Hexacta: Subcampeones Vs. Elena no y República Chueca Vs. La resaka http://t.co/S7pyl6JL
+2012-05-17 20:25:15 +0000    @Hexacta    Hexacta    Scala School : http://t.co/dmK4efKK
+2012-05-28 18:49:39 +0000    @Hexacta    Hexacta    Lanzamos Hexacta Labs! iniciativa para brindar un aporte a la comunidad académica. http://t.co/6yEkOy01
+2012-05-30 19:05:10 +0000    @Hexacta    Hexacta    ¿Querés aprender JAVA? Te invitamos a participar de la edición de Junio de Hx Labs. Inscripciones hasta el 8 de junio: http://t.co/bq0b2Sa7
+2012-05-31 14:25:00 +0000    @Hexacta    Hexacta    El equipo de Insperity hace su asignación de horas y tareas con la ayuda de porotos. http://t.co/kVIe276H
+2012-06-04 11:46:08 +0000    @Hexacta    Hexacta    HexactaLabs: de la industria a la universidad. Últimos días de inscripción a nuestras charlas: http://t.co/bq0b2Sa7. http://t.co/lnfwNkk5
+2012-06-05 19:36:14 +0000    @Hexacta    Hexacta    Hexacta dicta cursos gratuitos de programación para estudiantes universitarios: Noticias | CESSI http://t.co/jy8fmq55 (via @cessiargentina)
+2012-06-08 11:36:49 +0000    @Hexacta    Hexacta    Último día de inscripción: si todavía no te anotaste en HexactaLabs estás a tiempo hasta las 2 pm. http://t.co/bq0b2Sa7 http://t.co/ok5mZvYz
+2012-06-12 19:40:35 +0000    @Hexacta    Hexacta    Primera jornada de Hexacta Labs! http://t.co/tKyixXno
+2012-06-15 19:57:21 +0000    @Hexacta    Hexacta    new Post : Rollback de un changeset completo en Visual Studio.  http://t.co/n7QlO7Y3
+2012-07-23 17:12:15 +0000    @Hexacta    Hexacta    new Post : CSS Preprocessors – Escribe CSS dinámico.  http://t.co/WkESGyWI
+2012-08-01 14:39:11 +0000    @Hexacta    Hexacta    new Post : Organizar en módulos nuestro Javascript .  http://t.co/dro39xKm #techie
+2012-08-08 17:53:05 +0000    @Hexacta    Hexacta    new Post : Creamos un plugin para jQuery para actualizar asincrónicamente un elemento “select” . http://t.co/kDvmnIi0 
+
+http://t.co/kDvmnIi0
+2012-08-13 15:55:39 +0000    @Hexacta    Hexacta    Conocé más de nosotros entrando a nuestro sitio de RRHH http://t.co/4nRxOd5x
+2012-08-17 14:55:55 +0000    @Hexacta    Hexacta    Somos 250! Muchos se sumaron, algunos se fueron e incluso otros han vuelto; pero todos han dejado su huella en Hexacta http://t.co/Rphf55qq
+2012-08-22 14:43:58 +0000    @Hexacta    Hexacta    new Post : Transacciones a nivel Servicio con NHibernate . http://t.co/qAbJE1Yb
+2012-09-07 14:27:54 +0000    @Hexacta    Hexacta    new Post: Introducción a REST (1/2) . http://t.co/HA6zNEbV #techie
+2012-09-07 22:19:29 +0000    @Hexacta    Hexacta    hoy fiesta CMMi en Hexacta! http://t.co/AVJm25LP
+2012-09-11 16:16:14 +0000    @Hexacta    Hexacta    @tecno_bahia Este viernes 14 de Septiembre estaremos presentes en el 1º encuentro digital de Bahia Blanca, TecnoBahia 2012, acompañanos!
+2012-09-12 18:19:04 +0000    @Hexacta    Hexacta    Desde Hexacta queremos saludar a todos los Programadores en su día.
+2012-09-13 17:25:58 +0000    @Hexacta    Hexacta    new Post : Introducción a REST (2/2) . http://t.co/68CzRyM4 #techie
+2012-09-18 19:49:42 +0000    @Hexacta    Hexacta    Hexacta Labs Edición Octubre 2012 - Cupos limitados- Inscripciones en:http://t.co/bq0b2Sa7 http://t.co/h4KjMWNS
+2012-09-21 15:46:47 +0000    @Hexacta    Hexacta    The sunk cost: Farmville and software projects.: By Manuel Ilincheta   The 50 million users of Farmville (online... http://t.co/TfaCqXqo
+2012-09-26 17:37:57 +0000    @Hexacta    Hexacta    new Post : Uso típico de perfiles en maven para testing, packaging y deployment. http://t.co/BrKm94dI #techie
+2012-09-28 17:37:45 +0000    @Hexacta    Hexacta    Hexacta Labs: últimos días para anotarse!  http://t.co/bq0b2Sa7 http://t.co/akhZvWre
+2012-10-01 14:09:55 +0000    @Hexacta    Hexacta    Si sos Desarrollador .NET o Analista de Testing y queres formar parte de Hexacta, mandamos tu CV a careers@hexacta.com
+2012-10-02 17:05:01 +0000    @Hexacta    Hexacta    new Post: Lost 5 criterios a tener en cuenta para elegir una libreria de controles web. http://t.co/isGwj3Sf #techie
+2012-10-03 17:28:11 +0000    @Hexacta    Hexacta    Últimos 2 días para anotarse en Hexacta Labs! 16/10 Inicio de cursos http://t.co/bq0b2Sa7
+2012-10-12 14:22:38 +0000    @Hexacta    Hexacta    new Post: 5 cosas interesantes de Groovy – Metaprogramming . http://t.co/cGQvhYpg #techie
+2012-10-17 17:43:25 +0000    @Hexacta    Hexacta    new Post : Node.js primeros pasos . http://t.co/swKsL6og #techie
+2012-10-26 16:23:11 +0000    @Hexacta    Hexacta    new Post : Como integrar Biztalk con WCF y no morir en el intento. http://t.co/wMgkiqkg #techie
+2012-11-02 18:26:05 +0000    @Hexacta    Hexacta    new Post: plicando seguridad a Grails – Parte 1 . http://t.co/dJ1dRSTh #techie
+2012-11-05 18:45:15 +0000    @Hexacta    Hexacta    http://t.co/f0nJLDEK
+2012-11-08 18:20:03 +0000    @Hexacta    Hexacta    new Post: Aplicando seguridad a Grails – Parte 2. http://t.co/ZTa6U6kt #techie
+2012-11-15 19:45:11 +0000    @Hexacta    Hexacta    Scrum Vs. Kanban: By Pedro Alessandri We have recently incorporated in Hexacta a new agile project management me... http://t.co/sWHXpLwB
+2012-11-16 17:37:28 +0000    @Hexacta    Hexacta    new Post: Grails, Spring y AOP . http://t.co/cYv9WdKo #techie
+2012-11-23 14:55:14 +0000    @Hexacta    Hexacta    new Post : Depurando Node.js con Node-Inspector y la magia de Express . http://t.co/zE84wwsF #techie
+2012-12-05 13:27:29 +0000    @Hexacta    Hexacta    new Post: Como utilizar Twitter Bootstrap con http://t.co/tIKW5ipG MVC 4. http://t.co/LGeS4P9a #techie
+2012-12-14 15:05:27 +0000    @Hexacta    Hexacta    new Post: jQueryMobile – Parte 1: ¿Que es jQueryMobile?. http://t.co/RikUrDiN
+2013-01-14 14:39:23 +0000    @Hexacta    Hexacta    Hexacta busca sumar a su equipo un Funcional Ssr en Bs.As y un Des Jr .NET en La Plata. Enviá tu CV a careers@hexacta.com
+2013-01-24 14:23:11 +0000    @Hexacta    Hexacta    new Post: Sincronizando videos con HTML5 y Popcorn. http://t.co/M44ge07p #techie
+2013-01-28 21:13:43 +0000    @Hexacta    Hexacta    Sos desarrollador WebMethods, te estamos buscando. Enviá tu CV a careers@hexacta.com . #jobs
+2013-02-04 13:34:50 +0000    @Hexacta    Hexacta    EN 2013 SUMATE A NUESTRO EQUIPO!! Enterate de todas nuestras búsquedas en https://t.co/1LTGCN0e
+2013-02-05 15:35:41 +0000    @Hexacta    Hexacta    Hexacta won the European Seal of e-Excellence award 2013 http://t.co/u07UBjgC http://t.co/jeQaXWK9
+2013-02-06 19:57:02 +0000    @Hexacta    Hexacta    Conocé nuestra Fan Page http://t.co/8V7Go6pR
+2013-02-07 17:35:56 +0000    @Hexacta    Hexacta    new Post : testing NodoJS http://t.co/VP4Pk5fE #techie
+2013-02-13 15:48:01 +0000    @Hexacta    Hexacta    Enterate de todas nuestras búsquedas en : http://t.co/8Q2ikYlU
+2013-02-18 16:22:05 +0000    @Hexacta    Hexacta    EN 2013 SUMATE A NUESTRO EQUIPO! 
+
+Estamos buscando los siguientes perfiles: 
+
+- Consultor Funcional Ssr (en... http://t.co/CBRYJbuz
+2013-02-25 18:15:49 +0000    @Hexacta    Hexacta    En 2013 SUMATE A NUESTRO EQUIPO, te contamos que perfiles estamos buscando: http://t.co/pw8Eob3XFc
+2013-02-25 18:37:54 +0000    @Hexacta    Hexacta    EN 2013 SUMATE A NUESTRO EQUIPO! 
+
+Estamos buscando los siguientes perfiles: 
+
+- Consultor Funcional Ssr (en... http://t.co/L8VVRLffpR
+2013-02-26 21:11:44 +0000    @Hexacta    Hexacta    Hiring an Analista Funcional Ssr in Buenos Aires, Argentina http://t.co/0IxVcGG0Hr #job
+2013-02-27 15:44:54 +0000    @Hexacta    Hexacta    Looking for a Desarrollador JAVA y .NET Ssr/Sr in Buenos Aires, Argentina http://t.co/YqjD3HkGxk #job
+2013-02-28 14:17:57 +0000    @Hexacta    Hexacta    Looking for an Analista Funcional Ssr in Buenos Aires, Argentina http://t.co/BACEovJdIv #job
+2013-02-28 21:46:19 +0000    @Hexacta    Hexacta    Hiring a Desarrollador JAVA y .NET Ssr/Sr in Buenos Aires, Argentina http://t.co/a1NPY6cMh9 #job
+2013-03-01 21:34:03 +0000    @Hexacta    Hexacta    Looking for an Analista Funcional Ssr in Buenos Aires, Argentina http://t.co/BACEovJdIv #job
+2013-03-02 20:30:47 +0000    @Hexacta    Hexacta    Job: Desarrollador JAVA y .NET Ssr/Sr in Buenos Aires, Argentina http://t.co/redny3Cxjr #job
+2013-03-03 14:11:15 +0000    @Hexacta    Hexacta    Know anyone for this job? Analista Funcional Ssr in Buenos Aires, Argentina http://t.co/9MC8cNiQuG #job
+2013-03-03 20:35:31 +0000    @Hexacta    Hexacta    Desarrollador JAVA y .NET Ssr/Sr in Buenos Aires, Argentina http://t.co/AGjQXzHWwh #job
+2013-03-04 14:38:52 +0000    @Hexacta    Hexacta    Now Hiring: Analista Funcional Ssr in Buenos Aires, Argentina http://t.co/w5wNVqcbBU #job
+2013-03-04 20:44:27 +0000    @Hexacta    Hexacta    Looking for a Desarrollador JAVA y .NET Ssr/Sr in Buenos Aires, Argentina http://t.co/YqjD3HkGxk #job
+2013-03-05 13:39:04 +0000    @Hexacta    Hexacta    SEGUIMOS AGRANDANDO NUESTROS EQUIPOS!!
+
+Estamos buscando los siguientes perfiles: 
+
+- Desarrollador .NET (en... http://t.co/thrpjLtVuc
+2013-03-05 14:59:34 +0000    @Hexacta    Hexacta    Hiring an Analista Funcional Ssr in Buenos Aires, Argentina http://t.co/0IxVcGG0Hr #job
+2013-03-05 17:55:21 +0000    @Hexacta    Hexacta    RT @fabiogasparri: Proud to receive the European Seal of e-Excellence 2013!! Thank you @EMFeexcellence for the #Seal2013!, thanks to all ...
+2013-03-05 18:55:07 +0000    @Hexacta    Hexacta    new Post : Haciendo tu código más lindo con NDepend. http://t.co/9Ogao2ayOw #techie
+2013-03-06 16:22:08 +0000    @Hexacta    Hexacta    Job: Analista Funcional Ssr in Buenos Aires, Argentina http://t.co/g8n9stxL13 #job
+2013-03-11 18:20:40 +0000    @Hexacta    Hexacta    SEGUIMOS AMPLIANDO NUESTROS EQUIPOS!!
+
+Estamos buscando los siguientes perfiles: 
+
+- Desarrollador .NET (en Buenos... http://t.co/rBGpLy3Iog
+2013-03-14 18:38:02 +0000    @Hexacta    Hexacta    Looking for a Desarrollador JAVA y .NET Ssr/Sr in Buenos Aires, Argentina http://t.co/YqjD3HkGxk #job
+2013-03-18 19:17:10 +0000    @Hexacta    Hexacta    SEGUIMOS AMPLIANDO NUESTROS EQUIPOS!!
+
+Estamos buscando los siguientes perfiles: 
+
+- Desarrollador .NET (en... http://t.co/8bWLARHVfS
+2013-03-21 18:50:20 +0000    @Hexacta    Hexacta    He publicado una nueva foto a Facebook http://t.co/JFHAeyR5p0
+2013-03-22 18:35:34 +0000    @Hexacta    Hexacta    new Post: Database Refactoring usando Liquibase . http://t.co/ZwdtNuDsIv #techie
+2013-04-03 14:47:13 +0000    @Hexacta    Hexacta    Si tenes experiencia en PHP, Hexacta te está buscando!, podes enviarnos tu CV a careers@hexacta.com y te contactaremos a la brevedad.
+2013-04-13 22:48:29 +0000    @Hexacta    Hexacta    Are you a good fit for this job? Desarrollador JAVA y .NET Ssr/Sr in Buenos Aires, Argentina http://t.co/KAQGCkicdV #job
+2013-04-18 11:02:34 +0000    @Hexacta    Hexacta    new Post : FluentValidation, una pequeña librería de validaciones para .NET . http://t.co/k9qvBMGjKF #techie
+2013-04-22 12:18:25 +0000    @Hexacta    Hexacta    Now Hiring: Desarrollador JAVA y .NET Ssr/Sr in Buenos Aires, Argentina http://t.co/jOXr3mUOcc #job
+2013-04-23 16:38:02 +0000    @Hexacta    Hexacta    Know anyone for this job? Desarrollador JAVA y .NET Ssr/Sr in Buenos Aires, Argentina http://t.co/fNweLfK4Wq #job
+2013-04-24 20:19:13 +0000    @Hexacta    Hexacta    Know anyone for this job? Desarrollador JAVA y .NET Ssr/Sr in Buenos Aires, Argentina http://t.co/fNweLfK4Wq #job
+2013-04-25 20:39:02 +0000    @Hexacta    Hexacta    Are you a good fit for this job? Desarrollador JAVA y .NET Ssr/Sr in Buenos Aires, Argentina http://t.co/KAQGCkicdV #job
+2013-04-26 17:33:42 +0000    @Hexacta    Hexacta    Publiqué una nueva foto en Facebook http://t.co/j9WCEyXR8L
+2013-04-26 17:33:44 +0000    @Hexacta    Hexacta    Publiqué una nueva foto en Facebook http://t.co/ZKWva5DaGu
+2013-04-26 17:33:45 +0000    @Hexacta    Hexacta    Publiqué una nueva foto en Facebook http://t.co/CAjj3jRu8X
+2013-04-26 17:33:47 +0000    @Hexacta    Hexacta    Publiqué una nueva foto en Facebook http://t.co/BluxrGW7su
+2013-04-26 17:33:48 +0000    @Hexacta    Hexacta    Publiqué una nueva foto en Facebook http://t.co/I3rVcNXQZ6
+2013-04-26 21:41:08 +0000    @Hexacta    Hexacta    Diseñador / Maquetador Web Junior-HEXACTA http://t.co/wDcci5SiKO
+2013-04-26 21:41:44 +0000    @Hexacta    Hexacta    Diseñador / Maquetador Web Junior - HEXACTA (http://t.co/YQYvFpePg9 #ZonaJobs)
+2013-04-29 19:04:25 +0000    @Hexacta    Hexacta    Job: Desarrollador JAVA y .NET Ssr/Sr in Buenos Aires, Argentina http://t.co/redny3Cxjr #job
+2013-05-02 12:08:40 +0000    @Hexacta    Hexacta    http://t.co/5usRPtiidl
+2013-05-02 12:09:07 +0000    @Hexacta    Hexacta    http://t.co/83XGIKIe5j
+2013-05-06 12:45:56 +0000    @Hexacta    Hexacta    Publiqué una nueva foto en Facebook http://t.co/tvBWSpt5O2
+2013-05-06 12:45:58 +0000    @Hexacta    Hexacta    Publiqué una nueva foto en Facebook http://t.co/VEEvd327rb
+2013-05-06 12:45:59 +0000    @Hexacta    Hexacta    Publiqué una nueva foto en Facebook http://t.co/UI4vLmnnPg
+2013-05-08 16:31:23 +0000    @Hexacta    Hexacta    new Post: Grails – ABMs rápidos y sencillos . http://t.co/oRu0P4WaJ2 #techie
+2013-05-13 18:00:54 +0000    @Hexacta    Hexacta    Entrá a nuestro BLOG y sumate a HEXACTA +TECHO para ayudar a los damnificados por las inundaciones en La Plata:... http://t.co/wXWkx3vWOb
+2013-05-15 15:53:06 +0000    @Hexacta    Hexacta    SEGUIMOS AMPLIANDO NUESTROS EQUIPOS!
+Enterate de nuestras búsquedas activas en:
+https://t.co/wlz3dYUado
+2013-05-16 16:14:00 +0000    @Hexacta    Hexacta    new Post: Python / Django – Tips. http://t.co/fdD8VKRPK8  #techie
+2013-05-16 16:21:04 +0000    @Hexacta    Hexacta    Desarrollador JAVA y .NET Ssr/Sr http://t.co/NqkVIBSmYa #job
+2013-05-19 18:29:40 +0000    @Hexacta    Hexacta    Looking for a Desarrollador JAVA y .NET Ssr/Sr in Buenos Aires, Argentina http://t.co/UZ3GdnU8Mn #job
+2013-05-20 18:49:43 +0000    @Hexacta    Hexacta    SEGUIMOS AMPLIANDO NUESTROS EQUIPOS!!
+
+Estamos buscando los siguientes perfiles: 
+
+- Analista SQL Ssr (en Buenos... http://t.co/3KUih465hF
+2013-05-20 18:50:51 +0000    @Hexacta    Hexacta    Publiqué una nueva foto en Facebook http://t.co/bWPu0GV40z
+2013-05-22 18:42:34 +0000    @Hexacta    Hexacta    Desarrollador JAVA y .NET Ssr/Sr in Buenos Aires, Argentina http://t.co/OwjuNWoG3d #job
+2013-05-25 19:32:36 +0000    @Hexacta    Hexacta    Desarrollador JAVA y .NET Ssr/Sr http://t.co/LhlMNTY3Wd #job
+2013-05-28 21:45:21 +0000    @Hexacta    Hexacta    Job: Desarrollador JAVA y .NET Ssr/Sr in Buenos Aires, Argentina http://t.co/2CaAgDdDkF #job
+2013-05-31 22:22:58 +0000    @Hexacta    Hexacta    Hiring a Desarrollador JAVA y .NET Ssr/Sr in Buenos Aires, Argentina http://t.co/ekZhivGTZO #job
+2013-06-06 14:42:09 +0000    @Hexacta    Hexacta    HEXACTA renovó su sitio de RRHH, te invitamos a conocerlo! http://t.co/Jyw8x1pMt2
+2013-06-06 14:46:21 +0000    @Hexacta    Hexacta    Conocé nuestro nuevo sitio de Recursos Humanos! http://t.co/aH2ORUeI2Q
+2013-06-10 18:45:11 +0000    @Hexacta    Hexacta    SEGUIMOS AMPLIANDO NUESTROS EQUIPOS!!
+
+Estamos buscando los siguientes perfiles: 
+
+- Analista SQL Ssr (en Buenos... http://t.co/6jhwuDxiT3
+2013-06-14 17:59:18 +0000    @Hexacta    Hexacta    Publiqué una nueva foto en Facebook http://t.co/I4LUlg6WVF
+2013-06-14 18:17:32 +0000    @Hexacta    Hexacta    new Post :Fastclick – Clicks más rápidos en dispositivos mobile.  http://t.co/fKULyiHcLj  #techie
+2013-06-24 15:55:10 +0000    @Hexacta    Hexacta    KendoUI vs DevExpress: Five criteria to take into account to choose a web control library   For one of our web... http://t.co/J0iEmGs2b5
+2013-07-16 17:04:49 +0000    @Hexacta    Hexacta    ¿Querés sumarte a nuestros equipos de trabajo?
+
+Chequeá las posiciones disponibles en Buenos Aires, Paraná, La... http://t.co/ZScfYtq9dg
+2013-07-16 18:55:24 +0000    @Hexacta    Hexacta    ¡Volvimos a #LaPlata!
+
+Hexacta volvió a la ciudad de La Plata a visitar a la familia a quien ayudó con la... http://t.co/1N2zk52Yh4
+2013-07-18 16:04:46 +0000    @Hexacta    Hexacta    El Hogar Querubines necesita nuestra ayuda
+
+Querubines fue cerrado hace aproximadamente un mes por sus malas... http://t.co/E8ajFXjToW
+2013-07-19 15:39:55 +0000    @Hexacta    Hexacta    En Hexacta entendemos cada proyecto como una oportunidad de aprender y transferir conocimiento.
+
+¡Les deseamos... http://t.co/SztZ2f3hKC
+2013-07-22 15:08:13 +0000    @Hexacta    Hexacta    Sasa 0.9.4 presenta mejoras mediante la incorporación de nuevos elementos y corrección de viejos errores. Vía... http://t.co/lScHI2Erbh
+2013-07-23 13:40:38 +0000    @Hexacta    Hexacta    ¿Querés sumarte a nuestros equipos de #trabajo?
+Chequeá nuestras búsquedas, envianos tu CV o referí a un amigo!... http://t.co/Wn2dVfQmOq
+2013-07-24 18:46:42 +0000    @Hexacta    Hexacta    #DATO: La empresa Sun MicroSystems desarrolló #Java con la intención de innovar en los lenguajes de... http://t.co/GznalVQZED
+2013-07-26 15:46:46 +0000    @Hexacta    Hexacta    En #Hexacta trabajamos en distintos centros de desarrollo de software conformados por profesionales con... http://t.co/yTlmOCZMHU
+2013-07-30 19:05:28 +0000    @Hexacta    Hexacta    Llega el Primer Hackatón de Datos Públicos Nacionales
+http://t.co/2WWACdSLJD
+
+En el marco del lanzamiento del... http://t.co/7pmhJVoFp5
+2013-07-31 14:51:00 +0000    @Hexacta    Hexacta    He publicado 16 fotos en Facebook en el álbum "¡El Hogar Querubines hecho a nuevo!". http://t.co/uzOUZP53HE
+2013-08-01 17:40:35 +0000    @Hexacta    Hexacta    Visitá el espacio de #Hexacta en #Tecnópolis junto a Cessi ArgenTIna, y sorprendete con la inmensa oferta de... http://t.co/JRnViKG3cs
+2013-08-02 18:53:52 +0000    @Hexacta    Hexacta    Con 2000 m2 cubiertos dedicados al desarrollo de proyectos, el  centro tecnológico de #Hexacta ofrece todas las... http://t.co/R49NfxXcFt
+2013-08-05 17:48:36 +0000    @Hexacta    Hexacta    ¿Pueden los arquitectos ocupar un rol importante en proyectos ágiles? Nick Malik, Enterprise Architect en... http://t.co/Ml2V0opz0F
+2013-08-06 14:48:57 +0000    @Hexacta    Hexacta    ¿Querés sumarte a nuestros equipos de #trabajo?
+Chequeá nuestras búsquedas, envianos tu CV o referí a un amigo!... http://t.co/VXVWaZu2YC
+2013-08-06 14:52:36 +0000    @Hexacta    Hexacta    #Hexacta y la #RSE en la remodelación del Hogar de Niños Querubines, en Beccar http://t.co/uHz5TpB4PS
+2013-08-07 16:24:05 +0000    @Hexacta    Hexacta    new Post : Monos infinitos y algoritmos genéticos – Parte 1. http://t.co/l37OOcPmRX #techie
+2013-08-07 17:47:25 +0000    @Hexacta    Hexacta    En un nuevo post, el blog #HAT de #Hexacta desarrolla cómo usar el teorema de los monos infinitos como ejemplo... http://t.co/C74QcRA84R
+2013-08-08 18:20:58 +0000    @Hexacta    Hexacta    Sigue el trabajo de #Hexacta junto al Hogar Querubines. 
+
+El sábado pasado un grupo de hexácticos se acercó a... http://t.co/mq0hHpYpr9
+2013-08-09 18:03:17 +0000    @Hexacta    Hexacta    #Hexacta se basa en los principios de Iniciativa, Creatividad y Conocimiento. Nuestros equipos están satisfechos... http://t.co/jAvGypSGkc
+2013-08-12 18:13:40 +0000    @Hexacta    Hexacta    JavaScript se convierte poco a poco en el lenguaje de programación dominante del negocio. La siguiente nota de... http://t.co/R67eOmlhsP
+2013-08-13 17:55:44 +0000    @Hexacta    Hexacta    ¿Querés sumarte a nuestros equipos de #trabajo?
+Siguen en pie las búsquedas en #Hexacta, estás a tiempo de... http://t.co/OGpOEzazlE
+2013-08-14 18:07:38 +0000    @Hexacta    Hexacta    #HAT comparte la segunda parte del artículo sobre el teorema de los monos infinitos como ejemplo para aplicar un... http://t.co/DwCCuMUIBD
+2013-08-15 18:25:02 +0000    @Hexacta    Hexacta    #Hexacta ya seleccionó los proyectos solidarios con los que colaborará durante los próximos meses. ¡Muchas... http://t.co/ruaAQ8I9IZ
+2013-08-15 20:42:25 +0000    @Hexacta    Hexacta    #COMPROMISO
+El equipo solidario de #Hexacta volvió al Hogar Querubines en Beccar, para seguir ofreciendo su... http://t.co/RKfh0TC2sV
+2013-08-16 20:23:40 +0000    @Hexacta    Hexacta    Viernes hexáctico ofreciendo servicio en todas las áreas necesarias para el éxito de un proyecto de desarrollo de... http://t.co/QXu3u4Pift
+2013-08-18 17:30:04 +0000    @Hexacta    Hexacta    "Los viejos lo creen todo; los adultos todo lo sospechan; mientras que los jóvenes todo lo saben". Oscar Wilde... http://t.co/4Wk6AFuYlb
+2013-08-20 17:39:15 +0000    @Hexacta    Hexacta    ¿Querés formar parte de los equipos de #trabajo de #Hexacta?
+Chequeá las búsquedas activas y enviá tu CV!
+
+-... http://t.co/h3T9xpSV9Y
+2013-08-21 19:16:17 +0000    @Hexacta    Hexacta    Cómo un posteo en un blog demostró que cualquiera puede descubrir #contraseñas en #Chrome, desatando un total... http://t.co/D4LyAGTxJg
+2013-08-22 19:22:42 +0000    @Hexacta    Hexacta    He publicado 10 fotos en Facebook en el álbum "¡Día del niño hexáctico!". http://t.co/O5mofeczbv
+2013-08-23 18:25:09 +0000    @Hexacta    Hexacta    #Hexacta es trabajo en equipo y colaboración entre los mejores talentos de la industria. 
+Conocé más en... http://t.co/PirLrFIIow
+2013-08-26 18:02:52 +0000    @Hexacta    Hexacta    Por primera vez, #Argentina participó del 6° foro anual BPO/ITO “Smartsourcing: Strategies for Success”. Juan... http://t.co/oPnnxPDNwx
+2013-08-27 17:43:56 +0000    @Hexacta    Hexacta    ¿Querés formar parte de los equipos líderes en desarrollo?
+Enviá tu cv a #Hexacta y encontrá el #empleo para... http://t.co/B7dnSHoULo
+2013-08-28 18:35:09 +0000    @Hexacta    Hexacta    Si tuvieras que definir el término "Big #Data", ¿cómo lo harías?
+Matt Asay simplifica al máximo esta idea - vía... http://t.co/EAxXuhGGw7
+2013-08-29 18:07:52 +0000    @Hexacta    Hexacta    Nueva certificación #Microsoft para #Hexacta: competencia Silver en Application Lifecycle Management (#ALM).... http://t.co/0UCfZCPaof
+2013-08-29 18:21:54 +0000    @Hexacta    Hexacta    De la mano de Proyecto Nahual, #Hexacta sigue colaborando con la   promoción de nuevas #tecnologías y mejores... http://t.co/cO1BJZR0x1
+2013-08-30 20:07:05 +0000    @Hexacta    Hexacta    En #Hexacta compartimos el deseo de compartir conocimiento, logros y experiencias, procurando siempre cuidar de... http://t.co/pUxoBt6Gp4
+2013-08-30 20:09:25 +0000    @Hexacta    Hexacta    En #Hexacta compartimos el deseo de compartir conocimiento, logros y experiencias, procurando siempre cuidar de... http://t.co/re2Msf4Pz4
+2013-09-02 18:32:41 +0000    @Hexacta    Hexacta    ¡Chequeá este quiz que InfoWorld ofrece y evaluá tus conocimientos en programación!
+http://t.co/uABmrJ4mnz http://t.co/xnyiwRYw3d
+2013-09-03 17:55:36 +0000    @Hexacta    Hexacta    Sumate parte de los equipos líderes en desarrollo! 
+Enviá tu CV a #Hexacta y encontrá el #empleo para vos
+
+-... http://t.co/VXx1uiwed2
+2013-09-04 16:34:10 +0000    @Hexacta    Hexacta    El código debe ser escrito para minimizar el tiempo que le llevaría a alguien más entenderlo. El blog #IT de... http://t.co/jZ8gggHghG
+2013-09-05 17:35:43 +0000    @Hexacta    Hexacta    Para seguir contribuyendo con la divulgación del uso de la #tecnología y las mejores prácticas en #software,... http://t.co/V7Gt4HNtia
+2013-09-06 17:53:34 +0000    @Hexacta    Hexacta    En #Hexacta trabajamos en conjunto a partir del conocimiento profundo del negocio y de los procesos de nuestros... http://t.co/GryAJ9dH25
+2013-09-09 17:55:58 +0000    @Hexacta    Hexacta    Hoy se festeja el día internacional del #Tester. #Hexacta les desea felicidades y agradece a todos ellos por su... http://t.co/LE3ugKQkJG
+2013-09-10 18:13:32 +0000    @Hexacta    Hexacta    Tras meses de espera, #Apple revelará sus novedades de este año. - Vía ITworld. http://t.co/lyUA9VyCxZ http://t.co/RI9OLnhKRM
+2013-09-10 18:23:55 +0000    @Hexacta    Hexacta    ¿Querés formar parte de los equipos líderes en desarrollo?
+Enviá tu CV a #Hexacta y encontrá el #empleo para... http://t.co/2IemuckhQr
+2013-09-11 17:37:12 +0000    @Hexacta    Hexacta    En solo tres semanas, #Hexacta cambió la vida de miles de ciudadanos de #BuenosAires: una ágil plataforma web... http://t.co/Qz3bygKpN2
+2013-09-13 18:42:02 +0000    @Hexacta    Hexacta    #Programadores: ¡feliz día! Gracias por compartir su talento, #Hexacta les desea muchas felicidades! http://t.co/Ir0mdggiE1
+2013-09-13 20:50:07 +0000    @Hexacta    Hexacta    NUEVO CURSO DE CERTIFIED #SCRUM DEVELOPER EN #HEXACTA
+Desarrolladores, arquitectos, diseñadores, testers, líderes... http://t.co/hC73jWvvpv
+2013-09-13 20:53:46 +0000    @Hexacta    Hexacta    NUEVO CURSO DE CERTIFIED #SCRUM DEVELOPER EN #HEXACTA ¡Anotate! 10% de descuento para inscripciones antes del 23/09 http://t.co/bKEfJV8HOA
+2013-09-16 18:27:03 +0000    @Hexacta    Hexacta    Antes de 2014 los usuarios del mundo podrían incorporar Skype a Microsoft Outlook, para hacer llamadas y... http://t.co/nlQrUg4m2K
+2013-09-17 17:42:45 +0000    @Hexacta    Hexacta    Inscribite antes del 23/09 a nuestros cursos de 5 días en Certified #SCRUM Developer junto a @ScrumAlliance, y recibí un 10% de descuento!
+2013-09-17 18:46:57 +0000    @Hexacta    Hexacta    Chequeá las búsquedas activas de #Hexacta y enviá tu CV a careers@hexacta.com
+
+- Desarrollador Front-end Ssr/Sr... http://t.co/gwHhMM0lNL
+2013-09-18 20:12:22 +0000    @Hexacta    Hexacta    ¡Quedan pocos días!
+
+NUEVO CURSO DE CERTIFIED #SCRUM DEVELOPER EN #HEXACTA
+Desarrolladores, arquitectos,... http://t.co/YrwMCO5UrU
+2013-09-19 19:32:08 +0000    @Hexacta    Hexacta    Para anotarte al curso de CERTIFIED #SCRUM DEVELOPER escribinos a scrum@hexacta.com. Quedan pocos días!
+2013-09-19 19:40:30 +0000    @Hexacta    Hexacta    CADA VEZ MÁS CERCA DE LA META!
+
+El pasado sábado, el equipo solidario de #Hexacta trabajó nuevamente en el... http://t.co/3MZuzTNDDo
+2013-09-23 18:24:45 +0000    @Hexacta    Hexacta    #Apple renueva su apariencia y, con su nuevo sistema #iOS7, generó repercusiones tanto positivas como negativas... http://t.co/JLh01SVY3O
+2013-09-24 17:40:37 +0000    @Hexacta    Hexacta    CURSO DE CERTIFIED #SCRUM DEVELOPER - Solo cinco días de duración, en las oficinas de Hexacta. Inscribite escribiendo a scrum@hexacta.com
+2013-09-24 17:44:11 +0000    @Hexacta    Hexacta    Para #trabajar con los mejores profesionales en #tecnología, chequeá las búsquedas activas de #Hexacta:
+
+-... http://t.co/oJw0ioNb4g
+2013-09-24 19:07:09 +0000    @Hexacta    Hexacta    ÚLTIMOS DÍAS PARA INSCRIBIRSE AL CURSO DE CERTIFIED #SCRUM DEVELOPER DE #HEXACTA
+
+Mandá un mail con tus datos a... http://t.co/vLuSsNp1G0
+2013-09-25 14:30:35 +0000    @Hexacta    Hexacta    Profundizá tu experiencia: #Curso de Certified #Scrum Developer, en #Hexacta. Escribinos a scrum@hexacta.com. Quedan pocos días!
+2013-09-25 16:01:55 +0000    @Hexacta    Hexacta    Compartimos con ustedes el conocimiento y experiencia de nuestro equipo #HAT a través del blog #IT. En esta... http://t.co/204JaY5DdE
+2013-09-26 18:12:26 +0000    @Hexacta    Hexacta    El trabajo de los #hexácticos en el Hogar #Querubines aún no termina. Gran parte de las refacciones se realizaron... http://t.co/wMiLYkf4oy
+2013-09-27 21:03:24 +0000    @Hexacta    Hexacta    ¡Bienvenida Primavera a #Hexacta! Disfrutá con nosotros el viernes de #Happy #Hour en la oficina de Las Cañitas.... http://t.co/59osaTKEop
+2013-10-01 17:51:57 +0000    @Hexacta    Hexacta    Comenzó la semana de curso en Certified #Scrum Developer en #Hexacta. Hoy, #Agile Engineering Practices... http://t.co/2zcKz4QxmE
+2013-10-02 20:04:53 +0000    @Hexacta    Hexacta    Sé parte del equipo de talentos de #Hexacta. Chequeá nuestras búsquedas activas en http://t.co/KCdQq3adhn:
+
+-... http://t.co/NM96Y97cVT
+2013-10-03 19:46:14 +0000    @Hexacta    Hexacta    Profesionales de #Hexacta compartirán mañana su experiencia sobre #ALM en una charla gratuita convocados por la... http://t.co/IU7Ofk8Nun
+2013-10-03 19:47:44 +0000    @Hexacta    Hexacta    Profesionales de #Hexacta compartirán mañana su experiencia sobre #ALM en una charla gratuita convocados por la... http://t.co/WO9pgHAbIo
+2013-10-04 17:44:40 +0000    @Hexacta    Hexacta    Hoy es el último día del curso de Certified #Scrum Developer en #Hexacta Las Cañitas. Alumnos del interior del... http://t.co/YvuJDbUrhR
+2013-10-04 17:56:14 +0000    @Hexacta    Hexacta    new Post: BigData – HDInsight . http://t.co/7I0PI3i03L
+2013-10-04 18:33:35 +0000    @Hexacta    Hexacta    ¿Querés aprender .NET? Podés hacerlo gratis en #Hexacta (sí, gratis..) Inscribite en http://t.co/WlkHLvDxr0
+2013-10-07 20:25:21 +0000    @Hexacta    Hexacta    #Blackberry to the cloud! http://t.co/KN7DnRUNn3 http://t.co/DG7D5Y2ssb
+2013-10-07 20:26:20 +0000    @Hexacta    Hexacta    CAPACITARTE EN #HEXACTA ES #GRATIS. Mirá: http://t.co/5DrJpERRKH
+2013-10-08 17:52:27 +0000    @Hexacta    Hexacta    Inscribite al curso gratuito .NET vía #Hexacta.- Del 29/10 al 14/11, todos los martes y jueves. Tenés tiempo para... http://t.co/xNgxGk6Mk8
+2013-10-08 19:22:12 +0000    @Hexacta    Hexacta    ¿Por qué crece la demanda de HDInsight, la versión adaptada de Apache Hadoop para funcionar en #Windows Azure?... http://t.co/mLKVQTymQI
+2013-10-09 17:46:28 +0000    @Hexacta    Hexacta    ¿Querés formar parte del equipo de profesionales de #Hexacta? Chequeá nuestras búsquedas activas en... http://t.co/9U2arsivDm
+2013-10-09 19:11:04 +0000    @Hexacta    Hexacta    Cada vez falta menos &gt;&gt; Tenés hasta el 22/10 para inscribirte al curso de #Hexacta #Labs sobre .NET - No pierdas... http://t.co/m0kYrqnd9f
+2013-10-15 17:41:27 +0000    @Hexacta    Hexacta    QUEDA UNA SEMANA &gt;&gt; Inscribite en http://t.co/WlkHLvDxr0 al curso gratuito de .NET para estudiantes universitarios. Te esperamos!
+2013-10-15 18:15:30 +0000    @Hexacta    Hexacta    "Cloud is inevitable home for enterprise computing", Google chairman Eric Schmidt. http://t.co/Jjn4RcRyen http://t.co/8LsJHsOPiB
+2013-10-15 18:50:31 +0000    @Hexacta    Hexacta    QUEDA UNA SEMANA &gt;&gt; ¿Querés aprender .NET? ... Gratis? Si sos estudiante de los últimos años de las carreras de... http://t.co/9jaDsBMG3L
+2013-10-16 17:58:32 +0000    @Hexacta    Hexacta    Chequeá las búsquedas activas en #Hexacta y envianos tu CV a careers@hexacta.com http://t.co/KCdQq3adhn:
+
+-... http://t.co/usMXihGeXA
+2013-10-17 18:10:15 +0000    @Hexacta    Hexacta    Una vez más, #Hexacta es finalista en los Premios #Sadosky de Cessi ArgenTIna en las categorías "Solución... http://t.co/rbTF8gucKd
+2013-10-17 19:23:48 +0000    @Hexacta    Hexacta    El proyecto #SUACI (Sistema Único de Atención Ciudadana) de #Hexacta fue seleccionado para formar parte de la... http://t.co/Eyqo1GKx3r
+2013-10-17 20:34:41 +0000    @Hexacta    Hexacta    &gt;&gt; QUEDAN 5 DÍAS para inscribirte al curso gratuito de .NET en #Hexacta. ¿Todavía no te anotaste? Ingresá a... http://t.co/SLJ0Cvi9R1
+2013-10-18 19:05:17 +0000    @Hexacta    Hexacta    Ya llega una nueva jornada de cursos de CERTIFIED #SCRUM DEVELOPER en #Hexacta Las Cañitas...
+2013-10-18 19:08:49 +0000    @Hexacta    Hexacta    He publicado 12 fotos en Facebook en el álbum "Hx SPRING 2013!". http://t.co/H788aF1Dt5
+2013-10-20 14:00:05 +0000    @Hexacta    Hexacta    Les deseamos un muy feliz día a todas las mamás de #Hexacta y todo el mundo! http://t.co/UYZcSnm6kl
+2013-10-21 18:28:52 +0000    @Hexacta    Hexacta    ¿Todavía no te inscribiste?
+&gt;&gt; ÚLTIMO DÍA para inscribirte a nuestro curso gratuito de .NET 
+Si sos alumno de... http://t.co/7nedcQz8Ov
+2013-10-22 17:39:52 +0000    @Hexacta    Hexacta    He publicado 15 fotos en Facebook en el álbum "Certified Scrum Developer - Octubre". http://t.co/BU74iAAwgN
+2013-10-23 17:29:16 +0000    @Hexacta    Hexacta    El blog #HAT de #Hexacta explica cómo modificar los datos cargados en HDInsight, para guardarlos en una tabla y... http://t.co/rXiMSeouqC
+2013-10-23 19:44:14 +0000    @Hexacta    Hexacta    Chequeá las búsquedas activas en #Hexacta y envianos tu CV a careers@hexacta.com http://t.co/KCdQq3adhn:
+
+-... http://t.co/1TvwPXCqQc
+2013-10-24 18:42:26 +0000    @Hexacta    Hexacta    #TodosPorDelfina + HEXACTA
+
+Delfina Vassallo tiene 4 años y sufre de una Leucemia aguda. Lo único que puede... http://t.co/d0fyrhJPug
+2013-10-24 19:23:44 +0000    @Hexacta    Hexacta    &gt;&gt; ATENCIÓN BAHÍA BLANCA! http://t.co/blkpROsUIn
+2013-10-24 19:39:42 +0000    @Hexacta    Hexacta    &gt;&gt; ATENCIÓN BAHÍA BLANCA! http://t.co/Cme5U3m52P
+2013-10-25 17:53:56 +0000    @Hexacta    Hexacta    Entrenando en los alrededores de #Hexacta, en el barrio de Las Cañitas, los equipos comparten la importancia de... http://t.co/s1Lk3t5wy0
+2013-10-25 17:58:31 +0000    @Hexacta    Hexacta    Entrenando en los alrededores de #Hexacta, en el barrio de Las Cañitas, los equipos comparten la importancia de... http://t.co/SCkmcpVmCd
+2013-10-28 19:25:53 +0000    @Hexacta    Hexacta    ¿Te perdiste el primero?
+&gt;&gt; NUEVA JORNADA DE CERTIFIED #SCRUM DEVELOPER
+Desarrolladores, arquitectos,... http://t.co/wStKX6FN9N
+2013-10-29 18:39:02 +0000    @Hexacta    Hexacta    #HEXACTA +VOS!
+
+Ayudanos con tu voto &gt;&gt; Seleccioná a #Hexacta (#10) en el sitio de Cessi ArgenTIna para que... http://t.co/VXRUBvi15R
+2013-10-29 18:43:08 +0000    @Hexacta    Hexacta    #Hexacta necesita tu click! Votá en http://t.co/ZidH67YGYz por Hexacta (#10) o Proyecto SUACI (#7) y premianos junto a @CessiArgenTIna
+2013-10-29 19:40:53 +0000    @Hexacta    Hexacta    &gt;&gt; ATENCIÓN BAHÍA BLANCA!
+¿Querés unirte a nuestro equipo de profesionales? http://t.co/akengj4XaZ
+2013-10-30 13:00:03 +0000    @Hexacta    Hexacta    #Hexacta necesita tu click! Votá por Hexacta (#10) o Proyecto SUACI (#7) y premianos junto a Cessi ArgenTIna en http://t.co/ZidH67YGYz
+2013-10-30 17:21:17 +0000    @Hexacta    Hexacta    Chequeá las búsquedas activas en #Hexacta y enviá tu CV a careers@hexacta.com http://t.co/KCdQq3adhn:
+
+- Tester... http://t.co/BFCEzoLYLo
+2013-10-30 19:37:37 +0000    @Hexacta    Hexacta    Nuevo curso de CERTIFIED #SCRUM DEVELOPER en #Hexacta Las Cañitas. No te lo pierdas! http://t.co/bKEfJV8HOA
+2013-10-31 13:39:36 +0000    @Hexacta    Hexacta    &gt;&gt; NUEVA JORNADA DE CERTIFIED #SCRUM DEVELOPER
+Anotate para participar de los 5 días de capacitación en Scrum y... http://t.co/lIOAe1CV7a
+2013-11-01 15:46:36 +0000    @Hexacta    Hexacta    He publicado 6 fotos en Facebook en el álbum "#PremiosSadosky 2013: doble reconocimiento". http://t.co/nasaySge2O
+2013-11-04 18:04:18 +0000    @Hexacta    Hexacta    ¡Felicitamos desde #Hexacta a Proyecto Nahual por recibir el merecido Premio Sadosky de Oro 2013 por su proyecto... http://t.co/nhIM8X4u5q
+2013-11-04 18:06:30 +0000    @Hexacta    Hexacta    ¡Felicitamos desde #Hexacta a Proyecto Nahual por recibir el merecido Premio #Sadosky de Oro 2013 por su proyecto... http://t.co/GHzENamAta
+2013-11-04 19:52:56 +0000    @Hexacta    Hexacta    &gt;&gt; ¡SIGUE ABIERTA LA INSCRIPCIÓN! Nueva jornada de CERTIFIED #SCRUM DEVELOPER en #Hexacta
+Desarrolladores,... http://t.co/LgkVOurmZd
+2013-11-05 18:07:40 +0000    @Hexacta    Hexacta    Conocé por dentro a la mejor empresa IT del año. Paseá por la nueva galería de fotos de #Hexacta en flickr:... http://t.co/Ch3RKH8CKL
+2013-11-06 18:08:12 +0000    @Hexacta    Hexacta    ¿Querés sumarte a nuestros equipos de trabajo?
+Chequeá las posiciones disponibles y envianos tu CV a... http://t.co/c8sZo1tgs2
+2013-11-06 19:01:08 +0000    @Hexacta    Hexacta    Los #PremiosSadosky 2013 de #Hexacta: doble reconocimiento en una misma noche. http://t.co/7fwcsvPV73 http://t.co/xAnzWIquwy
+2013-11-07 13:30:03 +0000    @Hexacta    Hexacta    &gt;&gt; ÚLTIMOS DOS DÍAS DE DESCUENTO
+Hasta mañana, 8 de noviembre, continua el vigente el 10% de descuento en el... http://t.co/j7ZnQRNRy0
+2013-11-08 20:15:20 +0000    @Hexacta    Hexacta    Los equipos de #Hexacta de Buenos Aires, Paraná, La Plata y Bahía Blanca trabajan cada día por ofrecer lo mejor... http://t.co/DeN8nNh74p
+2013-11-12 20:06:39 +0000    @Hexacta    Hexacta    #Hexacta +Facultad Regional de Santa Fe
+El seminario "Tecnologías para la Producción de Aplicaciones... http://t.co/8fBuHuKMmR
+2013-11-13 17:27:20 +0000    @Hexacta    Hexacta    ¿Querés sumarte a nuestros equipos de trabajo?
+Chequeá las posiciones disponibles y envianos tu CV a... http://t.co/VSv0ZEVkBE
+2013-11-15 20:49:54 +0000    @Hexacta    Hexacta    #Hexacta + Microsoft
+El martes 19 te esperamos en las oficinas de Hexacta Las Cañitas para participar de las... http://t.co/pIN0UuNGUu
+2013-11-19 20:59:09 +0000    @Hexacta    Hexacta    He publicado 11 fotos en Facebook en el álbum "Certified Scrum Developer + Telecom". http://t.co/tZxfWiCJnM
+2013-11-20 17:42:59 +0000    @Hexacta    Hexacta    Sumá tu talento a #Hexacta. Chequeá las búsquedas activas y envianos tu cv o el de un amigo a careers@hexacta.com... http://t.co/fs4NLxJyrT
+2013-11-26 20:23:16 +0000    @Hexacta    Hexacta    &gt;&gt;&gt; Este viernes #Hexacta será sede del próximo encuentro de AngularJS en Buenos Aires. El cupo máximo es de 40... http://t.co/zTPYGxBRoA
+2013-11-27 17:29:54 +0000    @Hexacta    Hexacta    Chequeá nuestras búsquedas activas envianos tu CV o el de un amigo a careers@hexacta.com... http://t.co/Feq0zyKx56
+2013-11-27 17:44:55 +0000    @Hexacta    Hexacta    Aplausos para #Hexacta una vez más, #7 entre #LasMejoresGPTW2013 de hasta 250 empleados. Otro año de éxito! @GPTW_Argentina
+2013-11-27 17:52:38 +0000    @Hexacta    Hexacta    RT @GPTW_Argentina: Felicitaciones a @Hexacta que ocupa el puesto 7 del ranking 2013 #LasMejoresGPTW2013. Hasta 250 empleados @clarincom @w…
+2013-11-27 18:19:39 +0000    @Hexacta    Hexacta    He publicado 5 fotos en Facebook en el álbum "Somos #7 en Great Place to Work". http://t.co/frsy4omvxj
+2013-11-28 17:42:58 +0000    @Hexacta    Hexacta    &gt;&gt;&gt;¿Cómo hacer para que un carousel de Bootstrap muestre varios elementos al mismo tiempo? El blog #HAT de... http://t.co/1N0ePGqHiK
+2013-11-29 19:20:15 +0000    @Hexacta    Hexacta    &gt;&gt;&gt; HOY Meetup AngularJS en las oficinas de #Hexacta! ¿No pudiste inscribirte? Todavía podés participar vía... http://t.co/EqkZP3rkBu
+2013-11-29 19:42:10 +0000    @Hexacta    Hexacta    &gt;&gt;&gt; HOY Meetup AngularJS en las oficinas de #Hexacta Buenos Aires! ¿No pudiste inscribirte? Todavía podés... http://t.co/zNMHCWPeie
+2013-12-02 18:33:39 +0000    @Hexacta    Hexacta    Compartimos con ustedes lo que fue el Meetup del viernes pasado en las oficinas de #Hexacta. Casi dos horas de... http://t.co/uU5mBDMqjg
+2013-12-03 14:28:35 +0000    @Hexacta    Hexacta    Juan Navarro, Socio Fundador de #Hexacta y representante de la Cessi ArgenTIna, formó parte del Outsource2LAC,... http://t.co/OjzPlBMmNE
+2013-12-03 15:37:41 +0000    @Hexacta    Hexacta    &gt;&gt;&gt;Ya te contamos cómo hacer para que un carousel de Bootstrap muestre varios elementos al mismo tiempo; ahora,... http://t.co/wY1j2qygeu
+2013-12-04 14:10:21 +0000    @Hexacta    Hexacta    He publicado 9 fotos en Facebook en el álbum "Hexacta hostea a la comunidad Angular de Buenos Aires". http://t.co/rFPcshaMEI
+2013-12-04 14:32:42 +0000    @Hexacta    Hexacta    RT @DuranCristhian: Pueden ver el segundo meetup de #AngularJSBA acá  https://t.co/DoPzZuE9WL cortesía de @Hexacta y con la voz de @juanma_…
+2013-12-04 14:33:08 +0000    @Hexacta    Hexacta    RT @mfourky: Muy bueno el Meetup 02 de #AngularJSBA se armaron lindas charlas   https://t.co/lA1jZUz34W en @Hexacta
+2013-12-04 17:09:01 +0000    @Hexacta    Hexacta    Sumá tu talento a #Hexacta. Chequeá las búsquedas activas y envianos tu CV o el de un amigo a careers@hexacta.com... http://t.co/JM1fq5lJ8j
+2013-12-06 17:30:09 +0000    @Hexacta    Hexacta    #Hexacta es trabajo en equipo, excelencia y profesionalismo http://t.co/H5W6zdQMiP
+2013-12-10 15:13:22 +0000    @Hexacta    Hexacta    Usando IIS 7.0 se puede habilitar SSL en un sitio web existente en menos de 30 segundos. El tutorial en el blog... http://t.co/LV1dlS5CpG
+2013-12-11 16:49:24 +0000    @Hexacta    Hexacta    Chequeá nuestras búsquedas activas y envianos tu CV o el de un amigo a careers@hexacta.com!... http://t.co/i4LgfrfcIC
+2013-12-18 15:46:09 +0000    @Hexacta    Hexacta    La tecnología Mobile crece a pasos agigantados desde hace años. Se acerca fin de año, y por eso ReadWrite... http://t.co/yf1WV0cLz8
+2013-12-25 17:30:03 +0000    @Hexacta    Hexacta    ¡Felices fiestas a todos! http://t.co/cSAa8NNfxo
+2013-12-27 17:30:04 +0000    @Hexacta    Hexacta    ¿Querés sumarte a nuestros equipos? Chequeá las búsquedas activas y envianos tu CV a careers@hexacta.com... http://t.co/wGjhiNVwfR
+2013-12-30 17:30:03 +0000    @Hexacta    Hexacta    Nuestro blog #HAT explica cómo, con solo un par de herramientas para unix, podemos hacer streaming de video... http://t.co/0aBfKKva1D
+2014-01-01 17:00:04 +0000    @Hexacta    Hexacta    ¡Nuestros mejores deseos para el año que comienza! http://t.co/FELiRnFtJM
+2014-01-06 16:26:56 +0000    @Hexacta    Hexacta    Llegó un año nuevo; encontrá un trabajo nuevo
+¿Querés formar parte de nuestro equipo de profesionales? Envía tu... http://t.co/sTmKKCHZe1
+2014-01-07 20:16:21 +0000    @Hexacta    Hexacta    Chequeá los pasos necesarios para obtener reportes de code coverage en Java corriendo en un servidor local o... http://t.co/7M16eXRPHY
+2014-01-08 15:51:39 +0000    @Hexacta    Hexacta    He publicado 24 fotos en Facebook en el álbum "¡Los Reyes Magos pasaron por Hexacta!". http://t.co/a2lB15r5rM
+2014-01-09 15:32:48 +0000    @Hexacta    Hexacta    Sumá tu talento a #Hexacta. Te ofrecemos sumarte a desafiantes proyectos. Envianos tu CV o el de un amigo a... http://t.co/mLzmIxHNAf
+2014-01-09 16:05:42 +0000    @Hexacta    Hexacta    #TRABAJO Buscamos Desarrollador Java Sr. Envianos tu CV o el de un amigo a careers@hexacta.com. Sumá tu talento a #Hexacta.
+2014-01-14 14:21:27 +0000    @Hexacta    Hexacta    Buscamos Consultor Funcional Ssr /Sr. Sumá tu talento a #Hexacta y conocé lo que es trabajar en un espacio de... http://t.co/QQzvEKa9VT
+2014-01-15 17:56:49 +0000    @Hexacta    Hexacta    #Hexacta La Plata busca un Desarrollador PHP Ssr para formar parte de nuestro equipo de trabajo. Sumá tu talento... http://t.co/hP9VljnSn4
+2014-01-17 16:37:17 +0000    @Hexacta    Hexacta    Visitá nuestra galería de fotos en Flickr: http://t.co/vXF8zfvgOt http://t.co/5phINY54Nz
+2014-01-21 17:00:03 +0000    @Hexacta    Hexacta    ¿Querés sumarte a nuestro equipo? Viví tu primer experiencia de trabajo en #Hexacta. Nuestras oficinas de Las... http://t.co/LyhOIVgvgF
+2014-01-27 16:19:40 +0000    @Hexacta    Hexacta    Buscamos Desarrollador .net MS Dynamics CRM Sr para nuestras oficinas en Buenos Aires o Bahía Blanca.... http://t.co/wbKgoCpqGL
+2014-01-28 16:14:25 +0000    @Hexacta    Hexacta    Sigue abierta la vacante para el puesto de Desarrollador Java Ssr/Sr para nuestras oficinas de Capital Federal.... http://t.co/oZAlwZU8lu
+2014-01-30 16:45:56 +0000    @Hexacta    Hexacta    Visitalo: http://t.co/DKtMcIQECA http://t.co/fPsXb4wQss
+2014-02-04 17:46:36 +0000    @Hexacta    Hexacta    Buscamos Consultor Funcional Ssr/Sr para nuestras oficinas de Capital Federal. ¿Querés formar parte de nuestro... http://t.co/bJD1jnL1Fi
+2014-02-05 16:15:51 +0000    @Hexacta    Hexacta    &gt;&gt;&gt; Nuevo curso de Certified #Scrum Developer en #Hexacta Buenos Aires! Inscripciones con descuento hasta el 17... http://t.co/GkZO7hEnCy
+2014-02-06 17:10:37 +0000    @Hexacta    Hexacta    &gt;&gt;&gt; #MeetUp Angular JS: 13 de febrero
+Hexacta recibirá a Matias Woloski (@woloski) y Alberto Pose (@thepose) de... http://t.co/B6c4TqjJCY
+2014-02-07 16:18:40 +0000    @Hexacta    Hexacta    Sigue abierta la búsqueda de Desarrollador PHP Ssr/Sr para las oficinas de #Hexacta La Plata. Si tu perfil... http://t.co/xjedgpT73D
+2014-02-07 21:30:05 +0000    @Hexacta    Hexacta    Volvieron los cursos de Certified #Scrum Developer en Hexacta!
+Del 24 al 28 de febrero, desarrolladores,... http://t.co/ANWVNdmq5R
+2014-02-11 16:40:10 +0000    @Hexacta    Hexacta    &gt;&gt;&gt; ¿Ya te inscribiste para participar del nuevo Meetup de la comunidad AngularJS?
+En las oficinas de Hexacta... http://t.co/Ipd5WdrecM
+2014-02-12 16:12:41 +0000    @Hexacta    Hexacta    Paso a paso, en nuestro blog #HAT: http://t.co/cN3dZftQIQ http://t.co/FzIxFtaEJJ
+2014-02-12 16:16:17 +0000    @Hexacta    Hexacta    &gt;&gt; MAÑANA! #Meetup #AngularJS en #Hexacta para debatir la impementación de JSON Web Tokens. Participá vía streaming http://t.co/ubZxFa1G6K
+2014-02-13 15:52:19 +0000    @Hexacta    Hexacta    ¡No pierdas la oportunidad de realizar tu primer experiencia profesional en #Hexacta! Si sos estudiante para... http://t.co/gSPvDoL62u
+2014-02-13 15:56:31 +0000    @Hexacta    Hexacta    &gt;&gt; NUEVA JORNADA DE CERTIFIED #SCRUM DEVELOPER
+Anotate para participar de los 5 días de capacitación en Scrum y... http://t.co/4tSxxGS2zh
+2014-02-13 20:30:03 +0000    @Hexacta    Hexacta    &gt;&gt;&gt; HOY! Participá vía streaming del nuevo #Meetup de la comunidad #AngularJS Buenos Aires que se realizará en... http://t.co/rySQhyYZMb
+2014-02-14 18:00:04 +0000    @Hexacta    Hexacta    Buscamos Desarrollador #Java Ssr/Sr para nuestras oficinas en Buenos Aires. Si estás interesado o tenés alguien a... http://t.co/tq0wML1GfP
+2014-02-14 21:30:03 +0000    @Hexacta    Hexacta    &gt;&gt; NUEVA JORNADA DE CERTIFIED #SCRUM DEVELOPER
+Anotate para participar de los 5 días de capacitación en Scrum y... http://t.co/ESk5WK399D
+2014-02-17 19:00:04 +0000    @Hexacta    Hexacta    ¿Querés sumarte a nuestro equipo? Buscamos Tester Ssr/Sr con inglés avanzado para #Hexacta Buenos Aires.... http://t.co/CDWAhinc0L
+2014-02-18 17:00:04 +0000    @Hexacta    Hexacta    Sigue abierta la búsqueda de Desarrollador PHP Ssr/Sr para las oficinas de #Hexacta La Plata. Si tu perfil... http://t.co/Up7WNeEOEH
+2014-02-18 22:00:03 +0000    @Hexacta    Hexacta    ¿Querés aprender #Scrum de la mano de los expertos de la región?
+&gt;&gt;&gt; Nueva jornada de Certified #Scrum Developer... http://t.co/qaO0HWqz4G
+2014-02-19 16:42:18 +0000    @Hexacta    Hexacta    Buscamos Desarrollador .Net Sharepoint para nuestras oficinas en Buenos Aires. Si querés sumarte a la desafiante... http://t.co/f6uw6Py51a
+2014-02-20 16:39:15 +0000    @Hexacta    Hexacta    ¡Quedan pocos días! Si querés certificarte en #Scrum junto a los profesionales con mayor experiencia de la... http://t.co/pwj1WiSoik
+2014-02-21 18:22:45 +0000    @Hexacta    Hexacta    ¿Conocés nuestro programa de pasantías? Postulate y comenzá tu carrera profesional como miembro del equipo de... http://t.co/Fw7zU9GQP5
+2014-02-24 16:56:23 +0000    @Hexacta    Hexacta    Paso a paso, en el blog #HAT de Hexacta: http://t.co/KdoZB4S1wk http://t.co/N0DHgBSR7y
+2014-02-25 15:18:38 +0000    @Hexacta    Hexacta    Sumate al CODE KATA de #Hexacta el 12/03, y aplicá en grupo las mejores prácticas de TDD y Clean Code. http://t.co/GJr6DQ3XRq
+2014-02-25 17:13:58 +0000    @Hexacta    Hexacta    Reservá tu lugar para el nuevo CODE KATA de mejores prácticas de TDD y Code Clean, en Hexacta Buenos Aires:... http://t.co/JK3dMUmnjl
+2014-02-26 16:08:35 +0000    @Hexacta    Hexacta    Buscamos Desarrollador Java Ssr/Sr para las oficinas hexácticas de Buenos Aires. Postulate o postulá a un... http://t.co/s9t1UBAqdJ
+2014-02-28 15:04:11 +0000    @Hexacta    Hexacta    Publiqué una nueva foto en Facebook http://t.co/Cv3eWqNC3M
+2014-02-28 15:04:11 +0000    @Hexacta    Hexacta    Publiqué una nueva foto en Facebook http://t.co/Al3Zx7iNlk
+2014-02-28 15:05:21 +0000    @Hexacta    Hexacta    Publiqué una nueva foto en Facebook http://t.co/9sHj0yh1vo
+2014-02-28 15:05:21 +0000    @Hexacta    Hexacta    Publiqué una nueva foto en Facebook http://t.co/Le707xkTrf
+2014-02-28 15:05:22 +0000    @Hexacta    Hexacta    Cerramos el mes festejando juntos los cumpleaños #hexácticos de Febrero!
+2014-03-05 17:34:26 +0000    @Hexacta    Hexacta    Aprovechá esta semana corta para mandar tu CV. Sumá tu talento a Hexacta y adquirí tu primer experiencia... http://t.co/p5UJl3rdhO
+2014-03-07 19:06:01 +0000    @Hexacta    Hexacta    Los 5 puntos más llamativos para tener en cuenta de #Dart, en nuestro blog #HAT: http://t.co/zlir5EvzWV http://t.co/ZXhpmv5flL
+2014-03-08 16:00:05 +0000    @Hexacta    Hexacta    ¡Feliz Día Internacional de la #Mujer! http://t.co/gagLisUlhl
+2014-03-10 17:56:54 +0000    @Hexacta    Hexacta    Buscamos Desarrollador .net para nuestras oficinas en Buenos Aires. Enviá tu CV a careers@hexacta.com y concertá... http://t.co/udBmzNMA7N
+2014-03-11 15:33:16 +0000    @Hexacta    Hexacta    Publiqué una nueva foto en Facebook http://t.co/TjBSIDy2eO
+2014-03-11 15:33:17 +0000    @Hexacta    Hexacta    Publiqué una nueva foto en Facebook http://t.co/T5R3cyJ4Hu
+2014-03-11 15:33:18 +0000    @Hexacta    Hexacta    Publiqué una nueva foto en Facebook http://t.co/72nvSPEHEm
+2014-03-11 15:33:19 +0000    @Hexacta    Hexacta    Publiqué una nueva foto en Facebook http://t.co/nniQHyiZM6
+2014-03-11 15:33:19 +0000    @Hexacta    Hexacta    Publiqué una nueva foto en Facebook http://t.co/cPruTHZARN
+2014-03-11 15:33:20 +0000    @Hexacta    Hexacta    En Hexacta agasajamos a nuestras mujeres con un té exclusivo para ellas en el #DíaInternacionalDeLaMujer
+2014-03-12 17:53:16 +0000    @Hexacta    Hexacta    Se busca Desarrollador #Java Ssr para Hexacta Buenos Aires.
+Querés formar parte de nuestro equipo de... http://t.co/KSkNtnaLqb
+2014-03-14 18:20:00 +0000    @Hexacta    Hexacta    ¿Cómo resolver la incómoda interacción entre nuestro código Dart y el HTML? El blog #HAT de Hexacta lo explica en... http://t.co/Ul6TRVfLg8
+2014-03-19 18:57:41 +0000    @Hexacta    Hexacta    ¿Desarrollás Apps #Mobile? ¿Querés saber más sobre programación en HTML5?
+&gt; Participá del nuevo #Meetup AngularJS... http://t.co/NJPrAs0oRe
+2014-03-19 19:00:11 +0000    @Hexacta    Hexacta    Nuevo Meeutp #AngularJS en #Hexacta Buenos Aires. Si querés desarrollar Apps Mobile o saber más sobre HTML5, anotate: http://t.co/jyb1QJzJic
+2014-03-19 21:30:04 +0000    @Hexacta    Hexacta    Sumá tu talento a Hexacta. Envianos tu CV a careers@hexacta.com si tu perfil coincide con alguna de nuestras... http://t.co/9cL4DzHaxl
+2014-03-20 20:37:02 +0000    @Hexacta    Hexacta    Si querés trabajar en un ambiente proclive a la formación y el desarrollo profesional, sumá tu talento a Hexacta.... http://t.co/ONse1b5tBa
+2014-03-21 18:00:15 +0000    @Hexacta    Hexacta    Una nota en el diario LA NACION cuenta cómo utilizan los vecinos  la línea de contacto directo que Hexacta creó... http://t.co/4oBhVmn2yu
+2014-03-21 18:19:00 +0000    @Hexacta    Hexacta    Una nota en el diario LA NACION cuenta cómo los ciudadanos utilizan la línea de contacto directo que desarrolló... http://t.co/oCEMR8aQis
+2014-03-25 19:14:30 +0000    @Hexacta    Hexacta    ¿Ya reservaste tu lugar en el nuevo #Meetup de #AngularJS en Hexacta? Este jueves vamos a debatir acerca de... http://t.co/7l5b4wfEOI
+2014-03-26 17:56:19 +0000    @Hexacta    Hexacta    Si sos Desarrollador Python y querés sumarte a un nuevo desafío profesional, envianos tu CV a careers@hexacta.com... http://t.co/7AAqesGfeo
+2014-03-26 18:24:55 +0000    @Hexacta    Hexacta    Si sos Desarrollador .NET Ssr/Sr y querés sumarte a un nuevo desafío profesional, envianos tu CV a... http://t.co/tb8ifDvG5f
+2014-03-28 14:06:59 +0000    @Hexacta    Hexacta    30 personas se acercaron ayer a Hexacta Buenos Aires para participar del #Meetup de #AngularJS sobre aplicaciones... http://t.co/gm2VRrXwA2
+2014-03-28 14:26:58 +0000    @Hexacta    Hexacta    30 personas se acercaron ayer a Hexacta Buenos Aires para participar del #Meetup de #AngularJS sobre aplicaciones... http://t.co/5o1iRSn0Py
+2014-04-01 20:01:18 +0000    @Hexacta    Hexacta    Buscamos #Tester Ssr/Sr con inglés para incorporarlo a las oficinas hexácticas de Buenos Aires. Enviá tu CV o el... http://t.co/fyy7tada4q
+2014-04-03 19:43:42 +0000    @Hexacta    Hexacta    Eventos asincrónicos con #AngularJS, en nuestro blog #HAT: http://t.co/dQ6EkodzoP http://t.co/uIqyb5unaP
+2014-04-08 20:27:10 +0000    @Hexacta    Hexacta    Buscamos Desarrollador Sharepoint Sr para las oficinas de Hexacta Buenos Aires. ¿Interesado? Enviá tu CV a... http://t.co/oZMNlm1roa
+2014-04-09 19:28:57 +0000    @Hexacta    Hexacta    ¿Querés sumarte a nuestro equipo? Buscamos #Tester Ssr/Sr con inglés avanzado para Hexacta Buenos Aires.... http://t.co/W4zVWcjnIW
+2014-04-10 18:54:10 +0000    @Hexacta    Hexacta    Seguí conociendo nuestras búsquedas en: http://t.co/LaEOB7pxSh http://t.co/8tUHO6bqrP
+2014-04-11 18:11:18 +0000    @Hexacta    Hexacta    Restangular &amp; Reactive Programming con AngularJS http://t.co/4YeFcC0PO4
+2014-04-11 18:15:23 +0000    @Hexacta    Hexacta    Publiqué una nueva foto en Facebook http://t.co/2Hc68vuZHE
+2014-04-11 18:15:23 +0000    @Hexacta    Hexacta    Publiqué una nueva foto en Facebook http://t.co/X7lGWMX3GI
+2014-04-11 18:15:24 +0000    @Hexacta    Hexacta    El miércoles pasado, Martín Gontovnikas (@mgonto) brindó dos charlas en una para el #Meetup de #AngularJSBA! 
+La... http://t.co/nRkR7Mmo2h
+2014-04-15 20:35:35 +0000    @Hexacta    Hexacta    Buscamos Desarrollador #Java Ssr/Sr con inglés para sumar a nuestros equipos de Buenos Aires. Si buscás unirte a... http://t.co/J1rgWYym6D
+2014-04-16 17:56:24 +0000    @Hexacta    Hexacta    ¿Cómo agregar soporte para CORS en Web API? Chequeá las indicaciones en nuestro blog #HAT: http://t.co/xnCRO2hMqc http://t.co/LUUMgZg966
+2014-04-24 15:35:56 +0000    @Hexacta    Hexacta    Si querés sumar tu talento a nuestros equipos, enviá tu CV a careers@hexacta.com. Chequeá nuestras búsquedas... http://t.co/NLHjSqXvbM
+2014-04-27 14:00:03 +0000    @Hexacta    Hexacta    ¡Felíz Día Mundial del Diseñador Gráfico! http://t.co/SUeHchDIaH
+2014-04-28 15:45:02 +0000    @Hexacta    Hexacta    Conocé más sobre Typeahead para #AngularJS con Ajax, en nuestro blog #HAT: http://t.co/YxQdMvznKs http://t.co/vQ6NvfGvlN
+2014-04-30 20:55:30 +0000    @Hexacta    Hexacta    Antes del feriado largo, envianos tu CV a careers@hexacta.com y festejá junto a nosotros tu próximo Día del... http://t.co/bn0aSihAWe
+2014-05-01 14:00:04 +0000    @Hexacta    Hexacta    ¡Felíz Día del #Trabajador! http://t.co/saSUlbPwMU
+2014-05-07 19:36:18 +0000    @Hexacta    Hexacta    Buscamos Desarrollador #Sharepoint Sr. para formar parte de importante proyecto de reconocida empresa nacional. Si... http://t.co/Q64Ebm4daa
+2014-05-09 17:41:10 +0000    @Hexacta    Hexacta    Sumá tu talento a Hexacta. Si sos Arquitecto .NET, enviá tu CV a careers@hexacta.com y nos pondremos en contacto... http://t.co/lrvcattJoW
+2014-05-12 20:16:27 +0000    @Hexacta    Hexacta    Te contamos cómo registrar qué validaciones fallaron en un form con AngularJS, en nuestro blog #HAT:... http://t.co/XKmsN3l8bz
+2014-05-14 18:02:03 +0000    @Hexacta    Hexacta    Si sos Consultor Funcional Jr/Ssr y te interesa sumarte a nuestros desafiantes proyectos, enviá tu CV a... http://t.co/Kwj6Zv6keQ
+2014-05-15 15:37:27 +0000    @Hexacta    Hexacta    &gt;&gt; Inaguramos nuestros #Geeklunch 2014!
+Vamos a ver algunas curiosidades sobre números, paradojas y problemas que... http://t.co/gqyBzyjRMq
+2014-05-15 15:47:32 +0000    @Hexacta    Hexacta    &gt;&gt; ¡Faltan 15' para dar comienzo al primer #GeekLunch del año!
+¿Qué puede ser más #geek que los números? En este... http://t.co/aDdG2rizyn
+2014-05-15 21:00:35 +0000    @Hexacta    Hexacta    Nuevo curso #JAVA gratuito en #HexactaBA. No pierdas la oportunidad de recibir la orientación de los más... http://t.co/cugzGTF7Ot
+2014-05-15 21:07:08 +0000    @Hexacta    Hexacta    CURSO #JAVA gratuito en Hexacta! Anotate y recibí la orientación de los mejores profesionales: http://t.co/DCXMCdwxPH http://t.co/rsCPBLQAhW
+2014-05-16 15:32:19 +0000    @Hexacta    Hexacta    Reviví el #GeekLunch de ayer. Curiosidades sobre números, paradojas y problemas que nos van a abrir la cabeza, y... http://t.co/CvDm2nrdGs
+2014-05-17 14:00:04 +0000    @Hexacta    Hexacta    La revolución digital se celebra una vez más #DíadeInternet http://t.co/ngueAL7ln4
+2014-05-19 18:09:23 +0000    @Hexacta    Hexacta    Buscamos Desarrollador .NET para nuestras oficinas de Buenos Aires. Enviá tu CV a careers@hexacta.com y sumá tu... http://t.co/tFhlf71qUm
+2014-05-20 18:45:38 +0000    @Hexacta    Hexacta    ¿Querés sumarte a nuestro equipo? Buscamos #Tester Ssr/Sr con inglés avanzado para #HexactaBA. Postulate o... http://t.co/sOdKYQo9Pv
+2014-05-21 19:09:43 +0000    @Hexacta    Hexacta    &gt;&gt; Quedan pocos días! No te pierdas el nuevo curso gratuito de JAVA en #HexactaBA. Los cupos son limitados:... http://t.co/AyQGtlPeiO
+2014-05-22 18:03:17 +0000    @Hexacta    Hexacta    Si sos Desarrollador .NET, enviá tu CV a careers@hexacta.com. Tenemos grandes desafíos para ofrecerte.... http://t.co/eoxu6hULFz
+2014-05-26 19:40:15 +0000    @Hexacta    Hexacta    &gt;&gt; Última semana! Anotate al curso gratuito de #HexactaBA sobre #JAVA, y recibí orientación de la mano de los... http://t.co/NI1LUlC3op
+2014-05-27 20:44:31 +0000    @Hexacta    Hexacta    Sigue abierta la búsqueda de Desarrolladores .NET Ssr/Sr. Si todavía no te postulaste, enviá tu CV a... http://t.co/87CPRKVrVd
+2014-06-03 17:27:13 +0000    @Hexacta    Hexacta    Mañana nuestros profesionales participarán del Congreso Nacional de Estudiantes en Sistemas de Información,... http://t.co/V7SQXjvxbA
+2014-06-04 17:34:31 +0000    @Hexacta    Hexacta    Si sos Desarrollador .NET Ssr/Sr, enviá tu CV a careers@hexacta.com. Tenemos grandes desafíos para ofrecerte.... http://t.co/DHag5kvSbn
+2014-06-10 15:53:01 +0000    @Hexacta    Hexacta    Agradecemos a Cneisi 2014 Santa Fe por invitarnos a formar parte de este evento. La exposición fue un éxito!... http://t.co/SotURQ4Ufv
+2014-06-11 20:30:10 +0000    @Hexacta    Hexacta    Buscamos sumar Desarrollador Front-end / .NET para integrar a nuestros equipos. Enviá tu CV a careers@hexacta.com... http://t.co/c03lbelHsU
+2014-06-12 15:21:37 +0000    @Hexacta    Hexacta    Preparamos nuestras oficinas para alentar a la selección hasta el final! #HexactaBA #MundialBrasil2014
+2014-06-16 20:48:36 +0000    @Hexacta    Hexacta    En conmemoración a la fecha en que se inició la enseñanza de la ingeniería en la Argentina, hoy se celebra el Día... http://t.co/HFsX0w4Wgt
+2014-06-17 19:07:39 +0000    @Hexacta    Hexacta    Sigue abierta la búsqueda de Desarrolladores .NET Ssr/Sr. Si todavía no te postulaste, enviá tu CV a... http://t.co/smWjA2YUY4
+2014-06-23 20:12:38 +0000    @Hexacta    Hexacta    Buscamos Desarrollador Front-end / .NET para integrar a nuestros equipos. Enviá tu CV a careers@hexacta.com y... http://t.co/mHPrXgmGF6
+2014-06-24 17:33:54 +0000    @Hexacta    Hexacta    Hexacta se sumerge en el Proyecto GEMA http://t.co/t2FhDJUpJg
+2014-06-24 17:53:24 +0000    @Hexacta    Hexacta    ¿Conocés sobre el Proyecto #GEMA? 
+Se trata de una iniciativa de Cessi ArgenTIna, con la colaboración de Hexacta,... http://t.co/MrVpbrd3sB
+2014-06-25 18:30:25 +0000    @Hexacta    Hexacta    #VamosArgentina - En Hexacta vivimos la Copa del Mundo con todo. ¡Gracias a la selección por una alegría más!
+2014-06-26 19:53:56 +0000    @Hexacta    Hexacta    Seguimos buscando Desarrolladores .NET para nuestras oficinas en Buenos Aires. Sumá tu talento a Hexacta enviando... http://t.co/ckXAPV9qCP
+2014-06-27 19:05:49 +0000    @Hexacta    Hexacta    &gt;&gt; AGENDALO: El lunes 30 de junio, la comunidad #AngularJS transmitirá por streaming el nuevo #Meetup:... http://t.co/y80cPBmhbV
+2014-06-30 21:35:59 +0000    @Hexacta    Hexacta    &gt;&gt; EN 30': El nuevo #Meetup  de #AngularJS "Directivas, a fondo!" se transmite vía streaming en solo media hora.... http://t.co/1n1PoDHuzy
+2014-07-02 13:05:06 +0000    @Hexacta    Hexacta    Mirá cómo se vivió en Hexacta Buenos Aires el apasionante partido de la selección ayer y su emocionante gol:... http://t.co/OrbJhzGP2K
+2014-07-02 18:45:08 +0000    @Hexacta    Hexacta    ¿Todavía no te postulaste? Buscamos Desarrolladores .NET para nuestras oficinas en Buenos Aires. Sumá tu talento... http://t.co/G91c7HOJw5
+2014-07-08 15:02:10 +0000    @Hexacta    Hexacta    "Conocemos las expectativas de los colaboradores y no caemos en la trampa de pensar que son las mismas para todos... http://t.co/H4fX7s5HXK
+2014-07-10 14:51:18 +0000    @Hexacta    Hexacta    #Argentina, finalista de la Copa del Mundo! #VamosArgentina http://t.co/ivNKZBLN9K
+2014-07-10 14:53:51 +0000    @Hexacta    Hexacta    #Argentina, finalista de la Copa del Mundo! #VamosArgentina http://t.co/7t0Y6QCCw0
+2014-07-10 18:39:52 +0000    @Hexacta    Hexacta    Buscamos Desarrollador Front-End / .NET para integrar nuestros equipos. Enviá tu CV a careers@hexacta.com y sumá... http://t.co/ZrLPAvkyUh
+2014-07-14 14:40:48 +0000    @Hexacta    Hexacta    Entrega Continua es un conjunto de prácticas que se utilizan para automatizar y mejorar el proceso de entregas de... http://t.co/4BjOa0m653
+2014-07-16 14:33:30 +0000    @Hexacta    Hexacta    Si sos Consultor Funcional Ssr, enviá tu CV a careers@hexacta.com y formá parte de desafiantes proyectos. Sumá tu... http://t.co/dTTNz9aN04
+2014-07-16 18:32:11 +0000    @Hexacta    Hexacta    Invitamos a todos los profesionales a participar de una nueva jornada de capacitación en #Scrum y mejores... http://t.co/SLAXdCLYzW
+2014-07-17 14:45:25 +0000    @Hexacta    Hexacta    http://t.co/wpiwbYn5iz
+2014-07-18 14:09:06 +0000    @Hexacta    Hexacta    Todavía tenés tiempo de inscribirte con descuento &gt;&gt; Nueva jornada de Certified #Scrum Developer en Hexacta... http://t.co/SChTNxWfWq
+2014-07-18 14:56:54 +0000    @Hexacta    Hexacta    Nuevo Curso de #Scrum Developer en #HexactaBA. Reservá tu lugar en scrum@hexacta.com. Dcto hasta el 1 de agosto! http://t.co/g3JKvjnTR0
+2014-07-18 18:53:28 +0000    @Hexacta    Hexacta    Última clase de los jóvenes #GEMA en Hexacta, previa al receso de invierno. ¡Nos reencontramos en agosto! http://t.co/HhIbAEGKWv
+2014-07-21 15:36:28 +0000    @Hexacta    Hexacta    Seguimos en la búsqueda de Desarrolladores .NET para integrar a nuestros equipos de Buenos Aires. Para ser uno de... http://t.co/iq8YGJON9y
+2014-07-23 18:40:40 +0000    @Hexacta    Hexacta    Invitamos a todos los profesionales a participar de una nueva jornada de capacitación en #Scrum y mejores... http://t.co/Zxnn1DMUp3
+2014-07-24 15:31:32 +0000    @Hexacta    Hexacta    Buscamos Consultor Funcional Ssr para nuestras oficinas en Buenos Aires. Si creés que este puesto es para vos,... http://t.co/j7YWWtjWrR
+2014-07-28 18:15:40 +0000    @Hexacta    Hexacta    ¡Nueva oportunidad! Buscamos Analista de QA y Mejora de Procesos Ssr para unirse al equipo hexáctico de Buenos... http://t.co/Mxjkh97HJ5
+2014-07-28 18:45:44 +0000    @Hexacta    Hexacta    ¡Nueva oportunidad! Buscamos Analista de QA y Mejora de Procesos Ssr para unirse a los hexácticos de Buenos... http://t.co/pr6lbGAh76
+2014-07-29 17:40:35 +0000    @Hexacta    Hexacta    Tres días más para reservar tu lugar con descuento! Invitamos a todos los profesionales a participar de una nueva... http://t.co/mhbhI7YUDe
+2014-07-30 17:52:22 +0000    @Hexacta    Hexacta    Elegí el desafío como primera experiencia laboral. Elegí a Hexacta para sumar tu talento y desarrollarte... http://t.co/rRzA5WClCw
+2014-07-31 19:09:37 +0000    @Hexacta    Hexacta    Buscamos Consultor Funcional Ssr para nuestras oficinas en Buenos Aires. Si creés que este puesto es para vos,... http://t.co/gznWCVYZ77
+2014-08-04 13:16:34 +0000    @Hexacta    Hexacta    Si sos Desarrollador .NET, enviá tu CV a careers@hexacta.com y nos pondremos en contacto con vos para conocer tu... http://t.co/RTD086knXd
+2014-08-04 20:05:17 +0000    @Hexacta    Hexacta    http://t.co/vSl8oOj7L2
+2014-08-06 16:31:56 +0000    @Hexacta    Hexacta    http://t.co/91Ao4nwwrO
+2014-08-07 19:31:29 +0000    @Hexacta    Hexacta    Si buscás crecimiento profesional desde tu primera experiencia de trabajo, esta es tu oportunidad &gt; Enviá tu CV... http://t.co/etNPucaU86
+2014-08-14 13:15:16 +0000    @Hexacta    Hexacta    El #Meetup de #AngularJS fue todo un éxito! Nicolás Gallinal habló acerca de las bases de AngularJS, una... http://t.co/yosASdlNQL
+2014-08-14 20:34:00 +0000    @Hexacta    Hexacta    Buscamos Consultor Funcional Ssr para nuestras oficinas en Buenos Aires. Si creés que este puesto es para vos,... http://t.co/mxF9s9qUPv
+2014-08-19 17:40:22 +0000    @Hexacta    Hexacta    Si sos Desarrollador .NET, enviá tu CV a careers@hexacta.com y nos pondremos en contacto con vos. Si querés... http://t.co/juSeRKgyVI
+2014-08-21 17:58:39 +0000    @Hexacta    Hexacta    Oportunidad laboral! Buscamos Desarrollador Sharepoint Ssr/Sr para nuestras oficinas en Buenos Aires. Sumá tu... http://t.co/zLP35Zurjy
+2014-08-27 18:12:40 +0000    @Hexacta    Hexacta    No pierdas la chance! &gt; Buscamos Consultor Funcional Ssr para Hexacta en Buenos Aires. Si te interesa esta... http://t.co/ZtjMSkmU2K
+2014-09-03 20:20:35 +0000    @Hexacta    Hexacta    &gt; Una tendencia que impulsa a las Ciencias de la Computación como herramienta pedagógica en las escuelas primeras... http://t.co/OyBBsKjcjj
+2014-09-04 15:27:35 +0000    @Hexacta    Hexacta    En '30 &gt; Participá vía streaming del #GeekLunch sobre las nuevas tendencias pedagógicas en computación para... http://t.co/DypSnzK7Jt
+2014-09-05 21:06:22 +0000    @Hexacta    Hexacta    [New Post] Fácil no implica simple. http://t.co/rBh1i3eAcA  #HAT #techies
+2014-09-08 18:07:31 +0000    @Hexacta    Hexacta    "Es frustrante que hay gran cantidad de programadores que toman el camino más fácil, mientras dicen usar el más... http://t.co/6sxKerIFRg
+2014-09-09 16:47:17 +0000    @Hexacta    Hexacta    9 de septiembre &gt; Día del #Tester de #Software. ¡Feliz día a todos ellos! Gracias por aportar su talento a Hexacta. http://t.co/mlfp0UVZIy
+2014-09-11 14:25:07 +0000    @Hexacta    Hexacta    &gt; ¡Mañana en Buenos Aires! http://t.co/bYxQzIkYXZ
+2014-09-11 14:25:59 +0000    @Hexacta    Hexacta    Día del Programador - Buenos Aires - Desarrollo http://t.co/qOP1UhqfVS
+2014-09-13 14:00:06 +0000    @Hexacta    Hexacta    El día 256 de cada año se conmemora el Día del #Programador Informático &gt; ¡Feliz día, programadores! http://t.co/8BhaXDGCzi
+2014-09-15 16:22:00 +0000    @Hexacta    Hexacta    Add support for CORS in Web API: In order to enable CORS in the Web API, you should install the Microsoft.AspN... http://t.co/vBzf5fEmQB
+2014-09-15 19:52:06 +0000    @Hexacta    Hexacta    Typeahead for AngularJS with Ajax: UI Bootstrap is a set of directives for AngujarJS with support for Bootstra... http://t.co/6xTVosmJ1N
+2014-09-16 14:02:32 +0000    @Hexacta    Hexacta    ¡Atención Analistas Funcionales! Estamos convocando talentos Ssr en Hexacta. Si tu perfil coincide con esta... http://t.co/SAIgPy3txm
+2014-09-17 17:48:44 +0000    @Hexacta    Hexacta    http://t.co/uHQgJlL0Ax
+2014-09-18 19:46:08 +0000    @Hexacta    Hexacta    Knowing which validations failed in a form with AngularJS: Sometimes we want to submit a form and know which v... http://t.co/KLluuzbc0v
+2014-09-23 20:46:45 +0000    @Hexacta    Hexacta    Buscamos Desarrollador #Java Ssr/Sr para las oficinas hexácticas de Buenos Aires. Postulate o postulá a un... http://t.co/Vspb0A9NsF
+2014-09-24 19:56:04 +0000    @Hexacta    Hexacta    http://t.co/LRnbkZqTRA
+2014-09-24 20:06:03 +0000    @Hexacta    Hexacta    &gt; ¡Hay un nuevo curso gratuito en tu ciudad! 
+Ingresá a http://t.co/WlkHLvDxr0 y chequeá las fechas de los... http://t.co/NH3VwLO89x
+2014-09-29 20:55:13 +0000    @Hexacta    Hexacta    Buscamos Desarrollador PHP-Symfony Ssr/Sr.¿Querés sumarte al desafío? Enviá tu CV a careers@hexacta.com y nos... http://t.co/8TIPlW3FtR
+2014-09-30 18:41:08 +0000    @Hexacta    Hexacta    A veces cuando hacemos test unitarios de nuestras directivas nos damos cuenta de que usan propiedades que no... http://t.co/g6YYZ6GJEe
+2014-10-02 20:59:28 +0000    @Hexacta    Hexacta    Queremos sumar Desarroladores .NET Ssr/Sr para nuestras oficinas en Buenos Aires ¿Querés sumarte a nuestro... http://t.co/GrXe5Csr1H
+2014-10-06 16:00:03 +0000    @Hexacta    Hexacta    Si sos Analista Funcional, ¡esta es tu oportunidad! Estamos convocando talentos Ssr en Hexacta. Enviá tu CV a... http://t.co/BzSv94m8aH
+2014-10-06 20:00:03 +0000    @Hexacta    Hexacta    La siguiente nota en LA NACION refleja cómo los ciudadanos de la Ciudad Autónoma de Buenos Aires utilizaron,... http://t.co/iwAFOkHqwU
+2014-10-07 17:01:56 +0000    @Hexacta    Hexacta    No pierdas la chance! &gt; Buscamos Desarrolladores PHP-Symfony Ssr/Sr para Hexacta en Buenos Aires y La Plata. Si... http://t.co/BejSwVp5ZL
+2014-10-09 16:00:03 +0000    @Hexacta    Hexacta    Ahora Hexacta Labs ofrece cursos de programación en nuestras distintas oficinas!
+Ingresá a... http://t.co/AbEY7tKqIL
+2014-10-10 16:00:03 +0000    @Hexacta    Hexacta    ¡Oportunidad laboral! Buscamos Desarrolladores .NET Ssr/Sr (con inglés) para nuestras oficinas en Buenos Aires .... http://t.co/Zb28XRNASA
+2014-10-14 18:22:03 +0000    @Hexacta    Hexacta    Una vez más, Hexacta participó de la construcción de una casa de la mano de Techo: http://t.co/MRZeV9zrtH http://t.co/deQc62bY7s
+2014-10-16 15:45:03 +0000    @Hexacta    Hexacta    En '15: #GeekLunch en Hexacta http://t.co/cUb6hAMDfT
+&gt;¿Cansado de utilizar Skype? ¿Querés que tus aplicaciones... http://t.co/9LVGLvtOoT
+2014-10-17 15:11:52 +0000    @Hexacta    Hexacta    Buscamos Consultor Funcional Ssr para nuestras oficinas en Buenos Aires. Si creés que este puesto es para vos,... http://t.co/wGoT829opD
+2014-10-19 16:00:03 +0000    @Hexacta    Hexacta    ¡Feliz día a todas las madres! http://t.co/DxJ1aD4Ryi
+2014-10-20 16:00:03 +0000    @Hexacta    Hexacta    Profesionales de Hexacta realizan un workshop sobre patrones de diseño en la Universidad Autónoma de Entre Ríos... http://t.co/q4KsBefx0i
+2014-10-21 16:00:03 +0000    @Hexacta    Hexacta    ¡Nueva oportunidad! Buscamos Analista de Testing/QA Ssr o Sr para unirse a los hexácticos de Buenos Aires. Si... http://t.co/VF7jL4xeaB
+2014-10-21 18:25:02 +0000    @Hexacta    Hexacta    ¡Nueva oportunidad! Buscamos Analista de Testing Ssr o Sr para unirse a los hexácticos de Buenos Aires. Si querés... http://t.co/6crr3zhDyc
+2014-10-22 16:00:03 +0000    @Hexacta    Hexacta    ¿Sos bueno desarrollando en Sharepoint? Te estamos buscando! Si te interesa esta oportunidad, enviá tu CV a... http://t.co/t2hRNhp43d
+2014-10-23 14:31:38 +0000    @Hexacta    Hexacta    ¡Nueva oportunidad! Buscamos Analista de QA y Mejora de Procesos Jr o Ssr para unirse a los hexácticos de Buenos... http://t.co/erByzu1JSj
+2014-10-23 15:01:44 +0000    @Hexacta    Hexacta    Buscamos Desarrolladores .NET para nuestras oficinas en Paraná. Sumá tu talento a Hexacta enviando tu CV a... http://t.co/17t31VNbQD
+2014-10-24 16:00:03 +0000    @Hexacta    Hexacta    ¿Todavía no te postulaste? Buscamos Desarrolladores Android para nuestras oficinas en Buenos Aires. Sumá tu... http://t.co/AKcBlW0ErR
+2014-10-27 16:00:03 +0000    @Hexacta    Hexacta    ¿Sos tester? ¡Te estamos buscando! Si te interesa esta oportunidad, enviá tu CV a careers@hexacta.com -... http://t.co/nHfmzDJbnS
+2014-10-28 14:44:22 +0000    @Hexacta    Hexacta    Microsoft, el Gobierno de la Ciudad de Buenos Aires y Hexacta se unen para mejorar la calidad de vida de los... http://t.co/wKqP24lRL6
+2014-10-28 14:47:33 +0000    @Hexacta    Hexacta    Microsoft, el Gobierno de la Ciudad de Buenos Aires y Hexacta se unen para mejorar la calidad de vida de los... http://t.co/r6bidNrI9L
+2014-10-28 14:47:52 +0000    @Hexacta    Hexacta    Microsoft, el Gobierno de la Ciudad de Buenos Aires y Hexacta se unen para mejorar la calidad de vida de los... http://t.co/LJcHpmOKyI
+2014-10-28 20:00:03 +0000    @Hexacta    Hexacta    ¡Atención! Buscamos Desarrolladores Android para nuestras oficinas en Buenos Aires. Sumá tu talento a Hexacta... http://t.co/VK4oI9tXXo
+2014-10-29 15:35:45 +0000    @Hexacta    Hexacta    Queremos sumar Desarroladores .NET Ssr/Sr (con inglés) para nuestras oficinas en Buenos Aires, Paraná y La Plata... http://t.co/lyEjcM4Gz4
+2014-10-30 16:00:36 +0000    @Hexacta    Hexacta    Ahora Hexacta Labs ofrece cursos de programación en nuestras distintas oficinas. Ingresá a... http://t.co/8JXiIoluS1
+2014-10-31 16:00:03 +0000    @Hexacta    Hexacta    Seguimos buscamos Analistas Funcionales Ssr/Sr para nuestras oficinas en Buenos Aires. Si creés que este puesto... http://t.co/It4emm9cEc
+2014-11-04 13:32:19 +0000    @Hexacta    Hexacta    ¡Nueva búsqueda! Si sos Desarrollador Java Jr y te interesa sumarte a nuestros desafiantes proyectos, enviá tu CV... http://t.co/qEscdDRsi6
+2014-11-06 17:45:21 +0000    @Hexacta    Hexacta    Buscamos Consultor Funcional Sr. Si creés que este puesto es para vos, enviá tu CV a careers@hexacta.com http://t.co/Hd4zrxiYva
+2014-11-07 17:51:50 +0000    @Hexacta    Hexacta    ¡Seguimos buscando testers! Si te interesa esta oportunidad, enviá tu CV a careers@hexacta.com -... http://t.co/NFVdrXh3f3
+2014-11-11 15:43:20 +0000    @Hexacta    Hexacta    Te invitamos a una jornada de Open Space Ágil. Más allá del espacio abierto, la especialista en Metodologías e... http://t.co/jfiWtOHHJs
+2014-11-12 15:41:50 +0000    @Hexacta    Hexacta    Buscamos Desarrollador #Java Ssr para las oficinas hexácticas de Buenos Aires. Postulate o postulá a un referido... http://t.co/rdqYL0OF15
+2014-11-12 17:39:58 +0000    @Hexacta    Hexacta    Buscamos Desarrollador #Java Ssr para las oficinas hexácticas de Buenos Aires. Postulate o postulá a un referido... http://t.co/aqJrnj7Gx3
+2014-11-13 17:34:05 +0000    @Hexacta    Hexacta    Estamos buscando Desarroladores .NET Ssr ¿Querés sumarte? Enviá tu CV a careers@hexacta.com y nos pondremos en... http://t.co/vg89LpWAEA
+2014-11-17 14:34:35 +0000    @Hexacta    Hexacta    ¡Atención, Desarrolladores Sharepoint! ¡Los estamos buscando! Si te interesa esta oportunidad, enviá tu CV a... http://t.co/vM4twdi76s
+2014-11-19 18:07:18 +0000    @Hexacta    Hexacta    ¡Nueva búsqueda! Buscamos Desarrolladores PHP Sr. Si te interesa sumarte a nuestros desafiantes proyectos, enviá... http://t.co/q5wgcpOjoV
+2014-11-25 15:41:25 +0000    @Hexacta    Hexacta    ¡Atención, Desarrolladores .NET! ¡Los estamos buscando! Si te interesa esta oportunidad laboral, enviá tu CV a... http://t.co/vQVZ78e6UJ
+2014-11-27 15:45:01 +0000    @Hexacta    Hexacta    En '15: #GeekLunch en Hexacta CAMBIAR
+Veremos una introducción a usos de threads y tasks en distintos tipos  de... http://t.co/a2ChdMeywy
+2014-11-28 14:24:17 +0000    @Hexacta    Hexacta    Hexacta participó del Microsoft Dev Camp en Buenos Aires de este año http://t.co/sRRMz5EpCf http://t.co/ibHJAb1ll7
+2014-11-28 18:22:33 +0000    @Hexacta    Hexacta    ¿Alguna vez quisiste hacer apps nativas pero no tenías el tiempo de aprender varios lenguajes distintos? En esta... http://t.co/A5QNILK376
+2014-11-28 18:37:37 +0000    @Hexacta    Hexacta    ¿Alguna vez quisiste hacer apps nativas pero no tenías el tiempo de aprender varios lenguajes distintos? En esta... http://t.co/Eo0rj5erPI
+2014-12-01 16:21:01 +0000    @Hexacta    Hexacta    ¡Nueva búsqueda! Estamos buscando Desarrolladores Angular- Front End ¿Querés sumarte? Enviá tu CV a... http://t.co/7iaC9Wp0fL
+2014-12-01 17:13:25 +0000    @Hexacta    Hexacta    Hoy, el Sistema Único de Atención Ciudadana desarrollado por Hexacta figura una vez más en el diario LA NACION,... http://t.co/IxKhTDddRR
+2014-12-02 14:55:40 +0000    @Hexacta    Hexacta    ¡Todavía tenes tiempo para inscribirte! ¿Alguna vez quisiste hacer apps nativas pero no tenías el tiempo de... http://t.co/UqtMgaZlWl
+2014-12-03 18:17:32 +0000    @Hexacta    Hexacta    Seguimos buscando Consultores Funcionales. Si te interesa sumarte a nuestros desafiantes proyectos, enviá tu CV a... http://t.co/vWdNIcf0II
+2014-12-04 15:15:58 +0000    @Hexacta    Hexacta    Nuestra experta en metolodologías Laura Eliaschev dio una charla seguida con un Open Space sobre la... http://t.co/o1fFh4xxnN
+2014-12-05 15:32:45 +0000    @Hexacta    Hexacta    Buscamos Desarrolladores PHP Sr. Si te interesa sumarte a nuestros desafiantes proyectos, enviá tu CV a... http://t.co/GQiwt0jpVF
+2014-12-09 14:41:15 +0000    @Hexacta    Hexacta    RT @IonicArgentina: Check the video of yesterday @Ionicframework Meetup: http://t.co/JE8KGfDww4
+2014-12-09 16:00:02 +0000    @Hexacta    Hexacta    ¡Nueva búsqueda para nuestras oficinas de Paraná! Estamos buscando Desarrolladores .NET. Si te interesa sumarte a... http://t.co/ndUaZHui3V
+2014-12-11 17:21:20 +0000    @Hexacta    Hexacta    ¡Buscamos Desarrollador PHP y Analista Funcional para nuestros equipos! Enviá tu CV a careers@hexacta.com y nos... http://t.co/EvvY2EWtky
+2014-12-15 12:13:46 +0000    @Hexacta    Hexacta    @Ionicframework Article on our AngularJS Community meet-up about @Ionicframework at @Hexacta ! http://t.co/f3X4Gk4pTy
+2014-12-15 14:56:39 +0000    @Hexacta    Hexacta    Buscamos Consultor Funcional Ssr para nuestras oficinas en Buenos Aires o La Plata. Si creés que este puesto es... http://t.co/hPcw5iWp72
+2014-12-19 14:03:17 +0000    @Hexacta    Hexacta    Los diarios Diario Clarín y LA NACION publicaron notas sobre el Sistema Único de Atención Ciudadana desarrollado... http://t.co/y3FIznpMfF
+2014-12-23 12:07:28 +0000    @Hexacta    Hexacta    Estamos buscando Desarrolladores .NET para nuestras oficinas de Buenos Aires (¡y en Paraná también!. Si te... http://t.co/oInBmj4048
+2014-12-24 14:10:43 +0000    @Hexacta    Hexacta    Desde Hexacta, les deseamos unas muy felices fiestas! #FelicesFiestas http://t.co/0XgjkmLxbj
+2015-01-02 16:20:10 +0000    @Hexacta    Hexacta    Comenzamos el 2015 ¡siempre buscando talento nuevo! Buscamos Consultor Funcional Sr. Si te interesa esta... http://t.co/WF04At0LzY
+2015-01-05 14:43:44 +0000    @Hexacta    Hexacta    ¿Sos desarrollador Front End? ¡Te estamos buscando! Si creés que este puesto es para vos, enviá tu CV a... http://t.co/C5OmHlCMZP
+2015-01-08 15:30:02 +0000    @Hexacta    Hexacta    ¡Atención, Testers! Nueva búsqueda en Hexacta para Testers Ssr. Si te interesa sumarte a nuestros desafiantes... http://t.co/PX2W3veNia
+2015-01-13 17:34:29 +0000    @Hexacta    Hexacta    Buscamos Desarrolladores PHP Sr. Si te interesa sumarte a nuestros desafiantes proyectos, enviá tu CV a... http://t.co/ilYJuRKHAL
+2015-01-15 15:16:25 +0000    @Hexacta    Hexacta    Introduction to Redis: Basically, Redis is a key-value store. A key-value is usually a database where a key (s... http://t.co/6b5uCENUVJ
+2015-01-20 16:00:02 +0000    @Hexacta    Hexacta    "Redis es un key-value store. Por key-value store generalmente se entiende..." http://t.co/1JrlaxFqBd http://t.co/d9Hmy1txhR
+2015-01-20 20:55:23 +0000    @Hexacta    Hexacta    Introduction to Redis: Basically, Redis is a key-value store. A key-value is usually a database where a key (s... http://t.co/PF2VdLFTbV
+2015-02-03 16:01:00 +0000    @Hexacta    Hexacta    Buscamos Consultor Funcional Ssr para nuestras oficinas en Buenos Aires. Si creés que este puesto es para vos,... http://t.co/6f1DfB97w3
+2015-02-10 16:04:01 +0000    @Hexacta    Hexacta    ¿Sos bueno desarrollando Angular? Tenemos vacantes en nuestras oficinas de Las Cañitas. Animate a formar parte de... http://t.co/mOpVDDGovk
+2015-02-18 16:30:01 +0000    @Hexacta    Hexacta    Estamos buscando Desarrolladores .NET para nuestras oficinas de Buenos Aires, Bahía Blanca y La Plata. Si te... http://t.co/CHffz1O2ZN
+2015-02-26 16:52:12 +0000    @Hexacta    Hexacta    ¿Sos desarrollador Front End? ¡Te estamos buscando! Si creés que este puesto es para vos, enviá tu CV a... http://t.co/AdZaXMCnHL
+2015-03-05 23:00:02 +0000    @Hexacta    Hexacta    ¿Sos Tester? ¡Te estamos buscando! Si creés que este puesto es para vos, enviá tu CV a careers@hexacta.com... http://t.co/LYuAdnGBdO
+2015-03-09 14:54:14 +0000    @Hexacta    Hexacta    "Es muy común que en muchas aplicaciones tener que realizar autenticaciones de usuarios. Veremos cómo realizar... http://t.co/4ArYXW61mA
+2015-03-16 14:47:46 +0000    @Hexacta    Hexacta    Argentina es el país con más alto nivel de inglés en la región, y 15vo en el mundo: http://t.co/esSlpFfJ7x http://t.co/dUjyMye6df
+2015-03-17 17:43:34 +0000    @Hexacta    Hexacta    Se viene el primer #Meetup de #AngularJS en Hexacta del año! Matias Neto Licursi nos estará mostrando dos... http://t.co/REArbEOVil
+2015-03-18 15:45:01 +0000    @Hexacta    Hexacta    En '15: #GeekLunch en Hexacta
+Daremos un pantallazo por el mundo de Adobe Photoshop, uno de los programas más... http://t.co/wRs8GROrYn
+2015-03-18 18:55:19 +0000    @Hexacta    Hexacta    Connecting and Validating a LDAP with Java: It is very common for many applications to have to authenticate it... http://t.co/WVYVwmkn7M
+2015-03-20 16:15:01 +0000    @Hexacta    Hexacta    Hexacta se expande- ¡nos mudamos en La Plata!
+
+Hexacta cada día crece más. Este año, tocó expandir nuestras... http://t.co/y1R5M2cXSE
+2015-03-25 21:31:09 +0000    @Hexacta    Hexacta    Use Microsoft Exchange to easily manage appointments: Microsoft Exchange is a library that provides an object-... http://t.co/Xc7S9EZODc
+2015-03-25 23:00:01 +0000    @Hexacta    Hexacta    "Es una biblioteca que provee un modelo orientado a objetos para la comunicación de aplicaciones que interactúan... http://t.co/pVh0jgQ4qF
+2015-03-30 12:35:44 +0000    @Hexacta    Hexacta    HOY! Los esperamos en el primer #Meetup de #AngularJS en Hexacta del año! Matias Neto Licursi nos estará... http://t.co/GRQvwA2Nvl
+2015-04-07 13:30:50 +0000    @Hexacta    Hexacta    Comienzan los Hexacta Labs 2015! Capacitate gratis y participá de nuestros cursos en nuestras oficinas de Buenos... http://t.co/MFcczP11E1
+2015-04-07 19:55:17 +0000    @Hexacta    Hexacta    Hexacta es sponsor de ArqConf! No te la pierdas! Para registrarte: http://t.co/UX8dfJv6tY http://t.co/QCgh8FTuMd
+2015-04-09 16:17:36 +0000    @Hexacta    Hexacta    "Una de las ventajas de Node.js es poder usar JavaScript para implementar aplicaciones que hagan uso de los... http://t.co/CQrwM8o43o
+2015-04-09 20:05:51 +0000    @Hexacta    Hexacta    How to listen to WiFi with Node.js: One advantage of Node.js is the ability to use JavaScript to deploy applic... http://t.co/NqT1VPbiGz
+2015-04-10 23:30:01 +0000    @Hexacta    Hexacta    NUEVA ALIANZA ESTRATÉGICA CON ORT
+
+El lunes 16 de marzo Hexacta participó del lanzamiento del Plan Link,... http://t.co/OTR8rtWNUK
+2015-04-13 15:09:24 +0000    @Hexacta    Hexacta    "Protractor es una herramienta para testing end-to-end. Los tests de protractor simulan la interacción del... http://t.co/Szr1dkJ6Ph
+2015-04-14 18:09:50 +0000    @Hexacta    Hexacta    http://t.co/2LgMtfbio3
+2015-04-15 18:01:28 +0000    @Hexacta    Hexacta    Estamos buscando Desarrolladores .NET para nuestras oficinas de Buenos Aires, Bahía Blanca, La Plata y Paraná. Si... http://t.co/cR9lPz0ovD
+2015-04-21 14:16:34 +0000    @Hexacta    Hexacta    “What failed?” Everything you need on your test reports.: Protractor is a tool used for testing end-to-end. Pr... http://t.co/2DivYdOx8s
+2015-04-21 16:00:15 +0000    @Hexacta    Hexacta    "AngularJS evalúa las referencias a objetos en el scope durante cada ciclo del $digest para detectar cambios y... http://t.co/x8t0zqlvQr
+2015-04-23 17:56:48 +0000    @Hexacta    Hexacta    Cuando AngularJS lleva a la educación musical a otro nivel http://t.co/WyYhV982uI http://t.co/fyM2sA0PSU
+2015-04-23 17:57:36 +0000    @Hexacta    Hexacta    Cuando AngularJS lleva a la educación musical a otro nivel http://t.co/WyYhV982uI http://t.co/VrgBUtUsjz
+2015-04-24 20:09:28 +0000    @Hexacta    Hexacta    "El dia 22/4 se realizó un encuentro en la Cessi ArgenTIna con el objetivo de hacer entrega de 3 tablets a las... http://t.co/UPlzQ5S6xj
+2015-04-28 15:10:00 +0000    @Hexacta    Hexacta    "NeDB es una base de datos en memoria con posibilidad de persistencia implementada íntegramente en javascript."... http://t.co/c0LA3PfShY
+2015-04-28 15:25:06 +0000    @Hexacta    Hexacta    When size does matter: Using lists in AngularJS: One of the advantages when working with AngularJS is the two-... http://t.co/ZnWnXs8gsI
+2015-05-04 18:01:01 +0000    @Hexacta    Hexacta    Estamos buscando Consultores Funcionales para nuestra oficina de Buenos Aires. Si te interesa sumarte a nuestros... http://t.co/tMZjr25g6d
+2015-05-08 17:15:32 +0000    @Hexacta    Hexacta    Una buena charla para cerrar la semana de la gente de @EnsenaxArg. #Recomendada https://t.co/CfGtTnPAxg
+2015-05-11 15:21:55 +0000    @Hexacta    Hexacta    La semana que viene comenzamos una nueva edición de Hexacta Labs en las oficinas de Buenos Aires, Bahía Blanca,... http://t.co/sSG2E4KRd2
+2015-05-12 17:59:48 +0000    @Hexacta    Hexacta    Felicitamos al equipo de @iconosur por el lanzamiento de @bigbangnw ! Muchos éxitos!
+2015-05-12 18:04:12 +0000    @Hexacta    Hexacta    A quien no le interesa saber como mejorar la calidad en el streaming de videos? Acá algunos tips http://t.co/t0QCtkM6W1
+2015-05-12 18:22:12 +0000    @Hexacta    Hexacta    Juegos pensados para #runners en Android Wear.... http://t.co/aw3crYO0oa
+2015-05-12 19:44:53 +0000    @Hexacta    Hexacta    Ya empezaron los #HxLabs! http://t.co/OUgJ8K42fX
+2015-05-13 18:39:27 +0000    @Hexacta    Hexacta    Sorteando los equipos de la Copa Hexacta 2015 con nuestro anotador oficial @Gonza_Iribarren ¿Salieron parejos? http://t.co/oSelaxENdd
+2015-05-13 19:24:22 +0000    @Hexacta    Hexacta    ¿Cómo sería el fashion week de Silicon Valley?
+Algo así:... http://t.co/ZKQTu3bYS7
+2015-05-13 19:34:28 +0000    @Hexacta    Hexacta    Enterate todo lo que publica tu celular sobre tu ubicación y otras cosas privadas... #GeekLunch... http://t.co/KJKlAE3JN4
+2015-05-15 14:32:30 +0000    @Hexacta    Hexacta    Comenzamos el #HxLabs en Bahía con alumnos de la @UnidelSur . Muchas ganas y entusiasmo para aprender! http://t.co/rrQ4l8ZKHe
+2015-05-15 20:12:29 +0000    @Hexacta    Hexacta    Sin problemas metodológicos: Tomas Henseler dio una charla sobre metodología en la UBA http://t.co/Z6Jo5mEVqw http://t.co/WvSiQv3EhW
+2015-05-19 15:13:04 +0000    @Hexacta    Hexacta    Desayuno de pasantes con el ombudsman @lolemel ¿Qué mejor manera de arrancar el día? http://t.co/nbvVLZ0ptJ
+2015-05-19 18:56:02 +0000    @Hexacta    Hexacta    ¿Cómo realizar un proceso pesado sin inhabilitar al cliente? Un servicio REST para Progress Bar: http://t.co/E7AWlJ8X8v #AngularJS #dotNET
+2015-05-19 20:25:02 +0000    @Hexacta    Hexacta    @Juampymdd ¿Y cómo estuvo? Espero que con menos golpes que en el partido.
+2015-05-20 19:31:04 +0000    @Hexacta    Hexacta    Arrancó el torneo y "A cara de perro" se llevó la primera victoria ¡y con paliza! #CopaHexacta http://t.co/sHNKaQMCMp
+2015-05-22 13:11:39 +0000    @Hexacta    Hexacta    En solo tres minutos, una historia TED de emojis. Para despejar y seguir  http://t.co/nACXXzrUKj #Recomendada
+2015-05-22 13:35:51 +0000    @Hexacta    Hexacta    Muchas caras de concentración en los  Hexacta Labs de Paraná. http://t.co/peSNaTF7jJ
+2015-05-25 21:28:04 +0000    @Hexacta    Hexacta    En las #FiestasMayas. ¡Feliz veinticinco de Mayo! http://t.co/D18VVaFLxK
+2015-05-28 19:21:14 +0000    @Hexacta    Hexacta    En los Labs de Paraná las chicas se coparon con un delicioso lemon pie. ¡Genias! http://t.co/8TSw3Kqfk9
+2015-05-29 16:13:56 +0000    @Hexacta    Hexacta    Hassle-free persistence with Node: NeDB is an in-memory database with persistence possibility implemented enti... http://t.co/A1yIb3po9h
+2015-05-30 02:49:12 +0000    @Hexacta    Hexacta    RT @TEDTalks: "What distinguishes high-performing teams is helpfulness. They have to be really good at giving and getting help." — @M_Heffe…
+2015-06-02 18:04:23 +0000    @Hexacta    Hexacta    ¿WebSockets con NodeJS? No nos llames, nosotros te llamamos: http://t.co/vSCi7aamOz #nodejs #html5
+2015-06-03 18:09:08 +0000    @Hexacta    Hexacta    RT @ORTArgentina: @Hexacta brindará conferencia a los alumnos de la Carrera de Analista de Sistemas. http://t.co/y29gxp95cI http://t.co/34r…
+2015-06-03 19:48:59 +0000    @Hexacta    Hexacta    Hoy se celebra el día del profesional de #RecursosHumanos ¡Feliz día para ellos y para nuestro fenomenal equipo! http://t.co/bGMlEE00uy
+2015-06-04 20:11:12 +0000    @Hexacta    Hexacta    ¿Participaste del último Labs? ¡Demostrá lo que aprendiste y ganate un Kindle! http://t.co/L7BEb6CEjj #HxChallenge http://t.co/IWuzAcMctz
+2015-06-05 15:42:46 +0000    @Hexacta    Hexacta    En el día del medio ambiente, desde el GreenTeam queremos compartir unos tips para ayudar a mejorar la situación! http://t.co/0CDXuEHsCO
+2015-06-05 16:09:40 +0000    @Hexacta    Hexacta    Qué lindos que son los viernes al mediodía. http://t.co/DLSr4mQLem
+2015-06-08 00:01:39 +0000    @Hexacta    Hexacta    Nunca más cerca que hoy de la informática. ¡Feliz día del periodista! http://t.co/duFHqBBYgp
+2015-06-08 19:23:32 +0000    @Hexacta    Hexacta    Always grab your (web)clients attention! Using WebSockets with NodeJS: http://t.co/6RKYYCTBSC #nodejs #html5
+2015-06-09 19:26:02 +0000    @Hexacta    Hexacta    ¿Cansado de tener un login distinto para cada aplicación? Una solución de Single Sign-on en Ruby: http://t.co/GG9A3ccDKR #Ruby #SSO
+2015-06-11 11:55:32 +0000    @Hexacta    Hexacta    Elevamos el pedido a los amigos de @telefecom para que programen el 1er episodio de El Hacker. Próspero inspiró a una generación entera...
+2015-06-12 15:45:23 +0000    @Hexacta    Hexacta    ¿Alguna vez te preguntaste cómo hacer un videojuego? Un #GeekLunch introductorio a #Unity3d por @elgatodiabolico https://t.co/9IKjwQy14V
+2015-06-12 17:31:07 +0000    @Hexacta    Hexacta    ¿Tenés frío? Acercate al calor del chulengo que te recibe @luckasmago con un vacipan de lujo. #ViernesHexáctico http://t.co/YEpm1U9mEd
+2015-06-12 18:01:35 +0000    @Hexacta    Hexacta    Vos que trabajás en sistemas: ¿Que teléfono me compro? Ahora la respuesta la da Google y disminuye tu frustración: http://t.co/5EmyYIunp7
+2015-06-15 18:26:57 +0000    @Hexacta    Hexacta    Caras de concentración en Bahía por los cuartos de final de la Copa de Junio. Así dan gusto los lunes. http://t.co/wl6LNEacNY
+2015-06-16 14:55:16 +0000    @Hexacta    Hexacta    Hoy se celebra en Argentina el día del ingeniero. ¡Feliz día! 
+#DiaDelIngeniero http://t.co/rkHPFrFaZ1
+2015-06-16 18:00:06 +0000    @Hexacta    Hexacta    One sign-on to rule them all! A single sign-on solution using #Ruby http://t.co/Amz5paBaBk #SSO
+2015-06-17 21:27:17 +0000    @Hexacta    Hexacta    A pura garra se viven los partidos de la #CopaHexacta. http://t.co/blbu1aEzgq
+2015-06-18 21:14:46 +0000    @Hexacta    Hexacta    Los ambientes virtuales en la época de su reproductibilidad técnica: creando ambientes en #virtualBox con #vagrant 
+http://t.co/1atKOUBgYd
+2015-06-19 17:17:48 +0000    @Hexacta    Hexacta    Vuelve el cine bizarro a Bahía. Vuelve el #BIFF. ¿Qué película vemos hoy? #ViernesHexáctico http://t.co/rYDkgB1qJM
+2015-06-19 18:34:11 +0000    @Hexacta    Hexacta    RT @bighead13: #Viernes de #Chulengo en @Hexacta. #BeneficioHexacta http://t.co/qAHaIh1rOW
+2015-06-22 19:15:20 +0000    @Hexacta    Hexacta    Comenzamos una serie de desafíos para estudiantes buscando las soluciones más copadas. ¿Te animás? #desafiosHx http://t.co/HFzMsCFmMx
+2015-06-23 13:33:33 +0000    @Hexacta    Hexacta    @tavhy Hay algunos profesores que tendríamos dificultades en modelar, sin lugar a dudas.
+2015-06-23 13:40:27 +0000    @Hexacta    Hexacta    @LeonhardtDavid ¡Totalmente! Con herencia múltiple es casi trivial el problema. ¿Cómo lo harías en un lenguaje que no la tenga?
+2015-06-23 16:48:38 +0000    @Hexacta    Hexacta    Felicitaciones a Mauro que supo llevar al PSG a lo más alto del torneo de Junio en Bahía ¡La Copa es tuya campeón! http://t.co/kreCuIryiq
+2015-06-23 19:10:26 +0000    @Hexacta    Hexacta    Reproducibility made easy: creating virtual environments with #VirtualBox using #Vagrant http://t.co/5PzhICQHXY
+2015-06-24 21:07:50 +0000    @Hexacta    Hexacta    El miércoles 15/7 se realizará un Open Space Ágil en nuestras oficinas de Cañitas. ¿Te gustaría participar? ¡Sumate! http://t.co/xtGw0MXvoZ
+2015-06-26 11:14:01 +0000    @Hexacta    Hexacta    Tecnologías que integran: Excelente charla de @PabloHFiuza coordinador del @proyectoDANE  https://t.co/zLa3lBfyAE
+2015-06-26 15:48:14 +0000    @Hexacta    Hexacta    La nueva oficina de Hexacta tiene pileta y vos tipo http://t.co/THRXQlSsMl
+2015-06-26 21:01:21 +0000    @Hexacta    Hexacta    La #CopaAmérica se juega en Chile y también en nuestras oficinas. http://t.co/PuRRBjdfb9
+2015-06-26 21:42:32 +0000    @Hexacta    Hexacta    @ar_jorge1987 Seguro va a ser mejor recibido si se trae unas facturas para festejar...
+2015-06-29 14:17:46 +0000    @Hexacta    Hexacta    Dominando el mundo con #Fabric ¿cómo simplificar la automatización de tareas comunes? http://t.co/INXCskzhGm #python
+2015-07-01 12:34:30 +0000    @Hexacta    Hexacta    Vamos a trabajar como siempre estos días, pero un poco la cabeza está en otro lado... no? http://t.co/0gHpfO72V9
+2013-11-29 16:08:52 +0000    @rubyargentina    Ruby Argentina    RT @rubyperu: @rubyargentina @rubyconfuruguay @RubyConfAR @startechconf e
+2013-12-01 20:35:38 +0000    @soveran    Michel Martens    RT @cuerbot: The @soveran legacy continues with the @punchgirls #rubyconfar
+2013-12-03 14:05:18 +0000    @soveran    Michel Martens    Why making Bundler a default in Ruby distributions is a bad idea: https://t.co/sthBBWN5o6
+2013-12-03 14:55:14 +0000    @soveran    Michel Martens    Bundler scheduled to die in under two years, but for the wrong reasons: https://t.co/dMsn06w9Yt
+2013-12-03 14:56:34 +0000    @soveran    Michel Martens    Maybe Ruby and I were never meant to be together.
+2013-12-03 15:28:28 +0000    @soveran    Michel Martens    RT @sintaxi: @soveran I agree. People should not be ok with that. the fact that Bundler had to be written in the first place is a fault of …
+2013-12-13 17:53:58 +0000    @soveran    Michel Martens    RT @MinimalWeather: Are you wondering why http://t.co/c12SuOOFdX is so fast?... it's because Redis and the awesome @openredis guys. ❤️
+2013-12-17 15:31:34 +0000    @soveran    Michel Martens    For those not following @_solnic_ and his initiative to promote small ruby libraries: join #microrb on freenode to discuss lean development.
+2013-12-18 23:28:47 +0000    @soveran    Michel Martens    RT @poteland: Hey #microrb lovers: @guilleiguaran created a Heroku buildpack that ditches bundler in favour of dep+gs. &lt;3 https://t.co/GLdC…
+2013-12-22 22:53:12 +0000    @soveran    Michel Martens    RT @openredis: All new subscriptions come with Redis 2.8.3.
+2013-12-24 16:45:41 +0000    @soveran    Michel Martens    RT @cuerbot: Yesterday @MinimalWeather got 9K visits. Memory peak? 4MB. @openredis issues? None. http://t.co/7T0JnYxAlg
+2013-12-30 00:37:47 +0000    @soveran    Michel Martens    RT @_brianknapp: Wow, cuba https://t.co/OBMmc2jtCH perf is really impressive, nearly as fast as pure rack 10k req/sec on jruby/torqbox
+2014-01-04 14:46:02 +0000    @soveran    Michel Martens    RT @openredis: The KEYS command has been disabled in instances running Redis 2.8. You can use SCAN instead: http://t.co/AYzAG5Ulbs
+2014-01-13 16:22:20 +0000    @soveran    Michel Martens    RT @antirez: Redis 2.8.4 is out! https://t.co/W4zUXL99tX
+2014-01-13 19:50:25 +0000    @soveran    Michel Martens    RT @cuerbot: *Looks for simple lib*, *finds Redic*, *wants to hug @soveran and @cyx*
+2014-01-14 12:02:16 +0000    @soveran    Michel Martens    RT @antirez: A very simple Ruby client for Redis from @soveran and @cyx: https://t.co/HWiLpznsIP. Adding timeouts and an EVAL layer it may …
+2014-01-16 14:13:05 +0000    @soveran    Michel Martens    RT @antirez: Happy 25th birthday Tcl language! http://t.co/ihimC88mXm
+2014-01-22 11:15:56 +0000    @soveran    Michel Martens    RT @antirez: redis-cli now supports --scan (optionally with --pattern). Say no to "KEYS" !!!
+2014-01-22 16:07:52 +0000    @soveran    Michel Martens    RT @jelder: Two SaaS providers who really blew me away with customer service this week: @openredis and @papertrailapp
+
+Can't recommend high…
+2014-01-23 20:43:44 +0000    @soveran    Michel Martens    Nice socket library for Lua: http://t.co/P0SR4E7mXA
+2014-01-25 13:39:45 +0000    @soveran    Michel Martens    Lightweight RESP client for Lua: https://t.co/QYgeks2Y7p #redis #lua
+2014-01-27 13:58:18 +0000    @soveran    Michel Martens    RT @tonchis_: Made this thing, inspired by gs: https://t.co/suxIBg9uSU. Let me know what you think :)
+2014-01-28 12:41:37 +0000    @soveran    Michel Martens    Lua Performance Tips (PDF): http://t.co/D9ESJ3t62c
+2014-01-31 12:57:55 +0000    @soveran    Michel Martens    RT @deltheil: Getting to know #LMDB via a Q&amp;A with its author https://t.co/Oc3JOc9Hvg
+2014-02-02 12:57:09 +0000    @soveran    Michel Martens    My biggest mistake so far in 2014 is not attending #FOSDEM
+2014-02-02 12:59:00 +0000    @soveran    Michel Martens    Congrats to @supercoco9 for yet another awesome Redis presentation!
+2014-02-04 15:41:56 +0000    @soveran    Michel Martens    RT @routehappy: Upping our storage today to deal with a demand spike. (Hi, new friends!) Super-easy with our pals at @openredis.
+2014-02-04 16:31:21 +0000    @soveran    Michel Martens    RT @openredis: We turn three years old today! http://t.co/VSAxZliqX1
+2014-02-04 18:13:33 +0000    @soveran    Michel Martens    RT @cuerbot: This happens when you have awesome friends like @openredis doing awesome stuff: http://t.co/hL5Qs5LKd7
+2014-02-05 19:53:31 +0000    @soveran    Michel Martens    RT @_solnic_: Today in #microrb channel: python has virtual-env, node has npm, go has gpm+gvp - in ruby we have rubygems+bundler with globa…
+2014-02-05 19:53:51 +0000    @soveran    Michel Martens    RT @_solnic_: another interesting bit found during our conversation in #microrb channel: rails is ~93k loc total which includes AR written …
+2014-02-18 17:08:46 +0000    @soveran    Michel Martens    RT @poteland: I'll be speaking at @abrilproruby alongside some fantastic speakers such as @jimweirich and @soveran! 
+
+Can't wait &lt;3 http://…
+2014-02-18 23:44:05 +0000    @soveran    Michel Martens    Rails has more lines than Don Quixote and Ulysses combined.
+2014-02-19 12:54:13 +0000    @soveran    Michel Martens    RT @rubygems: redic (1.0.0): http://t.co/bGzdrIfwtg Lightweight Redis Client
+2014-02-19 13:24:12 +0000    @soveran    Michel Martens    Redic 1.0.0 is out, now with configurable timeouts and automatic database selection: https://t.co/bn78eS5L6I #redis
+2014-02-22 16:04:29 +0000    @soveran    Michel Martens    RT @godfoca: Next time someone tries to argue in favor of rspec because "I don't remember the order of assert_equal's arguments", https://t…
+2014-02-22 18:08:19 +0000    @soveran    Michel Martens    RT @poteland: I had never used the cuba library for a "real" production project before and it's brilliant, nothing else makes sense now.
+2014-02-25 14:30:07 +0000    @soveran    Michel Martens    RT @cuerbot: I'm sorry… I'm very very sorry: https://t.co/jd5J2U9Uuy
+2014-02-26 10:15:21 +0000    @soveran    Michel Martens    Redis was first announced exactly five years ago. Great summary by @antirez: http://t.co/URCpP6wGEj
+2014-02-26 12:57:10 +0000    @soveran    Michel Martens    I'm glad so many friends will be at @abrilproruby. Hard to say no to a conference in a beautiful Brazilian beach!
+2014-02-26 14:34:40 +0000    @soveran    Michel Martens    Ohm 2 will only be compatible with Ruby 2 or better. Check the CHANGELOG for more details: https://t.co/XYkRTuYNG0
+2014-02-27 15:21:35 +0000    @rubyargentina    Ruby Argentina    RT @rubyconfuruguay: ¡Queda la última entrada de la primera tanda de Early Bird! ¿Será tuya? https://t.co/5gc49xlARd
+2014-02-27 17:35:24 +0000    @soveran    Michel Martens    Fallen, a great library for creating daemons with Ruby: http://t.co/Lld4UhKAlU
+2014-03-01 20:52:31 +0000    @soveran    Michel Martens    Knuth's wasteful and convoluted way of checking emails: http://t.co/6QtZpTVvhG
+2014-03-04 12:53:54 +0000    @soveran    Michel Martens    RT @cuerbot: The zen way: http://t.co/YCH2C55oDp how code affected my life.
+2014-03-05 02:45:01 +0000    @soveran    Michel Martens    RT @djanowski: These two girls didn't know anything about programming. Today they launched a fully fledged Ruby app. Go @punchgirls! http:/…
+2014-03-05 14:16:54 +0000    @soveran    Michel Martens    RT @antirez: Redis 2.8.7 is a huge release and is out now! =&gt; https://t.co/FWkwXpBe0q
+2014-03-06 16:25:25 +0000    @soveran    Michel Martens    RT @deltheil: tqdm (https://t.co/pBAOSVpHJ7) and batch (https://t.co/8SYhPeN5Rm) are the kind of µ-libs you can't live without anymore #pro…
+2014-03-07 16:56:42 +0000    @soveran    Michel Martens    Rediscan, a scanner for the Redis keyspace: https://t.co/RVpKsZKRau
+2014-03-11 14:03:14 +0000    @soveran    Michel Martens    RT @cuerbot: For every @soveran-project there's a @cyx-contrib
+2014-03-11 15:28:25 +0000    @soveran    Michel Martens    Redic is now compatible with all rubies: https://t.co/VCXbAoBmUr
+2014-03-14 17:13:50 +0000    @soveran    Michel Martens    Redis Cluster support for Redic: http://t.co/4xByIZe8Xk
+2014-03-15 00:25:37 +0000    @soveran    Michel Martens    After using and abusing rc shell from plan9, I cringe each time I see a script in bash.
+2014-03-15 16:05:50 +0000    @soveran    Michel Martens    The embarrassing 110 LOC method that overwrites `require` by default in every Ruby installation: http://t.co/OW7kQvKDZw
+2014-03-18 18:38:00 +0000    @soveran    Michel Martens    Ohm 2 released: http://t.co/f8pRrXSgSu
+2014-03-18 18:39:04 +0000    @soveran    Michel Martens    Ohm is an object-hash mapper for Redis. Take a look at the changes in version 2: https://t.co/2pp08YeH9V
+2014-03-24 02:10:31 +0000    @soveran    Michel Martens    RT @cyx: Sunday afternoon treat for myself: Redic.js https://t.co/xl0h0OfrX0 (still an early draft, but should work for basic use)
+2014-03-25 14:17:39 +0000    @soveran    Michel Martens    New release of gpm, a great library for managing golang dependencies: https://t.co/h9XL81JVNM
+2014-03-27 15:18:36 +0000    @soveran    Michel Martens    This is how a stupid design snowballs when you approach the problem from the wrong angle: https://t.co/Czr4w6PyyJ
+2014-04-01 10:26:17 +0000    @soveran    Michel Martens    RT @antirez: Redis new data structure: the HyperLogLog -&gt; http://t.co/h11pdf8vcu
+2014-04-03 19:11:21 +0000    @soveran    Michel Martens    Redis Cluster tool in #golang by @badboy_: https://t.co/IftH4YAZuM
+2014-04-03 22:32:57 +0000    @soveran    Michel Martens    The Lua authors are thinking about what to remove next. I love that mindset.
+2014-04-08 23:10:07 +0000    @soveran    Michel Martens    "Given enough eyeballs, all bugs are shallow" is a false statement that causes a lot of damage.
+2014-04-09 18:35:39 +0000    @soveran    Michel Martens    Why choosing Ruby libraries based on popularity is a bad idea: http://t.co/5ZgijTV6oz
+2014-04-10 19:22:25 +0000    @soveran    Michel Martens    Think before you code: http://t.co/1AloklCEwk
+2014-04-11 20:43:39 +0000    @soveran    Michel Martens    Script for killing idle Redis connections: https://t.co/cblKPcGH1w
+2014-04-14 23:36:20 +0000    @soveran    Michel Martens    RT @tiodante: Oberon – The Overlooked Jewel http://t.co/5pZyaitis6
+2014-04-15 04:08:54 +0000    @soveran    Michel Martens    Niklaus Wirth on Teaching Computer Science: https://t.co/NxUpPh3C4w
+2014-04-15 18:31:57 +0000    @soveran    Michel Martens    Upcoming support for UTF-8 in Lua 5.3: http://t.co/d02f0Axsg5
+2014-04-16 13:45:07 +0000    @soveran    Michel Martens    RT @antirez: We are going to have both sorted sets lexicographical range queries and HyperLogLogs in Redis 2.8 stable in a matter of days. …
+2014-04-16 14:17:08 +0000    @soveran    Michel Martens    RT @bob_beck: 55000 lines of code removed before I went for dinner. Wonder what it'll be when I return.. #OpenBSD #OpenSSH
+2014-04-18 21:18:24 +0000    @soveran    Michel Martens    Cargo cult programming in Rails: https://t.co/yyyC4iWiLH
+2014-04-19 18:49:58 +0000    @soveran    Michel Martens    RT @antirez: Redis ZRANGEBYLEX demo, autocompleting every single line of the Linux kernel source code in real time -&gt; http://t.co/PAYvPG5zwl
+2014-04-22 12:40:27 +0000    @soveran    Michel Martens    RT @antirez: Redis 2.8.9 is out with HyperLogLogs (dense+sparse) and Sorted Sets lexicographical range queries =&gt; https://t.co/rlJqRkEBR0
+2014-04-28 16:15:27 +0000    @soveran    Michel Martens    I had a wonderful time at @abrilproruby, a great conference in a beautiful beach. Fantastic job by the awesome team of organizers.
+2014-04-28 16:19:20 +0000    @soveran    Michel Martens    More people than expected liked the idea of minimalist software. That's very strange in the Ruby community!
+2014-04-29 23:35:48 +0000    @soveran    Michel Martens    RT @frankyston: Muito interessante esse microframework #ruby #cuba
+http://t.co/5G3jBoGOVR
+2014-05-01 10:08:04 +0000    @soveran    Michel Martens    RT @ssaunier: Great collection of awesome micro ruby libraries, doing one thing, very well - http://t.co/1yrrd0T0sp - I must test cuba by @…
+2014-05-06 21:44:07 +0000    @soveran    Michel Martens    There's a myth that if you use simpler tools and libraries, your app will have more lines of code to compensate.
+2014-05-06 21:46:10 +0000    @soveran    Michel Martens    If somebody hand picks very simple and small tools, you should assume their apps are also simple and small, never the opposite.
+2014-05-07 12:25:15 +0000    @soveran    Michel Martens    The 1982 Debate Between Christopher Alexander and Peter Eisenman: http://t.co/2b3ZOhxV9z
+2014-05-10 12:54:31 +0000    @soveran    Michel Martens    RT @xternal: Ruby Microframeworks Round-up: http://t.co/dCQvCjw43N
+2014-05-14 11:37:01 +0000    @soveran    Michel Martens    RT @sheeshee: I love "simplicity". Looking at stuff and thinking "wait.. I don't need this, this and that" and just rip it all out/throw it…
+2014-05-15 14:28:02 +0000    @soveran    Michel Martens    It's very sad that Mozilla now supports DRM, but that's not the worst part.
+2014-05-15 14:28:22 +0000    @soveran    Michel Martens    The worst part is that we have allowed browsers to become platforms, and we have restricted our choices way too much.
+2014-05-15 14:28:52 +0000    @soveran    Michel Martens    A tool for viewing documents over internet. It should be a very simple tool.
+2014-05-15 14:29:06 +0000    @soveran    Michel Martens    A browser has more in common with an operating system than with a document viewer. That's depressing.
+2014-05-17 15:54:59 +0000    @soveran    Michel Martens    RT @xternal: blogged:  Simple CSS Preprocessing with cpp.  http://t.co/RTyfYY7KXV
+2014-05-19 15:44:11 +0000    @soveran    Michel Martens    RT @_ceciliarivero: Another Ruby on Cuba project done! Welcome to Team Ballots, the voting app for small groups: https://t.co/lXNUlUZ5AG (a…
+2014-05-30 14:24:01 +0000    @soveran    Michel Martens    Christopher Alexander talking about design patterns in software, almost 20 years after publishing A Pattern Language: http://t.co/hfGauir32S
+2014-06-03 18:39:51 +0000    @soveran    Michel Martens    RT @openredis: We should have mentioned that all new instances now run Redis 2.8.9. It's great that many customers are interested in HyperL…
+2014-06-06 22:46:33 +0000    @soveran    Michel Martens    RT @alinajaf: Stalking @soveran and friends on github has inspired me to try writing a couple of small, punchy OSS libraries that do one th…
+2014-06-06 22:57:35 +0000    @soveran    Michel Martens    RT @alinajaf: They don't even use bundler, what a bunch of unmitigated badasses.
+2014-06-06 23:05:34 +0000    @soveran    Michel Martens    Look at the code, then read about the problems it solves and the reasoning leading to its creation: https://t.co/lEeTB6NsIB
+2014-06-10 15:08:31 +0000    @soveran    Michel Martens    The Power of Abstraction by Barbara Liskov: https://t.co/2jODjVgnYV
+2014-06-10 15:10:37 +0000    @soveran    Michel Martens    "Browsers are basically operating systems, but they are terrible operating systems" —Barbara Liskov
+2014-06-10 15:13:21 +0000    @soveran    Michel Martens    "An awful lot of code is being written in languages that aren't very good, by people who don't know what they're doing." —Barbara Liskov
+2014-06-26 17:42:07 +0000    @soveran    Michel Martens    RT @antirez: Since Italy is out of the game now my admittedly small soccer interest is focused on Argentina!!! Following my father's tradit…
+2014-07-01 10:39:04 +0000    @soveran    Michel Martens    RT @deltheil: (Again) nice work by @soveran for this tiny Ruby FSM (50 LOCs, nice README, composition over inheritance) https://t.co/cQetLR…
+2014-07-09 15:07:52 +0000    @soveran    Michel Martens    RT @_ceciliarivero: If you want to learn how to make an app using Cuba, a great resource here:"The Guide to Cuba" by @frodsan and @maynkj h…
+2014-07-16 18:04:36 +0000    @soveran    Michel Martens    Time-based One-Time Passwords: https://t.co/EEEkWLe7nm
+2014-07-29 19:11:43 +0000    @soveran    Michel Martens    RT @antirez: Good news, my talk was accepted for NoSQL matters Barcelona 2014, it is a technical talk about Redis Cluster design / tradeoff…
+2014-07-31 17:36:38 +0000    @soveran    Michel Martens    RT @RubyInside: The Ruby Web Benchmark Report: http://t.co/5oLEd7fTLI
+2014-08-05 18:05:06 +0000    @soveran    Michel Martens    Programming COBOL for fun.
+2014-08-09 22:11:14 +0000    @soveran    Michel Martens    A bot that bridges Yo and IRC: https://t.co/3UBMHgCadX
+2014-08-10 13:37:39 +0000    @soveran    Michel Martens    Cuba 3.2.0 released: https://t.co/C2ZQmHZWje
+2014-08-23 09:48:39 +0000    @soveran    Michel Martens    Encode strings with the Redis protocol with resp.lua: https://t.co/gDUNn6RliO
+2014-08-28 11:17:03 +0000    @soveran    Michel Martens    RT @cperciva: I just released spiped 1.4.0, now with automatic support for AESNI instructions: http://t.co/0pvJByV1fV http://t.co/JNXBpnsZWs
+2014-09-18 17:48:55 +0000    @soveran    Michel Martens    Reinterpretations by Vincent van Gogh: http://t.co/qas6xtQBHb
+2014-09-18 17:50:45 +0000    @soveran    Michel Martens    Vincent van Gogh allegedly shot himself, though the gun was never found.
+2014-09-18 18:05:23 +0000    @soveran    Michel Martens    Lomo filter (https://t.co/INufTfx5HB) ported to elisp: http://t.co/h1kPJYI1lv
+2014-09-29 12:29:25 +0000    @soveran    Michel Martens    Sant Andreu Jazz Band, Easy Money: https://t.co/ZnIhXzwvK3
+2014-10-04 14:24:06 +0000    @soveran    Michel Martens    Leaving London after a great meetup with Redis developers. Looking forward for more events like this one.
+2014-10-05 11:04:04 +0000    @soveran    Michel Martens    Forgot to visit this while in London: http://t.co/HJWZpzXiIk
+2014-10-06 09:57:04 +0000    @soveran    Michel Martens    RT @antirez: During the Redis dev meeting we identified features that need to be prioritized. This issue lists all them: https://t.co/nJ1Fh…
+2014-10-09 15:00:10 +0000    @soveran    Michel Martens    RT @antirez: Redis Cluster: no longer vaporware (blog post) =&gt; http://t.co/3kJNB2OXwb (spoiler, Redis 3.0.0 RC1 is out!)
+2014-10-09 16:13:44 +0000    @soveran    Michel Martens    Follow this tutorial if you want to check Redis Cluster: http://t.co/1pjwv0QL9J
+2014-10-20 16:56:59 +0000    @soveran    Michel Martens    RT @maccaw: I choose my Redis provider by sending emails to the top 4 companies. First response won - @openredis
+2014-10-22 09:47:49 +0000    @soveran    Michel Martens    It's infuriating how some people appeal to authority by linking to papers that have nothing to do with the issue at hand.
+2014-10-27 11:57:38 +0000    @soveran    Michel Martens    RT @antirez: Diskless replication implementation is now complete. If you want to test it... check out the "diskless" branch. https://t.co/F…
+2014-10-27 19:48:45 +0000    @soveran    Michel Martens    Some links related to minimalism in programming: http://t.co/fDhKjXafgM
+2014-10-30 20:31:51 +0000    @soveran    Michel Martens    RT @poteland: I'm just going to leave this here #Redis #Ohm #Golang : http://t.co/bgAnh85mOv
+2014-10-31 08:54:03 +0000    @soveran    Michel Martens    RT @antirez: New blog post: "this is why I can't have conversations on Twitter" =&gt; http://t.co/IAuOIb6MQX
+2014-11-21 17:33:01 +0000    @soveran    Michel Martens    RT @rubyrogues: New @rubyrogues Episode 183: Keeping Libraries Small &amp; Simple with Michel Martens http://t.co/XetXXECNjO cc/ @soveran
+2014-11-22 12:34:42 +0000    @soveran    Michel Martens    RT @pchapuis: Interesting debate: http://t.co/hxLDrgKi9q @avdi's point makes sense, but I'm with @soveran on this. I may write a blog post …
+2014-11-23 09:05:31 +0000    @soveran    Michel Martens    "Vincent van Gogh — The Letters" is probably the best story I have ever read: http://t.co/BtQIUaWAnI
+2014-11-24 09:17:02 +0000    @soveran    Michel Martens    RT @pchapuis: Just blogged: "Lean tools" http://t.co/NJhz5AM6P3 cc. @soveran @avdi
+2014-11-26 23:56:22 +0000    @soveran    Michel Martens    Sanjoy Mahajan on intuition and insight in mathematics: https://t.co/gUvvkxEAFK
+2014-11-27 23:18:35 +0000    @soveran    Michel Martens    "Im problem solving, as in street fighting, rules are for fools" http://t.co/BsjkaKbeeR
+2014-12-14 00:11:12 +0000    @soveran    Michel Martens    RT @antirez: Redis Change Proposals (RCPs) official repository -&gt; https://t.co/4xcpMoFiyG
+2014-12-16 08:13:48 +0000    @soveran    Michel Martens    Small update to the Redis client resp.lua to make it compatible with Lua 5.3.0: https://t.co/rXk0SAf4Za
+2014-12-20 17:24:32 +0000    @soveran    Michel Martens    RT @moonbeamlabs: .@13abylon and me are working on our first Cuba.is web app :) Good whiskey and sushi is helping us along the way :D
+2014-12-30 10:41:06 +0000    @soveran    Michel Martens    Excellent article about the problems with object oriented programming: http://t.co/4m5GWP4JdU
+2015-01-07 17:20:51 +0000    @soveran    Michel Martens    Remove files by inode number: https://t.co/wjTWyDyhNo
+2015-01-08 12:43:47 +0000    @soveran    Michel Martens    RT @_solnic_: I’m immediately in love with this small auth library. The “Why” section in README is short and fantastic: http://t.co/EHLAayV…
+2015-01-12 16:54:46 +0000    @soveran    Michel Martens    "The Future of Computing", by Leslie Lamport: https://t.co/pTwIItn54b
+2015-01-17 09:28:06 +0000    @soveran    Michel Martens    If you use #RSpec and #Ohm, take a look at these matchers created by @jc00ke: https://t.co/MtoDPjngpt
+2015-01-24 17:32:42 +0000    @soveran    Michel Martens    RT @antirez: More tests, more real! #disque http://t.co/RSO33vmJWS
+2015-01-27 07:00:03 +0000    @soveran    Michel Martens    Simple User Authentication With Cuba, by @andy4thehuynh: http://t.co/qzkh6B6DWz
+2015-01-27 08:41:03 +0000    @soveran    Michel Martens    A short description of Redic, a lightweight Redis client for Ruby: http://t.co/ujqoPSJkIv
+2015-01-27 08:49:47 +0000    @soveran    Michel Martens    The opportunity cost of strict ordering in distributed message queues: https://t.co/DlBtudFqkP
+2015-01-27 08:54:42 +0000    @soveran    Michel Martens    Selecting the right tradeoff is at the core of conceptual integrity.
+2015-01-27 10:35:42 +0000    @soveran    Michel Martens    RT @antirez: redis-trib will likely end embedding a copy of redic for predictability / dependencies issues: http://t.co/OWkT2wKHIe
+2015-01-29 10:23:55 +0000    @soveran    Michel Martens    RT @antirez: New blog post: “Why we don’t have benchmarks comparing Redis with other DBs” -&gt; http://t.co/2ONPpq5rMI
+2015-01-29 12:11:08 +0000    @soveran    Michel Martens    RT @antirez: A big thank you to all the Redis library clients developers: an impressive amount of often unpaid work we all benefit from.
+2015-02-03 01:04:19 +0000    @rubyargentina    Ruby Argentina    RT @laplatarb: Aaaaaatennnncióóóónnn!!! Nos juntamos el próximo Jueves 12/02 a las 19hs en el hall de la facultad de informática de la UNLP…
+2015-02-03 15:13:45 +0000    @soveran    Michel Martens    Finist, a Redis based finite state machine: https://t.co/SKGw0n8yzS
+2015-02-03 15:17:36 +0000    @soveran    Michel Martens    In Finist, available transitions and current state are stored in Redis, not in the code. There's also a Lua version: https://t.co/llBVObnGx6
+2015-02-03 21:59:04 +0000    @soveran    Michel Martens    Finist ported to Rust by @badboy_: https://t.co/uNA2Pt3JmB
+2015-02-04 16:19:27 +0000    @soveran    Michel Martens    Stal, a set algebra solver for Redis: https://t.co/mL2KzhGAy0
+2015-02-12 17:30:13 +0000    @soveran    Michel Martens    RT @keyist: some industry programmers view programming languages as nothing more than a delivery mechanism for libraries they won't have to…
+2015-02-13 17:30:22 +0000    @soveran    Michel Martens    RT @tiodante: Just released v0.10 of chibi-shen (Shen on top of chibi-scheme): https://t.co/iNyD9idPuJ
+2015-02-15 12:44:18 +0000    @soveran    Michel Martens    RT @markuman: tinywebdis - a lean replacement for webdis using luadyad https://t.co/2azzzG3vdL #lualang #redis
+2015-02-17 23:22:03 +0000    @soveran    Michel Martens    In the article "Life Beyond Rails", @aspleenic reviews the Cuba microframework and other web related libraries: https://t.co/f9qrpefaUm
+2015-02-17 23:26:54 +0000    @soveran    Michel Martens    A big thank you to @frodsan and @maynkj for the great work they are doing with "The Guide to Cuba": http://t.co/RWDP79Qcb4
+2015-02-20 17:14:30 +0000    @soveran    Michel Martens    RT @badboy_: So to have Rails-style flash/notice messages across request, all it takes is 2 lines of code in Cuba. No magic, no indirection.
+2015-02-21 12:25:05 +0000    @soveran    Michel Martens    RT @moonbeamlabs: This is great news for Cuba :)
+http://t.co/oogAHBOscj
+2015-02-24 16:24:14 +0000    @soveran    Michel Martens    RT @antirez: Missing just persistence and a few other minor things for Disque first alpha release. Cool kids will soon have a new thing to …
+2015-02-26 13:12:51 +0000    @soveran    Michel Martens    RT @antirez: New blog post. “Side projects”. http://t.co/0BKd9TgFak
+2015-02-26 15:26:16 +0000    @soveran    Michel Martens    RT @antirez: For the Redis bday @djanowski provided an *incredible* present to the Redis community, a renewed Redis site! http://t.co/VlvFL…
+2015-03-03 20:47:03 +0000    @soveran    Michel Martens    RT @poteland: If you’re using Redis and have a distributed system: save yourself some pain and use it for inter-app communication, it’s the…
+2015-03-04 09:05:22 +0000    @soveran    Michel Martens    Ohm 2.2.0 released. It now uses Stal for its set operations: http://t.co/dJyookUGgp
+2015-03-04 11:38:52 +0000    @soveran    Michel Martens    RT @cyx: Just released ohm-contrib 2.2.0 a.k.a Stal is awesome: https://t.co/RdUJlLPaXD
+2015-03-05 16:47:29 +0000    @soveran    Michel Martens    RT @djanowski: Because we know the community needs it, @soveran and I are now offering commercial support for Redis: http://t.co/QDshCgxwPQ
+2015-03-05 16:47:40 +0000    @soveran    Michel Martens    RT @poteland: I don’t know anyone more knowledgable about Redis than @djanowski and @soveran , if your company depends on Redis you should …
+2015-03-05 17:18:42 +0000    @soveran    Michel Martens    RT @moonbeamlabs: Two awesome people and Redis experts are doing Redis consulting now: @soveran and @djanowski :)
+Redis Problem? =&gt; http://…
+2015-03-05 17:33:32 +0000    @soveran    Michel Martens    RT @pchapuis: If you need professional help with your Redis deployment, this is who you should talk to: http://t.co/wMnQS0Zz8D
+2015-03-06 15:10:15 +0000    @soveran    Michel Martens    A small U2F demo application by @badboy_: http://t.co/rYHZJt2XJE
+2015-03-07 08:42:14 +0000    @soveran    Michel Martens    About MyoType and the ideas that inspired its creation, by @etiene_d: http://t.co/D4dsAzbblv
+2015-03-07 18:30:26 +0000    @soveran    Michel Martens    RT @djanowski: Got a simple board to start learning Atari Go with my kid. @soveran be prepared to give support... http://t.co/8CGKwrmHBs
+2015-03-09 18:04:51 +0000    @soveran    Michel Martens    In the thread "Favorite Ruby libraries under 100 lines", I listed a few that I think may be worth reading (and why): http://t.co/zXipXhz5H3
+2015-03-11 22:11:41 +0000    @soveran    Michel Martens    Cuba 3.4.0 released with new security features: https://t.co/QgJXwurYhP
+2015-03-18 15:40:58 +0000    @soveran    Michel Martens    Scrivener is a validation frontend for models, and version 1.0.0 was just released: https://t.co/1FKCONQost
+2015-03-23 07:38:19 +0000    @soveran    Michel Martens    Step by step guide for writing a template engine in less than 30 lines of code: http://t.co/WTcRZ3REdd
+2015-03-23 13:48:23 +0000    @soveran    Michel Martens    Nest 2.0.0 released: https://t.co/905fhd3TEd
+2015-03-23 15:47:24 +0000    @soveran    Michel Martens    A very basic static site generator: https://t.co/BCO2kjyKcL
+2015-03-25 12:53:12 +0000    @soveran    Michel Martens    Added a list of companies using Cuba for building web applications: https://t.co/Tq16zBxAGj
+2015-03-25 13:48:03 +0000    @soveran    Michel Martens    If you have a web application developed with Cuba, feel free to add it to the list: https://t.co/Tq16zBxAGj
+2015-03-25 14:09:37 +0000    @soveran    Michel Martens    Mechanical Sympathy: http://t.co/WUuJdoSNM4
+2015-03-25 21:00:05 +0000    @soveran    Michel Martens    RT @poteland: Not very many things keep making me like Ruby, Cuba is one of them.
+
+http://t.co/idswv6sa4E
+2015-04-06 07:37:06 +0000    @soveran    Michel Martens    RT @seppo0010: I finished porting Ohm to Objective-C. I want to improve it now to make it more convenient for the platform.
+2015-04-07 07:32:50 +0000    @soveran    Michel Martens    Sample pages from m4s2, the m4-based static site generator: http://t.co/PAY8sa6P0c
+2015-04-07 10:41:32 +0000    @soveran    Michel Martens    RT @ephoz: Small #ruby gems instead of huge frameworks is a good trend IMHO: http://t.co/cTQA7JfwXr and https://t.co/3Su1Kbwn62
+2015-04-08 06:44:12 +0000    @soveran    Michel Martens    I went to @parisrb yesterday night. More than 150 people, many presentations and even food! Great organization by @tibastral and @abelar_s.
+2015-04-09 13:33:07 +0000    @soveran    Michel Martens    RT @djanowski: On software popularity.
+https://t.co/iMVXQJ0kyl
+2015-04-09 14:34:31 +0000    @soveran    Michel Martens    RT @badboy_: "Popularity is the best trait for becoming more popular." – On software popularity: http://t.co/KS47Xik9R1 (by @soveran)
+2015-04-10 18:49:34 +0000    @soveran    Michel Martens    RT @djanowski: Follow up on the software popularity thread. The CTO is happy with having chosen a less popular tool.
+https://t.co/Fi8wL7bHhJ
+2015-04-13 13:19:39 +0000    @soveran    Michel Martens    Data modeling with Redis and Ohm: http://t.co/aHmIvoeEcW
+2015-04-14 11:52:27 +0000    @soveran    Michel Martens    Advantages of currying and partial application: http://t.co/1I19U5g5W2
+2015-04-16 23:26:33 +0000    @soveran    Michel Martens    RT @tonchis_: If you're starting with the Cuba library, I wrote a couple of tips for you here http://t.co/uf6TQ0JPJJ
+2015-04-22 11:27:59 +0000    @soveran    Michel Martens    Your browser can stream video peer-to-peer, but it can't send requests other than GET and POST without some JS incantations.
+2015-04-23 11:35:17 +0000    @soveran    Michel Martens    Working on an experimental new routing library.
+2015-04-23 12:18:11 +0000    @soveran    Michel Martens    First component of the routing library is out: https://t.co/76Qra5vqoS
+2015-04-23 12:19:22 +0000    @soveran    Michel Martens    Seg is a tool for matching and consuming segments in a path. Code and doumentation here: https://t.co/HBqctGR9xE
+2015-04-23 12:33:21 +0000    @soveran    Michel Martens    Syro is a very simple router for web applications. It was created in the tradition of libraries like Rum and Cuba: https://t.co/gEoInDKIuK
+2015-04-23 13:04:01 +0000    @soveran    Michel Martens    It's very likely that whatever works great in Syro will be incoporated in Cuba.
+2015-04-23 13:05:18 +0000    @soveran    Michel Martens    Syro doesn't use regular expressions for matching the path. That provides a huge boost in performance.
+2015-04-23 14:45:00 +0000    @soveran    Michel Martens    Some initial benchmarks of Syro: https://t.co/t83VRU8gG8
+2015-04-27 09:42:05 +0000    @soveran    Michel Martens    Example of something I hate in programming: https://t.co/81BrEXA7vS
+2015-04-27 17:22:29 +0000    @soveran    Michel Martens    Disque is out, if you use job queues you have to check it out: https://t.co/58ehhxbAaj
+2015-04-27 17:24:34 +0000    @soveran    Michel Martens    If you want to play with Disque, you can use the Ruby client already: https://t.co/IfpakogcqL
+2015-04-28 11:53:23 +0000    @soveran    Michel Martens    If you want help with Disque, you can jump on IRC and join #disque on freenode.
+2015-04-28 17:19:08 +0000    @soveran    Michel Martens    RT @microspino: @tommasomatic look at the code @soveran @cyx @poteland have on their repos: this is truly #lesscode ! BTW they are also on …
+2015-04-28 21:28:21 +0000    @soveran    Michel Martens    An article about Mote translated to Chinese: https://t.co/T6umIZAc6W
+2015-04-29 12:12:48 +0000    @soveran    Michel Martens    New release of Syro with the concept of custom Decks: https://t.co/rQSM4YeqeS
+2015-04-30 08:58:59 +0000    @soveran    Michel Martens    First day in Berlin, visiting the lovely Bauhaus-Archiv right now.
+2015-04-30 17:45:02 +0000    @soveran    Michel Martens    RT @djanowski: If you’re looking to play with Disque from Node/iojs, I just released disque.js.
+https://t.co/uhTOtS7mej
+2015-05-13 14:38:00 +0000    @soveran    Michel Martens    New release of disque-rb makes it easier to grab the list of nodes from an environment variable: https://t.co/gMuDAH35Cy
+2015-05-14 16:59:55 +0000    @soveran    Michel Martens    RT @openredis: Our 18gb plan is now available on Heroku: https://t.co/adZQDRE7Ts
+2015-05-14 20:59:09 +0000    @soveran    Michel Martens    RT @JEG2: I’ve made a new video about using less code, actively reading code, and more:  https://t.co/e0B8GzFE1P ($3 off: THETWITTER).
+2015-05-14 21:15:49 +0000    @soveran    Michel Martens    The #lesscode movement has an IRC channel, a subreddit, and it now has a video! Created by @JEG2, it's available at https://t.co/lu2FxWI18R
+2015-05-15 14:39:21 +0000    @soveran    Michel Martens    The result of an in-depth analysis by @JEG2 is a new release of Mote. Check the video if you haven't already: https://t.co/lu2FxWI18R
+2015-05-26 22:17:08 +0000    @soveran    Michel Martens    RT @JEG2: A very thorough description of yagni from @martinfowler that explains why the lesscode movement is so important:  http://t.co/IV2…
+2015-05-28 07:08:58 +0000    @soveran    Michel Martens    RT @godfoca: The more code I see break, the more I value churn as a measure of suckyness. Stable software doesn't change much, ok? …now get…
+2015-06-03 13:14:05 +0000    @soveran    Michel Martens    An obstinate DNS that always resolves to 127.0.0.1: https://t.co/NQQ0CQXW77
+2015-06-08 17:09:06 +0000    @soveran    Michel Martens    Do you want to test Disque on Heroku? I have an addon in alpha stage, so ping me to let me know.
+2015-06-09 09:25:54 +0000    @soveran    Michel Martens    RT @openredis: All our instances have been upgraded to 3.0.2 to address the security issue in previous versions.
+2015-06-10 19:05:27 +0000    @soveran    Michel Martens    RT @djanowski: Just released Twisque, a minimal Buffer clone using Ruby and Disque on Heroku.
+https://t.co/jvWCtmPiuX
+Source code: https://…
+2015-06-13 18:12:39 +0000    @soveran    Michel Martens    RT @badboy_: So today I wrote microstate, a minimal Finite State Machine, inspired by @soveran's micromachine: https://t.co/xEX1HoiU0j #rust
+2015-06-16 12:47:40 +0000    @agpelliza    Agustín Pelliza    "Avoid the temptation to build an application that's shiny on the outside but rotten in the core." —Jeff Casimir
+2015-06-20 03:38:57 +0000    @soveran    Michel Martens    RT @tommasomatic: amazing programming experience with #cuba ecosystem! Learning a lot with a lot #lesscode. Thanks @soveran @cyx!
+2015-06-23 18:32:15 +0000    @soveran    Michel Martens    RT @moonbeamlabs: Second Redis-based Node library in my collection of #lesscode libs: Kute, a tiny Queue – inspired by @soveran’s OST
+https…
+2015-06-30 16:50:10 +0000    @soveran    Michel Martens    Disque Hosting on Heroku is now on Beta: https://t.co/HhxLzG1PRG
